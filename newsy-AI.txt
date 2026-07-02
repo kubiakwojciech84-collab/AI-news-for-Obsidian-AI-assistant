@@ -1,2 +1,11 @@
-Test — 02.07.2026
-1. test
+02.07.2026
+
+1. OpenAI zamknęło rundę finansowania o wartości 122 mld USD przy wycenie post-money 852 mld USD — to największa prywatna runda VC w historii. Współliderami byli SoftBank, a16z, D.E. Shaw Ventures, MGX i TPG, a wśród inwestorów strategicznych znaleźli się Amazon, NVIDIA i Microsoft; po raz pierwszy dopuszczono też inwestorów indywidualnych przez kanały bankowe.
+
+2. Anthropic przywróciło globalny dostęp do modeli Claude Fable 5 i Mythos 5 po 19-dniowym zawieszeniu nałożonym przez amerykański rząd z powodu luki bezpieczeństwa (jailbreak umożliwiający wykrywanie podatności w oprogramowaniu). Firma przetrenowała klasyfikator bezpieczeństwa, blokując zgłoszoną technikę w ponad 99% przypadków.
+
+3. UBTECH zaprezentowało UWORLD U1 — określanego jako pierwszy na świecie masowo produkowany, pełnowymiarowy humanoidalny robot klasy "ultra-bionic" — podczas globalnej premiery 2026 w Shenzhen.
+
+4. Rozpoczyna się przygotowanie do Globalnego Dialogu ONZ ws. Zarządzania AI w Genewie (start 6 lipca): eksperci ostrzegają, że regulacje dotyczące bezpiecznego wykorzystania AI nie nadążają za tempem rozwoju możliwości modeli.
+
+5. Mistral AI wypuściło Mistral OCR 4 z obsługą ramek ograniczających (bounding boxes), klasyfikacją bloków tekstu, wskaźnikami pewności i wsparciem dla 170 języków; usługa dostępna lokalnie (self-hosting) oraz przez API w cenie 4 USD za 1000 stron (2 USD w trybie batch).
