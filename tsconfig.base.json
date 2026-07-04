@@ -26,7 +26,9 @@
       "@nova/networking": ["packages/networking/src"],
       "@nova/networking/*": ["packages/networking/src/*"],
       "@nova/ai": ["packages/ai/src"],
-      "@nova/ai/*": ["packages/ai/src/*"]
+      "@nova/ai/*": ["packages/ai/src/*"],
+      "@nova/game-obby": ["games/obby/src"],
+      "@nova/game-shooter-fps": ["games/shooter-fps/src"]
     }
   }
 }
