@@ -7,16 +7,16 @@ interface SceneTreeProps {
   onDelete: (id: string) => void;
 }
 
-function TreeItem({ node, depth, selectedId, onSelect, onDelete }: SceneTreeProps & { depth: number }) {
+function TreeItem({ root, depth, selectedId, onSelect, onDelete }: SceneTreeProps & { depth: number }) {
   return (
     <div>
       <div
-        onClick={() => onSelect(node.id)}
+        onClick={() => onSelect(root.id)}
         style={{
           paddingLeft: depth * 14 + 8,
           padding: "0.25rem 0.5rem",
           cursor: "pointer",
-          background: selectedId === node.id ? "var(--accent)" : "transparent",
+          background: selectedId === root.id ? "var(--accent)" : "transparent",
           borderRadius: 4,
           display: "flex",
           justifyContent: "space-between",
@@ -25,22 +25,22 @@ function TreeItem({ node, depth, selectedId, onSelect, onDelete }: SceneTreeProp
         }}
       >
         <span>
-          {iconFor(node.type)} {node.name}
+          {iconFor(root.type)} {root.name}
         </span>
-        {node.id !== "root" && (
+        {root.id !== "root" && (
           <button
             className="btn danger"
             style={{ padding: "0 0.4rem", fontSize: "0.7rem" }}
             onClick={(e) => {
               e.stopPropagation();
-              onDelete(node.id);
+              onDelete(root.id);
             }}
           >
             x
           </button>
         )}
       </div>
-      {node.children.map((child) => (
+      {root.children.map((child: SceneNode) => (
         <TreeItem key={child.id} root={child} selectedId={selectedId} onSelect={onSelect} onDelete={onDelete} depth={depth + 1} />
       ))}
     </div>

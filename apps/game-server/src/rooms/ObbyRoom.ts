@@ -45,8 +45,8 @@ export class ObbyRoom extends BaseGameRoom {
       if (!player || this.finished.has(sessionId)) continue;
 
       for (const checkpoint of this.checkpoints) {
-        const [px, , pz] = body.position;
-        const dist = Math.hypot(px - checkpoint.x, pz - checkpoint.z);
+        const [px, py, pz] = body.position;
+        const dist = Math.hypot(px - checkpoint.x, py - checkpoint.y, pz - checkpoint.z);
         if (dist < CHECKPOINT_RADIUS && checkpoint.index > player.lastCheckpoint) {
           player.lastCheckpoint = checkpoint.index;
           this.lastCheckpointPos.set(sessionId, [checkpoint.x, checkpoint.y, checkpoint.z]);

@@ -3,7 +3,7 @@ import * as THREE from "three";
 import { GameEngine, buildScene, ThirdPersonCamera, FirstPersonCamera } from "@nova/engine3d";
 import { GameClient, GameRoomState, PlayerState } from "@nova/networking";
 import { ClientMessage, ServerMessage, GameGenre, GameScene, ROOM_NAMES, RoomName } from "@nova/shared";
-import { getStateCallbacks, type Room } from "colyseus.js";
+import type { Room } from "colyseus.js";
 import { GAME_SERVER_URL } from "../api/client";
 import { useAuth } from "../auth/AuthContext";
 
@@ -73,7 +73,6 @@ export function GameCanvas({ gameId, slug, genre, scene, onEvent }: GameCanvasPr
         onEvent(`${payload.username} osiagnal checkpoint ${payload.index}`);
       });
 
-      const $ = getStateCallbacks(room);
       const syncPlayersList = () => {
         const list: Array<{ id: string; username: string; isBot: boolean; score: number; health: number }> = [];
         room!.state.players.forEach((p: PlayerState, id: string) => {
@@ -82,22 +81,22 @@ export function GameCanvas({ gameId, slug, genre, scene, onEvent }: GameCanvasPr
         setPlayers(list);
       };
 
-      $(room.state).players.onAdd((player: PlayerState, sessionId: string) => {
+      room.state.players.onAdd((player: PlayerState, sessionId: string) => {
         if (sessionId !== selfSessionId) {
           const mesh = makePlayerMesh(player.isBot, false);
           engine.scene.add(mesh);
           remoteMeshes.set(sessionId, mesh);
         }
-        $(player).onChange(() => {
-          if (sessionId === selfSessionId) {
-            setHealth(player.health);
-            setCheckpointIdx(player.lastCheckpoint);
-          }
-          syncPlayersList();
-        });
         syncPlayersList();
       });
-      $(room.state).players.onRemove((_player: PlayerState, sessionId: string) => {
+      room.state.players.onChange((player: PlayerState, sessionId: string) => {
+        if (sessionId === selfSessionId) {
+          setHealth(player.health);
+          setCheckpointIdx(player.lastCheckpoint);
+        }
+        syncPlayersList();
+      });
+      room.state.players.onRemove((_player: PlayerState, sessionId: string) => {
         const mesh = remoteMeshes.get(sessionId);
         if (mesh) engine.scene.remove(mesh);
         remoteMeshes.delete(sessionId);

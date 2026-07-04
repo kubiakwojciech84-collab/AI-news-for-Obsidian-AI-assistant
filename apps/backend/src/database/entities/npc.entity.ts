@@ -14,7 +14,7 @@ export class NpcEntity {
   @Column("text")
   persona!: string;
 
-  @Column({ nullable: true })
+  @Column({ type: "varchar", nullable: true })
   questId!: string | null;
 
   @Column({ default: "root" })

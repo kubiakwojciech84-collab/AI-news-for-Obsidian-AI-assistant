@@ -15,4 +15,4 @@ COPY --from=build /repo/apps/game-server/dist ./dist
 COPY --from=build /repo/apps/game-server/package.json ./package.json
 COPY --from=build /repo/node_modules ./node_modules
 EXPOSE 2567
-CMD ["node", "dist/index.js"]
+CMD ["node", "dist/apps/game-server/src/index.js"]

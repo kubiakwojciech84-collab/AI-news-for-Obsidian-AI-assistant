@@ -17,4 +17,4 @@ COPY --from=build /repo/node_modules ./node_modules
 RUN mkdir -p ./uploads
 VOLUME ["/app/uploads"]
 EXPOSE 4000
-CMD ["node", "dist/main.js"]
+CMD ["node", "dist/apps/backend/src/main.js"]

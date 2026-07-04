@@ -4,7 +4,9 @@ import { ModerationApi } from "../api/endpoints";
 export function ModeratorPanelPage() {
   const [reports, setReports] = useState<any[]>([]);
 
-  const reload = () => ModerationApi.listOpen().then(setReports);
+  const reload = () => {
+    ModerationApi.listOpen().then(setReports);
+  };
   useEffect(reload, []);
 
   return (

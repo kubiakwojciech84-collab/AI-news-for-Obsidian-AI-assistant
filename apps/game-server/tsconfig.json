@@ -2,9 +2,10 @@
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
     "outDir": "dist",
-    "rootDir": "src",
     "module": "CommonJS",
     "useDefineForClassFields": false
   },
-  "include": ["src"]
+  "include": [
+    "src"
+  ]
 }

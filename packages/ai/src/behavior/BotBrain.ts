@@ -143,7 +143,7 @@ export class BotBrain {
               reachedWaypoint = true;
             }
           }
-          const avoided = avoidObstacles(bb, toWaypoint.x, toWaypoint.z, bb.obstacles);
+          const avoided = avoidObstacles({ x: bb.selfX, y: 0, z: bb.selfZ }, toWaypoint.x, toWaypoint.z, bb.obstacles);
           moveDirX = avoided.x;
           moveDirZ = avoided.z;
           yaw = Math.atan2(moveDirX, moveDirZ);
@@ -151,7 +151,7 @@ export class BotBrain {
       } else if (this.state === BotState.ATTACK) {
         yaw = toTarget.yaw;
       } else {
-        const avoided = avoidObstacles(bb, toTarget.x, toTarget.z, bb.obstacles);
+        const avoided = avoidObstacles({ x: bb.selfX, y: 0, z: bb.selfZ }, toTarget.x, toTarget.z, bb.obstacles);
         moveDirX = avoided.x;
         moveDirZ = avoided.z;
         yaw = toTarget.yaw;

@@ -3,10 +3,11 @@
   "compilerOptions": {
     "module": "CommonJS",
     "outDir": "dist",
-    "rootDir": "src",
     "target": "ES2021",
     "useDefineForClassFields": false,
     "strictPropertyInitialization": false
   },
-  "include": ["src"]
+  "include": [
+    "src"
+  ]
 }

@@ -2,10 +2,10 @@
   "name": "@nova/game-server",
   "version": "0.1.0",
   "private": true,
-  "main": "dist/index.js",
+  "main": "dist/apps/game-server/src/index.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "start": "node dist/index.js",
+    "start": "node dist/apps/game-server/src/index.js",
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
   },
   "dependencies": {

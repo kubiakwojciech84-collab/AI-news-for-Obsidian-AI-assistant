@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "build": "nest build",
-    "start": "node dist/main.js",
-    "start:dev": "nest start --watch",
+    "start": "node dist/apps/backend/src/main.js",
+    "start:dev": "ts-node-dev --respawn --transpile-only src/main.ts",
     "lint": "echo \"(lint skipped in scaffold)\""
   },
   "dependencies": {
@@ -45,6 +45,7 @@
     "@types/uuid": "^9.0.8",
     "@types/multer": "^1.4.11",
     "typescript": "^5.4.5",
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0"
   }
 }

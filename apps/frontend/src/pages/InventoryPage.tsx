@@ -5,7 +5,9 @@ import { ShopApi } from "../api/endpoints";
 export function InventoryPage() {
   const [entries, setEntries] = useState<InventoryEntry[]>([]);
 
-  const reload = () => ShopApi.inventory().then(setEntries);
+  const reload = () => {
+    ShopApi.inventory().then(setEntries);
+  };
   useEffect(reload, []);
 
   return (

@@ -33,7 +33,7 @@ export class ReportEntity {
   @Column({ type: "enum", enum: ReportStatus, default: ReportStatus.OPEN })
   status!: ReportStatus;
 
-  @Column({ nullable: true })
+  @Column({ type: "varchar", nullable: true })
   resolvedByUserId!: string | null;
 
   @Column({ default: "" })

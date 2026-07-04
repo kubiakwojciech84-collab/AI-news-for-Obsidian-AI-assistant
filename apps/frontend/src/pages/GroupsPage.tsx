@@ -7,7 +7,9 @@ export function GroupsPage() {
   const [name, setName] = useState("");
   const [description, setDescription] = useState("");
 
-  const reload = () => GroupsApi.list().then(setGroups);
+  const reload = () => {
+    GroupsApi.list().then(setGroups);
+  };
   useEffect(reload, []);
 
   const createGroup = async (e: FormEvent) => {

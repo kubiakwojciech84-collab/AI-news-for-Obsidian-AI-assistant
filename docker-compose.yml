@@ -1,0 +1,86 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: nova
+      POSTGRES_PASSWORD: nova
+      POSTGRES_DB: nova_worlds
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U nova"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build:
+      context: .
+      dockerfile: apps/backend/Dockerfile
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      NODE_ENV: production
+      PORT: 4000
+      DATABASE_HOST: postgres
+      DATABASE_PORT: 5432
+      DATABASE_USER: nova
+      DATABASE_PASSWORD: nova
+      DATABASE_NAME: nova_worlds
+      JWT_SECRET: change-me-in-production
+      JWT_EXPIRES_IN: 2h
+      CORS_ORIGINS: http://localhost:5173,http://localhost:5174
+      INTERNAL_API_KEY: dev-internal-key-change-me
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      ANTHROPIC_MODEL: claude-sonnet-5
+    ports:
+      - "4000:4000"
+    volumes:
+      - backend-uploads:/app/uploads
+
+  game-server:
+    build:
+      context: .
+      dockerfile: apps/game-server/Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - backend
+    environment:
+      PORT: 2567
+      BACKEND_URL: http://backend:4000/api
+      JWT_SECRET: change-me-in-production
+      INTERNAL_API_KEY: dev-internal-key-change-me
+    ports:
+      - "2567:2567"
+
+  frontend:
+    build:
+      context: .
+      dockerfile: apps/frontend/Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - backend
+      - game-server
+    ports:
+      - "5173:80"
+
+  editor:
+    build:
+      context: .
+      dockerfile: apps/editor/Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "5174:80"
+
+volumes:
+  postgres-data:
+  backend-uploads:

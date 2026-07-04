@@ -2,10 +2,15 @@
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
     "outDir": "dist",
-    "rootDir": "src",
     "module": "ESNext",
     "target": "ES2021",
-    "lib": ["ES2021", "DOM", "DOM.Iterable"]
+    "lib": [
+      "ES2021",
+      "DOM",
+      "DOM.Iterable"
+    ]
   },
-  "include": ["src"]
+  "include": [
+    "src"
+  ]
 }
