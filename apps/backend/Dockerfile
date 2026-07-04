@@ -14,5 +14,7 @@ ENV NODE_ENV=production
 COPY --from=build /repo/apps/backend/dist ./dist
 COPY --from=build /repo/apps/backend/package.json ./package.json
 COPY --from=build /repo/node_modules ./node_modules
+RUN mkdir -p ./uploads
+VOLUME ["/app/uploads"]
 EXPOSE 4000
 CMD ["node", "dist/main.js"]

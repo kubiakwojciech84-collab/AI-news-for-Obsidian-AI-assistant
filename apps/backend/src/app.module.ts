@@ -13,6 +13,7 @@ import { ChatModule } from "./chat/chat.module";
 import { AdminModule } from "./admin/admin.module";
 import { ModerationModule } from "./moderation/moderation.module";
 import { NpcModule } from "./npc/npc.module";
+import { UploadsModule } from "./uploads/uploads.module";
 import { SeedModule } from "./seed/seed.module";
 
 @Module({
@@ -30,6 +31,7 @@ import { SeedModule } from "./seed/seed.module";
     AdminModule,
     ModerationModule,
     NpcModule,
+    UploadsModule,
     SeedModule,
   ],
 })
