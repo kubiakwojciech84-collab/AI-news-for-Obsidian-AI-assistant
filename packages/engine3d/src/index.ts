@@ -1,0 +1,12 @@
+export { GameEngine } from "./core/GameEngine";
+export type { GameEngineOptions, UpdateCallback } from "./core/GameEngine";
+export { InputManager } from "./input/InputManager";
+export type { PointerDelta } from "./input/InputManager";
+export { buildScene } from "./scene/SceneBuilder";
+export type { BuiltScene, BuiltNode } from "./scene/SceneBuilder";
+export { ThirdPersonCamera, FirstPersonCamera } from "./controllers/ThirdPersonCamera";
+export { CharacterController } from "./controllers/CharacterController";
+export type { CharacterControllerOptions } from "./controllers/CharacterController";
+export { compileScript, ScriptInstance, EXAMPLE_SCRIPT } from "./scripting/ScriptRuntime";
+export type { ScriptApi, CompiledScript } from "./scripting/ScriptRuntime";
+export * as THREE from "three";

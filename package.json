@@ -1,0 +1,27 @@
+{
+  "name": "nova-worlds-platform",
+  "version": "0.1.0",
+  "private": true,
+  "description": "NovaWorlds - an open, self-hostable platform for building and playing multiplayer 3D games in the browser (Roblox-like).",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces --if-present",
+    "lint": "npm run lint --workspaces --if-present",
+    "dev:backend": "npm run start:dev --workspace apps/backend",
+    "dev:frontend": "npm run dev --workspace apps/frontend",
+    "dev:editor": "npm run dev --workspace apps/editor",
+    "dev:game-server": "npm run dev --workspace apps/game-server",
+    "dev": "concurrently -n backend,frontend,editor,game-server -c blue,green,magenta,yellow \"npm:dev:backend\" \"npm:dev:frontend\" \"npm:dev:editor\" \"npm:dev:game-server\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "typescript": "^5.4.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}
