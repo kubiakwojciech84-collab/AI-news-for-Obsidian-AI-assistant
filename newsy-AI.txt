@@ -1,3 +1,17 @@
+## 04.07.2026
+
+1. OpenAI i Broadcom zaprezentowały Jalapeño — pierwszy własny układ scalony OpenAI, zaprojektowany specjalnie do wnioskowania (inference) modeli językowych i opracowany w rekordowym dziewięciomiesięcznym cyklu; ma oferować nawet o 50% tańsze wnioskowanie niż układy Nvidii, z wdrożeniem planowanym do końca 2026 roku.
+
+2. Google DeepMind traci czołowych badaczy na rzecz konkurencji — współtwórca modeli Gemini Noam Shazeer odchodzi do OpenAI, a lider projektu AlphaFold John Jumper do Anthropic. Fala odejść (cztery kluczowe osoby w sześć dni) wywołała gwałtowną reakcję rynku i przecenę akcji spółki-matki Alphabet.
+
+3. Nvidia zaprezentowała RTX Spark — nowy "superchip" do komputerów z Windows oferujący do 1 petaflopa mocy obliczeniowej AI i 128 GB pamięci ujednoliconej z myślą o lokalnych agentach AI; premiera jesienią 2026 w laptopach i desktopach Dell, HP i Lenovo.
+
+4. ONZ i Międzynarodowy Związek Telekomunikacyjny (ITU) powołały Globalną Komisję "AI for Good", współprzewodniczoną przez szefa Salesforce Marca Benioffa i prezydenta Rwandy Paula Kagame; wśród członków są szefowie Nvidii, Amazona i Microsoftu oraz współzałożyciel Anthropic Jack Clark, a pierwsze posiedzenie zaplanowano na 8 lipca w Genewie.
+
+5. Google DeepMind poinformował o rozszerzeniu zastosowań systemu AlphaEvolve (opartego na Gemini) poza matematykę: algorytm pomógł zredukować błędy w sekwencjonowaniu DNA o 30%, dziesięciokrotnie obniżyć błędy obwodów kwantowych procesora Willow oraz jest wykorzystywany do optymalizacji projektów układów TPU nowej generacji.
+
+---
+
 ## 03.07.2026
 
 1. Fundusz MGX z Abu Zabi zamknął rekordową rundę finansowania o wartości 49 mld USD (powyżej celu 45 mld USD) — to jeden z największych funduszy dedykowanych transakcjom w obszarze AI w historii, umacniający pozycję MGX jako jednego z kluczowych inwestorów w sektorze.
