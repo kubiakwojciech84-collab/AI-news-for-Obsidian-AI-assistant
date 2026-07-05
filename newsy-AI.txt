@@ -1,3 +1,17 @@
+## 05.07.2026
+
+1. Claude Sonnet 5 od Anthropic stał się 1 lipca domyślnym modelem dla wszystkich użytkowników planów Free i Pro na świecie; oferuje wydajność zbliżoną do flagowego Opus 4.8, okno kontekstu 1 mln tokenów i promocyjną cenę 2 USD/10 USD za milion tokenów do 31 sierpnia 2026.
+
+2. Elon Musk ogłosił, że Grok 4.5 — oparty na 1,5-bilionowym modelu bazowym V9, dotrenowanym dodatkowo danymi z Cursora pod kątem kodowania — trafił do prywatnej bety w SpaceX i Tesli; według wstępnych, niezależnie niepotwierdzonych ocen jego wydajność zbliża się do Claude Opus lub go przewyższa.
+
+3. Anthropic prowadzi wstępne rozmowy z Samsung Electronics o produkcji własnego układu AI do wnioskowania (m.in. w procesie 2 nm), co ma zmniejszyć zależność firmy od Nvidii; spółka zatrudniła już inżynierów specjalizujących się w projektowaniu krzemowych układów scalonych.
+
+4. Mistral AI zapowiedziało wydanie latem nowego modelu o otwartych wagach z wczesnym dostępem już w lipcu 2026 r.; roczne przychody firmy (ARR) wzrosły w ciągu roku z ok. 20 mln do ponad 400 mln USD.
+
+5. Prezes Nvidii Jensen Huang stwierdził, że warte 30 mld USD zaangażowanie kapitałowe w OpenAI oraz 10 mld USD w Anthropic mogą być "ostatnimi" tego typu inwestycjami przed planowanymi na 2026 rok debiutami giełdowymi obu firm.
+
+---
+
 ## 04.07.2026
 
 1. OpenAI i Broadcom zaprezentowały Jalapeño — pierwszy własny układ scalony OpenAI, zaprojektowany specjalnie do wnioskowania (inference) modeli językowych i opracowany w rekordowym dziewięciomiesięcznym cyklu; ma oferować nawet o 50% tańsze wnioskowanie niż układy Nvidii, z wdrożeniem planowanym do końca 2026 roku.
