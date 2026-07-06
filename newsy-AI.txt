@@ -1,3 +1,17 @@
+## 06.07.2026
+
+1. W Genewie rozpoczął się dziś inauguracyjny Globalny Dialog ONZ ws. Zarządzania AI (6-7 lipca), poprzedzający Światowy Szczyt ITU "AI for Good" (7-10 lipca) oraz pierwsze posiedzenie powołanej niedawno Globalnej Komisji "AI for Good" (8 lipca) — czyniąc ten tydzień kluczowym momentem dla międzynarodowych regulacji sztucznej inteligencji.
+
+2. Tesla wprowadziła od dziś limit 200 USD tygodniowo na wydatki pracowników na narzędzia AI (przekroczenie wymaga zgody menedżera), po tym jak inżynierowie zużywali tysiące dolarów w tokenach miesięcznie; z limitu wyłączono wersje beta produktów xAI Elona Muska, mimo że pracownicy preferują Claude od Anthropic.
+
+3. Chińska firma Z.ai wypuściła GLM-5.2 — otwarty (open-weight, licencja MIT) model oparty na architekturze MoE (744 mld parametrów, 40 mld aktywnych), który na benchmarkach kodowania SWE-bench Pro i FrontierSWE pokonuje GPT-5.5 i zbliża się do Claude Opus 4.8, przy koszcie wnioskowania niższym nawet sześciokrotnie.
+
+4. Microsoft uruchomił nową spółkę zależną "Microsoft Frontier Company" z budżetem 2,5 mld USD i 6000 pracowników (inżynierowie, konsultanci, sprzedawcy), którzy mają być oddelegowywani bezpośrednio do klientów (m.in. Unilever, Novo Nordisk), by pomóc firmom faktycznie wdrażać AI w operacjach, korzystając z modeli Microsoftu, OpenAI, Anthropic i innych dostawców.
+
+5. Biały Dom poprosił OpenAI o opóźnienie wdrożenia nowej rodziny modeli GPT-5.6 (Sol, Terra, Luna) — dwa tygodnie po tym, jak Anthropic musiało czasowo wyłączyć swoje najbardziej zaawansowane modele na żądanie rządu USA — co sygnalizuje nasilający się nadzór federalny nad wydawaniem modeli klasy frontier.
+
+---
+
 ## 05.07.2026
 
 1. Claude Sonnet 5 od Anthropic stał się 1 lipca domyślnym modelem dla wszystkich użytkowników planów Free i Pro na świecie; oferuje wydajność zbliżoną do flagowego Opus 4.8, okno kontekstu 1 mln tokenów i promocyjną cenę 2 USD/10 USD za milion tokenów do 31 sierpnia 2026.
