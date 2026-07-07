@@ -1,3 +1,17 @@
+## 07.07.2026
+
+1. Dziś otworzyło się okno ogólnego dostępu do nowej rodziny modeli OpenAI GPT-5.6 (Sol, Terra, Luna) z cenami odpowiednio 5 USD/30 USD, 2,50 USD/15 USD i 1 USD/6 USD za milion tokenów — mimo wcześniejszej prośby Białego Domu o opóźnienie premiery, co pokazuje rosnące napięcie między firmą a administracją USA wokół nadzoru nad modelami klasy frontier.
+
+2. Anthropic zakończył promocyjny okres przejściowy dla modelu Claude Fable 5 — od jutra korzystanie z niego przestanie być wliczane w standardowe limity tygodniowe subskrypcji Free/Pro i będzie wymagało oddzielnych, dodatkowo płatnych kredytów.
+
+3. W Genewie zakończył się dwudniowy inauguracyjny Globalny Dialog ONZ ws. Zarządzania AI z udziałem delegatów ze 169 krajów; Yoshua Bengio ostrzegł, że AI zbliża się do ludzkich zdolności lub je przewyższa w wielu dziedzinach, a nauka nie potrafi obecnie zagwarantować, że dalszy wzrost możliwości modeli nie doprowadzi do katastrofalnych szkód.
+
+4. Według danych OpenRouter chińscy dostawcy modeli językowych odpowiadają już za około 45% całego ruchu na platformie, wobec mniej niż 2% rok wcześniej — to gwałtowna zmiana układu sił na globalnym rynku modeli AI na korzyść chińskich laboratoriów.
+
+5. Rada UE dała ostateczną zgodę na uproszczenie unijnego AI Act: terminy wejścia w życie przepisów dla systemów wysokiego ryzyka przesunięto na 2 grudnia 2027 (systemy samodzielne) i 2 sierpnia 2028 (systemy wbudowane w produkty), jednocześnie wprowadzając od grudnia 2026 nowy zakaz generowania przez AI niechcianych treści intymnych/seksualnych oraz materiałów CSAM.
+
+---
+
 ## 06.07.2026
 
 1. W Genewie rozpoczął się dziś inauguracyjny Globalny Dialog ONZ ws. Zarządzania AI (6-7 lipca), poprzedzający Światowy Szczyt ITU "AI for Good" (7-10 lipca) oraz pierwsze posiedzenie powołanej niedawno Globalnej Komisji "AI for Good" (8 lipca) — czyniąc ten tydzień kluczowym momentem dla międzynarodowych regulacji sztucznej inteligencji.
