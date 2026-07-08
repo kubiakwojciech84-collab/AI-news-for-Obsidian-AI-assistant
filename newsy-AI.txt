@@ -1,3 +1,17 @@
+## 08.07.2026
+
+1. Qualcomm ogłosił przejęcie startupu Modular w transakcji akcyjnej wartej ok. 4 mld USD, zyskując oprogramowanie pozwalające uruchamiać modele AI na różnych chipach (Nvidia, AMD i inne) bez przepisywania kodu pod każdy procesor — to bezpośrednie uderzenie w dominację CUDA Nvidii w infrastrukturze AI; transakcja ma się zamknąć w drugiej połowie 2026 roku.
+
+2. NVIDIA udostępniła na otwartej licencji Nemotron-Labs-TwoTower — dyfuzyjny model językowy zbudowany na zamrożonym rdzeniu autoregresywnym Nemotron-3-Nano-30B-A3B, generujący tekst równolegle blokami zamiast token po tokenie, co daje 2,42x wyższą przepustowość przy zachowaniu 98,7% jakości modelu bazowego, a wytrenowanie dodatkowej "wieży" dyfuzyjnej wymagało jedynie ułamka pierwotnego budżetu danych.
+
+3. Gubernator Illinois J.B. Pritzker podpisał ustawę AI Safety Measures Act, określaną jako najsurowsze w USA prawo dot. bezpieczeństwa AI — nakłada na największych twórców modeli obowiązek dorocznych niezależnych audytów, publikacji ram oceny ryzyka katastroficznego oraz zgłaszania poważnych incydentów bezpieczeństwa w ciągu 72 godzin, pod groźbą kar do 3 mln USD; przepisy wejdą w życie 1 stycznia 2028 r.
+
+4. Amerykańska Federalna Komisja Handlu (FTC) opublikowała projekt stanowiska ostrzegającego, że potajemne sterowanie wynikami modeli AI w stronę ukrytych celów "ideologicznych" wbrew oczekiwaniom użytkowników może stanowić wprowadzanie w błąd konsumentów wg Sekcji 5 ustawy o FTC — nawet gdy firma robi to, by dostosować się do przepisów stanowych (jak Colorado AI Act); komisja przyjmuje komentarze publiczne do 31 lipca 2026 r.
+
+5. National Grid Ventures zainwestuje 1,75 mld USD za 35% udziałów w Joulent, firmie budującej dedykowaną infrastrukturę energetyczną dla centrów danych AI; środki zasilą m.in. flagowy projekt Kilby — spółkę joint venture z Chevronem budującą w Teksasie elektrownię o mocy 2,67 GW, która dostarczy prąd do centrum danych Microsoftu na mocy 20-letniej umowy PPA.
+
+---
+
 ## 07.07.2026
 
 1. Dziś otworzyło się okno ogólnego dostępu do nowej rodziny modeli OpenAI GPT-5.6 (Sol, Terra, Luna) z cenami odpowiednio 5 USD/30 USD, 2,50 USD/15 USD i 1 USD/6 USD za milion tokenów — mimo wcześniejszej prośby Białego Domu o opóźnienie premiery, co pokazuje rosnące napięcie między firmą a administracją USA wokół nadzoru nad modelami klasy frontier.
