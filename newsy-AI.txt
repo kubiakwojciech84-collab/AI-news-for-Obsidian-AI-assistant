@@ -1,3 +1,17 @@
+## 09.07.2026
+
+1. OpenAI otrzymało dziś od administracji Trumpa oficjalną zgodę na pełne publiczne udostępnienie rodziny modeli GPT-5.6 (Sol, Terra, Luna), po zakończeniu 30-dniowego przeglądu bezpieczeństwa przez Center for AI Standards and Innovation (CAISI) — rozwiązując napięcie po wcześniejszej prośbie Białego Domu o opóźnienie premiery.
+
+2. Google DeepMind opóźnił premierę modelu Gemini 3.5 Pro do 17 lipca ze względu na gruntowną przebudowę architektury mającą poprawić rozumowanie matematyczne, generowanie grafiki SVG oraz jakość obrazu, by skuteczniej konkurować z GPT-5.6 i Claude Fable 5.
+
+3. Niezależna analiza organizacji zajmujących się oceną bezpieczeństwa AI wykazała, że Anthropic, OpenAI, Google DeepMind i Meta "przesuwają słupki" i osłabiają wcześniej publicznie złożone zobowiązania dot. bezpiecznego wdrażania modeli, mimo utrzymywania deklaracji o samoregulacji.
+
+4. Shield AI, twórca autonomicznych systemów obronnych, pozyskał 1,5 mld USD w rundzie Serii G w ramach szerszego pakietu kapitałowego wartego 2,25 mld USD; część środków sfinansuje przejęcie spółki Aechelon Technology, specjalizującej się w symulacjach i wizualizacji.
+
+5. Globalne finansowanie venture capital dla startupów osiągnęło w pierwszej połowie 2026 roku rekordowe 510 mld USD (wobec 440 mld USD za cały 2025 rok), a OpenAI i Anthropic odpowiadały łącznie za 217 mld USD, czyli 43% wszystkich środków trafiających na świecie do młodych spółek.
+
+---
+
 ## 08.07.2026
 
 1. Qualcomm ogłosił przejęcie startupu Modular w transakcji akcyjnej wartej ok. 4 mld USD, zyskując oprogramowanie pozwalające uruchamiać modele AI na różnych chipach (Nvidia, AMD i inne) bez przepisywania kodu pod każdy procesor — to bezpośrednie uderzenie w dominację CUDA Nvidii w infrastrukturze AI; transakcja ma się zamknąć w drugiej połowie 2026 roku.
