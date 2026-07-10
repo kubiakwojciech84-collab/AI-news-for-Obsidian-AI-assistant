@@ -1,3 +1,17 @@
+## 10.07.2026
+
+1. Wycena Anthropic na rynku wtórnym osiągnęła ok. 1,2 bln USD, po raz pierwszy wyprzedzając OpenAI (wycenianego na tym rynku na ok. 880 mld USD) i czyniąc Anthropic najcenniejszym prywatnym startupem AI na świecie; wzrost napędza skokowy przychód roczny — z 9 mld USD na koniec 2025 r. do 30 mld USD w marcu 2026 r.
+
+2. OpenAI zaproponowało administracji Trumpa 5-procentowy udział w spółce (wart ok. 42,6 mld USD) w ramach funduszu majątkowego wzorowanego na Alaska Permanent Fund, sugerując, by podobne udziały oddały rządowi USA także Anthropic, Google i Meta — realizacja wymagałaby jednak ustawy Kongresu.
+
+3. Biały Dom prowadzi zaawansowane rozmowy z OpenAI, Google i Anthropic ws. dobrowolnych standardów wydawania modeli klasy frontier — obejmujących benchmarki, harmonogramy testów bezpieczeństwa i zasady dostępu — z ogłoszeniem porozumienia spodziewanym już w najbliższym tygodniu.
+
+4. Anthropic podpisał z firmą TeraWulf umowę na dzierżawę mocy centrów danych wartą 19 mld USD, powiększając swój portfel do ponad 12 kontraktów infrastrukturalnych w USA o łącznej mocy przekraczającej 1 GW.
+
+5. Komisja Europejska przedstawiła lipcowy plan działań ws. cyberbezpieczeństwa i AI, zapowiadając nabór mający zwiększyć unijne zdolności do niezależnej oceny zaawansowanych modeli AI przed ich wprowadzeniem na rynek UE — mechanizm ma zacząć działać do 2027 roku.
+
+---
+
 ## 09.07.2026
 
 1. OpenAI otrzymało dziś od administracji Trumpa oficjalną zgodę na pełne publiczne udostępnienie rodziny modeli GPT-5.6 (Sol, Terra, Luna), po zakończeniu 30-dniowego przeglądu bezpieczeństwa przez Center for AI Standards and Innovation (CAISI) — rozwiązując napięcie po wcześniejszej prośbie Białego Domu o opóźnienie premiery.
