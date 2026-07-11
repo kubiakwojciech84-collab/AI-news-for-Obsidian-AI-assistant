@@ -1,3 +1,17 @@
+## 11.07.2026
+
+1. OpenAI udostępniło model GPT-5.6 (warianty Sol, Terra i Luna) wszystkim użytkownikom ChatGPT, kończąc dwutygodniowy ograniczony podgląd — Sol to flagowy wariant zoptymalizowany pod biologię, chemię i cyberbezpieczeństwo, Terra dorównuje GPT-5.5 przy o połowę niższym koszcie, a Luna to szybki i tani wariant podstawowy.
+
+2. xAI (SpaceXAI) wypuściło model Grok 4.5 — pierwszy stworzony wspólnie z Cursorem, startupem programistycznym przejmowanym przez xAI/SpaceX za ok. 60 mld USD, co ma wzmocnić pozycję firmy w segmencie modeli do kodowania.
+
+3. Crusoe, budująca centra danych i dedykowaną infrastrukturę energetyczną dla AI, prowadzi rozmowy o pozyskaniu ok. 3 mld USD finansowania przy wycenie sięgającej 30 mld USD — niemal trzykrotnie wyższej niż w październiku ubiegłego roku.
+
+4. Rada UE dała ostateczne zielone światło dla uproszczenia przepisów AI Act, przesuwając termin wejścia w życie zasad dla systemów wysokiego ryzyka z 2 sierpnia 2026 r. na grudzień 2027 r. (systemy autonomiczne) i sierpień 2028 r. (systemy wbudowane w produkty).
+
+5. Mercor, wyceniana na 10 mld USD platforma rekrutacyjna oparta na AI, przejęła wspierany przez a16z startup Deeptune, budujący środowiska symulacyjne, w których agenci AI uczą się wykonywać zadania biznesowe (Excel, Salesforce, Slack) przed wdrożeniem produkcyjnym.
+
+---
+
 ## 10.07.2026
 
 1. Wycena Anthropic na rynku wtórnym osiągnęła ok. 1,2 bln USD, po raz pierwszy wyprzedzając OpenAI (wycenianego na tym rynku na ok. 880 mld USD) i czyniąc Anthropic najcenniejszym prywatnym startupem AI na świecie; wzrost napędza skokowy przychód roczny — z 9 mld USD na koniec 2025 r. do 30 mld USD w marcu 2026 r.
