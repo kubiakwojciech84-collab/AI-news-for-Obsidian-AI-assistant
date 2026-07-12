@@ -1,3 +1,17 @@
+## 12.07.2026
+
+1. Apple pozwało OpenAI w sądzie federalnym w Kalifornii, zarzucając kradzież tajemnic handlowych "na każdym szczeblu" firmy — pozew wymienia ponad 400 byłych pracowników Apple zatrudnionych obecnie w OpenAI, w tym szefa działu sprzętu Tang Tana, i zarzuca skoordynowaną kampanię wyłudzania poufnych projektów i komponentów nadchodzących urządzeń.
+
+2. OpenAI podało, że model GPT-5.6 Sol Ultra samodzielnie wygenerował dowód nierozwiązanej od 50 lat hipotezy Cycle Double Cover, wykorzystując 64 równolegle pracujące podagenty w niecałą godzinę — środowisko matematyczne dopiero weryfikuje poprawność dowodu, który nie przeszedł jeszcze recenzji naukowej.
+
+3. Producent chipów AI SambaNova zamknął pierwszą transzę rundy Serii F o wartości 1 mld USD przy wycenie 11 mld USD, prowadzoną przez General Atlantic z udziałem BlackRock, Intel Capital i Qatar Investment Authority, ogłaszając jednocześnie JPMorgan Chase jako partnera wdrażającego jej systemy inferencyjne SN40L i SN50.
+
+4. Google ujawniło szczegóły Gemini 3.5 Pro przed premierą zaplanowaną na 17 lipca — model ma oferować rekordowe w branży okno kontekstowe 2 mln tokenów, a rozszerzony tryb rozumowania Deep Think będzie dostępny wyłącznie w ramach subskrypcji Ultra za 250 USD miesięcznie.
+
+5. OpenAI uruchomiło ChatGPT Work — agentowe narzędzie produktywności łączące Codex z nową aplikacją desktopową ChatGPT, które na bazie GPT-5.6 samodzielnie realizuje wieloetapowe zadania (dokumenty, arkusze, prezentacje, strony internetowe) i trafia najpierw do planów Pro, Enterprise i Edu.
+
+---
+
 ## 11.07.2026
 
 1. OpenAI udostępniło model GPT-5.6 (warianty Sol, Terra i Luna) wszystkim użytkownikom ChatGPT, kończąc dwutygodniowy ograniczony podgląd — Sol to flagowy wariant zoptymalizowany pod biologię, chemię i cyberbezpieczeństwo, Terra dorównuje GPT-5.5 przy o połowę niższym koszcie, a Luna to szybki i tani wariant podstawowy.
