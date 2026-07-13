@@ -1,3 +1,17 @@
+## 13.07.2026
+
+1. Mistral AI zaprezentowało robota nawigacyjnego "Robostral Navigate" — model fizycznej AI wytrenowany wyłącznie w symulacji, pozwalający robotom poruszać się w złożonym otoczeniu przy użyciu jednej kamery i prostych poleceń językowych, niezależnie od producenta sprzętu; równolegle francuski startup udostępnił partnerom wczesny dostęp do nowej, rzadkiej (sparse) rodziny modeli MoE typu open-weight.
+
+2. DeepSeek ogłosił twardy termin 24 lipca na wycofanie starych aliasów API "deepseek-chat" i "deepseek-reasoner", które od kwietnia przekierowują ruch do modeli V4-Flash/V4-Pro — deweloperzy muszą ręcznie zaktualizować parametr modelu w swoich integracjach, inaczej przestaną one działać po tej dacie.
+
+3. Anthropic zakończył kolejne przedłużenie promocyjnego dostępu do Claude Fable 5 w planach płatnych (limity utrzymane do 19 lipca), ale od dziś, 13 lipca, zużycie ponad dzienny limit rozliczane jest już z puli kredytów użytkownika, a nie w ramach abonamentu.
+
+4. W Unii Europejskiej od 7 lipca każdy nowo rejestrowany samochód musi być wyposażony w system wykrywania rozproszenia uwagi kierowcy oparty na AI, analizujący ruchy wzroku i głowy — to kolejny etap wdrażania obowiązkowych systemów bezpieczeństwa opartych na sztucznej inteligencji w motoryzacji UE.
+
+5. Według analizy CNBC chińskie modele AI (m.in. DeepSeek) zyskują popularność wśród amerykańskich firm ze względu na rosnące koszty korzystania z modeli OpenAI i Anthropic, co nasila presję cenową na liderów rynku i przyspiesza dywersyfikację dostawców AI w przedsiębiorstwach.
+
+---
+
 ## 12.07.2026
 
 1. Apple pozwało OpenAI w sądzie federalnym w Kalifornii, zarzucając kradzież tajemnic handlowych "na każdym szczeblu" firmy — pozew wymienia ponad 400 byłych pracowników Apple zatrudnionych obecnie w OpenAI, w tym szefa działu sprzętu Tang Tana, i zarzuca skoordynowaną kampanię wyłudzania poufnych projektów i komponentów nadchodzących urządzeń.
