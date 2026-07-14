@@ -1,3 +1,17 @@
+## 14.07.2026
+
+1. Anthropic udostępnił Claude Sonnet 5 — model zbliżający się wydajnością do Opus 4.8 przy cenie 2/10 USD za milion tokenów wejścia/wyjścia, reklamowany jako dotychczas najbardziej "agentowy" model z linii Sonnet.
+
+2. Anthropic uruchomił Claude Science Workbench, łączący model Opus 4.8 z ponad 60 bazami danych naukowych (genomika, proteomika, chemoinformatyka), by wspierać badaczy w analizach eksperymentalnych.
+
+3. Meta zaprezentowała Muse Spark 1.1 — multimodalny model do zadań agentowych z oknem kontekstowym 1 mln tokenów i funkcją obsługi komputera, agresywnie wyceniony, by podważyć pozycję Google, OpenAI i Anthropic.
+
+4. Od 15 lipca chińska Cyberspace Administration wprowadza nowe przepisy regulujące aplikacje AI-"towarzyszy", które podtrzymują z użytkownikami relacje emocjonalne — to kolejny krok Pekinu w nadzorowaniu wpływu chatbotów na zdrowie psychiczne.
+
+5. Rada UE ogłosiła plan działań ws. cyberbezpieczeństwa AI, zapowiadając budowę unijnego potencjału niezależnej oceny najbardziej zaawansowanych modeli jeszcze przed ich dopuszczeniem do rynku; mechanizm ma zacząć działać od 2027 roku.
+
+---
+
 ## 13.07.2026
 
 1. Mistral AI zaprezentowało robota nawigacyjnego "Robostral Navigate" — model fizycznej AI wytrenowany wyłącznie w symulacji, pozwalający robotom poruszać się w złożonym otoczeniu przy użyciu jednej kamery i prostych poleceń językowych, niezależnie od producenta sprzętu; równolegle francuski startup udostępnił partnerom wczesny dostęp do nowej, rzadkiej (sparse) rodziny modeli MoE typu open-weight.
