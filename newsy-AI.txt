@@ -1,3 +1,17 @@
+## 15.07.2026
+
+1. W Chinach weszły dziś w życie przepisy regulujące "antropomorficzne" usługi AI symulujące ludzką osobowość — ByteDance wyłączył w Doubao (345 mln użytkowników miesięcznie) możliwość tworzenia spersonalizowanych agentów-towarzyszy, dzień po podobnym kroku Alibaby w Qwen i po wcześniejszym wygaszeniu funkcji w Tencent Yuanbao; nowe zasady wymagają m.in. systemów antyuzależnieniowych i zgody opiekunów dla nieletnich.
+
+2. xAI zaprezentowało Grok 4.5 — model MoE liczący 1,5 biliona parametrów, trenowany częściowo na danych z interakcji w Cursorze, który w teście Terminal-Bench 2.1 uzyskał wynik 83,3% przy zużyciu około 25% tokenów wyjściowych potrzebnych Opus 4.8 do podobnych zadań.
+
+3. OpenAI ujawniło pełną linię GPT-5.6 złożoną z trzech wariantów: Sol (najwyższa wydajność w rozumowaniu, kodowaniu i nauce, 5/30 USD za milion tokenów), Terra (jakość zbliżona do GPT-5.5 za połowę ceny) oraz Luna (tani, szybki model do zadań masowych).
+
+4. Rada UE udzieliła ostatecznej zgody na uproszczenie i usprawnienie części przepisów AI Act — terminy stosowania zasad dla systemów wysokiego ryzyka przesunięto na grudzień 2027 (samodzielne systemy) i sierpień 2028 (systemy wbudowane w produkty), a od grudnia tego roku zacznie obowiązywać zakaz generowania przez AI nagich wizerunków realnych osób.
+
+5. Together AI zamknęło rundę finansowania Serii C o wartości 800 mln USD przy wycenie 8,3 mld USD, umacniając swoją platformę do trenowania i uruchamiania modeli open-source dla przedsiębiorstw.
+
+---
+
 ## 14.07.2026
 
 1. Anthropic udostępnił Claude Sonnet 5 — model zbliżający się wydajnością do Opus 4.8 przy cenie 2/10 USD za milion tokenów wejścia/wyjścia, reklamowany jako dotychczas najbardziej "agentowy" model z linii Sonnet.
