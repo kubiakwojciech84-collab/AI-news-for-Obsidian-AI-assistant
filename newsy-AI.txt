@@ -1,3 +1,17 @@
+## 16.07.2026
+
+1. Podczas wizyty w Japonii szef Nvidii Jensen Huang ogłosił szeroko zakrojone partnerstwo w ramach prowadzonego przez SoftBank projektu suwerennej AI "Noetra" — z udziałem 44 japońskich firm (m.in. Honda, NEC) i rządową dotacją rzędu ok. 1 bln jenów (6,2 mld USD) — stawiając na rozwój "fizycznej AI" i robotyki.
+
+2. Indyjski startup Emergent, oferujący autonomicznych "inżynierów na żądanie" do tworzenia oprogramowania, zamknął rundę Serii C o wartości 130 mln USD przy wycenie 1,5 mld USD, dołączając do grona jednorożców niespełna rok po starcie.
+
+3. Nvidia udostępniła Nemotron 3 Nano Omni — otwarty, multimodalny model MoE (30 mld parametrów) łączący obsługę obrazu, dźwięku i tekstu, oferujący nawet 9-krotnie wyższą przepustowość niż porównywalne modele open source.
+
+4. OpenAI zaproponowało rządowi USA objęcie 5-procentowego udziału w spółce wartego ok. 42,6 mld USD, w ramach szerszej idei funduszu inwestycyjnego na wzór Alaska Permanent Fund, do którego mieliby dołożyć się też Google, Meta i Anthropic; eksperci ostrzegają przed konfliktem interesów między rolą regulatora a udziałowca.
+
+5. Anthropic prowadzi rozmowy z Samsungiem o produkcji własnego, dedykowanego chipu AI w procesie 2 nm, zatrudniając do tego celu byłego inżyniera zespołu chipowego OpenAI — obecne układy Amazona, Google i Nvidii mają jednak pozostać podstawą infrastruktury firmy.
+
+---
+
 ## 15.07.2026
 
 1. W Chinach weszły dziś w życie przepisy regulujące "antropomorficzne" usługi AI symulujące ludzką osobowość — ByteDance wyłączył w Doubao (345 mln użytkowników miesięcznie) możliwość tworzenia spersonalizowanych agentów-towarzyszy, dzień po podobnym kroku Alibaby w Qwen i po wcześniejszym wygaszeniu funkcji w Tencent Yuanbao; nowe zasady wymagają m.in. systemów antyuzależnieniowych i zgody opiekunów dla nieletnich.
