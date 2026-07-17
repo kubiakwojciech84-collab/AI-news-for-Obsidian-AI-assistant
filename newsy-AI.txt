@@ -1,3 +1,17 @@
+## 17.07.2026
+
+1. Chińska Moonshot AI udostępniła Kimi K3 — otwarty model MoE liczący 2,8 bln parametrów z oknem kontekstowym 1 mln tokenów, oparty na autorskich mechanizmach Kimi Delta Attention i Attention Residuals; pełne wagi modelu mają trafić do sieci 27 lipca.
+
+2. Thinking Machines Lab, startup współzałożony przez byłą CTO OpenAI Mirę Murati, zaprezentował swój pierwszy model Inkling — otwarty system MoE liczący 975 mld parametrów (ok. 41 mld aktywnych), trenowany na 45 bln tokenów tekstu, obrazu, dźwięku i wideo, pomyślany jako baza do samodzielnego dostrajania przez firmy w platformie Tinker.
+
+3. Według licznych nieoficjalnych doniesień Google ma dziś zaprezentować Gemini 3.5 Pro — model po gruntownym przeprojektowaniu architektury, z oknem kontekstowym do 2 mln tokenów i trybem rozumowania Deep Think; sam Google nie potwierdził jeszcze oficjalnie ani daty, ani szczegółów technicznych.
+
+4. Producent dronów bojowych Shield AI pozyskał 1,5 mld USD w rundzie Serii G (część szerszego pakietu 2,25 mld USD), osiągając wycenę 12,7 mld USD; środki mają sfinansować m.in. przejęcie Aechelon Technology oraz rozwój myśliwca bezzałogowego X-BAT.
+
+5. Amerykańska FTC opublikowała projekt oświadczenia ws. stanowych przepisów zmuszających twórców AI do modyfikowania "prawdziwych" odpowiedzi modeli, sygnalizując możliwy konflikt z prawem federalnym; konsultacje publiczne potrwają do 31 lipca 2026.
+
+---
+
 ## 16.07.2026
 
 1. Podczas wizyty w Japonii szef Nvidii Jensen Huang ogłosił szeroko zakrojone partnerstwo w ramach prowadzonego przez SoftBank projektu suwerennej AI "Noetra" — z udziałem 44 japońskich firm (m.in. Honda, NEC) i rządową dotacją rzędu ok. 1 bln jenów (6,2 mld USD) — stawiając na rozwój "fizycznej AI" i robotyki.
