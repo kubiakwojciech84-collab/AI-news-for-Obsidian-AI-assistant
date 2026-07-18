@@ -1,3 +1,17 @@
+## 18.07.2026
+
+1. Podczas otwarcia Światowej Konferencji AI (WAIC) w Szanghaju przewodniczący Xi Jinping ogłosił powołanie Światowej Organizacji Współpracy AI (WAICO) z siedzibą w Szanghaju — porozumienie podpisało 29 krajów (m.in. Rosja, Brazylia, Serbia oraz państwa Afryki i Azji) w obecności sekretarza generalnego ONZ Antónia Guterresa, co tworzy konkurencyjny wobec ram UE i G7 ośrodek globalnego zarządzania AI.
+
+2. NetApp przejął kalifornijski startup DataPelago, twórcę silnika Nucleus przetwarzającego dane dla obciążeń AI bezpośrednio na styku CPU/GPU w warstwie pamięci masowej — rozwiązanie ma obniżać koszty infrastruktury nawet o 80% i przyspieszać przetwarzanie danych do 10-krotnie; warunków finansowych transakcji nie ujawniono.
+
+3. Według doniesień Gemini 3.5 Pro od Google DeepMind po raz trzeci nie zmieścił się w zapowiadanym terminie premiery (po czerwcu i 17 lipca) — firma wciąż oficjalnie nie potwierdziła ani daty, ani specyfikacji modelu, a według nieoficjalnych informacji rozważa teraz wydanie tymczasowej, okrojonej wersji.
+
+4. Niemiecki startup obronny Helsing zamknął rundę finansowania Serii E o wartości 1,8 mld USD przy wycenie 18 mld USD — największą w historii europejskiego sektora obronnego — z udziałem JPMorgan Chase, Lightspeed Venture Partners i Iconiq; środki mają wesprzeć rozwój dronów bojowych HX-2 i oprogramowania pola walki Altra.
+
+5. Na konferencji ICML 2026 zaprezentowano metodę treningową "selective activation sparsity", pozwalającą modelom wykorzystywać przy danym zadaniu tylko najistotniejsze parametry — na testach rozumowania modele trenowane tą metodą osiągały wyniki porównywalne z modelami trzykrotnie większymi.
+
+---
+
 ## 17.07.2026
 
 1. Chińska Moonshot AI udostępniła Kimi K3 — otwarty model MoE liczący 2,8 bln parametrów z oknem kontekstowym 1 mln tokenów, oparty na autorskich mechanizmach Kimi Delta Attention i Attention Residuals; pełne wagi modelu mają trafić do sieci 27 lipca.
