@@ -1,3 +1,17 @@
+## 19.07.2026
+
+1. Bloomberg poinformował o odejściu kolejnych czołowych badaczy Google DeepMind do Anthropic — Jonasa Adlera i Alexandra Pritzela, współtwórców modelu Gemini — co po wcześniejszym przejściu laureata Nagrody Nobla Johna Jumpera oznacza już cztery głośne odejścia z Google do rywali w ciągu tygodnia.
+
+2. Anthropic rozszerzył partnerstwo z Google i Broadcom o dodatkowe moce obliczeniowe TPU (docelowo ok. 3,5 GW od 2027 roku), informując jednocześnie, że roczny przychód firmy przekroczył 30 mld USD, a liczba klientów biznesowych wydających ponad 1 mln USD rocznie przekroczyła tysiąc w niecałe dwa miesiące.
+
+3. Komisja Europejska przedstawiła unijny plan działań ws. cyberbezpieczeństwa i AI, zapowiadając budowę własnych, niezależnych zdolności ewaluacji najbardziej zaawansowanych modeli AI przed ich wejściem na rynek UE — nowa infrastruktura ma zacząć działać w 2027 roku.
+
+4. Tajwański TSMC podał wyniki za II kwartał 2026 — zysk netto wzrósł o 77,4% rok do roku, a udział chipów HPC/AI w przychodach sięgnął 66%; firma podniosła całoroczną prognozę wzrostu przychodów powyżej 40% i zapowiedziała kolejne 100 mld USD inwestycji w fabryki w Arizonie.
+
+5. Microsoft uruchomił nową spółkę operacyjną Microsoft Frontier Company z budżetem 2,5 mld USD i zespołem 6 tys. ekspertów, mającą pomagać dużym firmom we wdrażaniu AI — decyzja pada tuż po ostrzeżeniu Satyi Nadelli, że klienci laboratoriów AI "płacą podwójnie", udostępniając im swoje wrażliwe dane biznesowe.
+
+---
+
 ## 18.07.2026
 
 1. Podczas otwarcia Światowej Konferencji AI (WAIC) w Szanghaju przewodniczący Xi Jinping ogłosił powołanie Światowej Organizacji Współpracy AI (WAICO) z siedzibą w Szanghaju — porozumienie podpisało 29 krajów (m.in. Rosja, Brazylia, Serbia oraz państwa Afryki i Azji) w obecności sekretarza generalnego ONZ Antónia Guterresa, co tworzy konkurencyjny wobec ram UE i G7 ośrodek globalnego zarządzania AI.
