@@ -1,3 +1,17 @@
+## 20.07.2026
+
+1. Komisja Europejska nałożyła na Google na mocy unijnego Aktu o rynkach cyfrowych wiążący obowiązek otwarcia Androida na konkurencyjnych asystentów AI (dostęp głosowy i integracja z 11 grupami funkcji systemowych od lipca 2027) oraz udostępniania od stycznia 2027 roku zanonimizowanych danych wyszukiwania rywalom, pod groźbą kar sięgających 10% globalnych przychodów Google.
+
+2. Apple wyprzedził Nvidię i stał się najbardziej wartościową spółką świata, zbliżając się do kapitalizacji 5 bln USD dzięki rosnącym oczekiwaniom inwestorów wobec funkcji Apple Intelligence i nowej generacji urządzeń wspieranych przez AI.
+
+3. Model Kimi K3 chińskiego startupu Moonshot AI (2,8 bln parametrów, architektura MoE, okno kontekstu 1 mln tokenów) wskoczył na pierwsze miejsce rankingu Frontend Code Arena, pokonując modele Claude w zadaniach kodowania frontendowego; pełne otwarte wagi modelu mają zostać opublikowane 27 lipca.
+
+4. W Szanghaju zakończyła się Światowa Konferencja AI (WAIC) — rekordowa edycja zgromadziła ponad 1400 gości, ponad 300 premier produktów i 140 forów tematycznych, a wśród prezentowanych humanoidów wyróżniały się AgiBot A3 Ultra i przekształcalny robot Unitree GD01.
+
+5. Hyundai przejmuje pełną kontrolę nad Boston Dynamics po tym, jak SoftBank wykonał opcję sprzedaży pozostałego ok. 10% udziałów za około 325 mln USD, konsolidując inwestycje koreańskiego koncernu w robotykę wspieraną AI.
+
+---
+
 ## 19.07.2026
 
 1. Bloomberg poinformował o odejściu kolejnych czołowych badaczy Google DeepMind do Anthropic — Jonasa Adlera i Alexandra Pritzela, współtwórców modelu Gemini — co po wcześniejszym przejściu laureata Nagrody Nobla Johna Jumpera oznacza już cztery głośne odejścia z Google do rywali w ciągu tygodnia.
