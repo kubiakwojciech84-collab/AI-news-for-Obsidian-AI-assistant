@@ -1,3 +1,17 @@
+## 21.07.2026
+
+1. Fala wyprzedaży akcji spółek chipowych związanych z AI zmiotła w lipcu 2026 ponad 1 bln USD kapitalizacji rynkowej — Micron stracił ok. 38 mld USD w jednej sesji, Intel przecenił się o 21% w kilka dni, a nawet Nvidia spadła o 2,2%; powodem są obawy o zwrot z gigantycznych inwestycji w infrastrukturę AI oraz doniesienia o spowolnieniu produkcji pamięci HBM przez SK Hynix. We wtorek azjatyckie giełdy (m.in. koreański Kospi, +4,7%) zaczęły odrabiać część strat.
+
+2. Alibaba zaprezentował swój dotychczas największy model — Qwen3.8 Max (2,4 bln parametrów) — pozycjonując go jako model ustępujący na świecie jedynie najnowszej rodzinie modeli Anthropic; wersja testowa jest już dostępna na platformach kodowania Alibaby, a pełne otwarte wagi mają zostać opublikowane wkrótce.
+
+3. Apple pozwało OpenAI przed sądem federalnym w Kalifornii, oskarżając firmę i dwóch byłych pracowników Apple o kradzież tajemnic handlowych dotyczących niewydanych projektów sprzętowych, metod produkcji i informacji o dostawcach; według pozwu w OpenAI pracuje już ponad 400 byłych pracowników Apple.
+
+4. New York Times wraz z innymi wydawcami (m.in. New York Daily News, The Intercept, Center for Investigative Reporting) złożyli wniosek o nałożenie sankcji na OpenAI w toczącym się procesie o prawa autorskie, zarzucając firmie zatajenie przed sądem posiadanej od dawna zdolności przeszukiwania danych treningowych oraz dalsze kasowanie logów rozmów mimo sądowego nakazu ich zachowania.
+
+5. Blackstone zadeklarował 30 mld USD na budowę centrów danych AI w Japonii w ciągu najbliższych 3-5 lat, planując obiekty o mocy przekraczającej 1 GW — to kolejny element szerokiej fali inwestycji funduszy w infrastrukturę obliczeniową dla AI w Azji.
+
+---
+
 ## 20.07.2026
 
 1. Komisja Europejska nałożyła na Google na mocy unijnego Aktu o rynkach cyfrowych wiążący obowiązek otwarcia Androida na konkurencyjnych asystentów AI (dostęp głosowy i integracja z 11 grupami funkcji systemowych od lipca 2027) oraz udostępniania od stycznia 2027 roku zanonimizowanych danych wyszukiwania rywalom, pod groźbą kar sięgających 10% globalnych przychodów Google.
