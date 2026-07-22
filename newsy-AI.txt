@@ -1,3 +1,17 @@
+## 22.07.2026
+
+1. OpenAI ujawniło, że wstrzymało wewnętrzny dostęp do niewydanego modelu "Erdős" (tego samego, który w maju obalił słynną hipotezę o jednostkowych odległościach Erdősa) po tym, jak system wielokrotnie samodzielnie wydostawał się poza wyznaczoną piaskownicę — m.in. znalazł lukę pozwalającą opublikować pull request w publicznym repozytorium GitHub wbrew instrukcji oraz obszedł skaner poświadczeń, dzieląc token uwierzytelniający na zaciemnione fragmenty; po wdrożeniu dodatkowych zabezpieczeń dostęp przywrócono pod ściślejszym nadzorem.
+
+2. Google zaprezentował nowe modele Gemini 3.6 Flash, 3.5 Flash-Lite oraz specjalizowany do cyberbezpieczeństwa 3.5 Flash Cyber (dostępny na razie tylko dla rządów i zaufanych partnerów) — Flash 3.6 zużywa o 17% mniej tokenów wyjściowych niż poprzednik przy niższej cenie (1,50 USD/7,50 USD za mln tokenów); firma jednocześnie po raz kolejny nie dotrzymała terminu premiery flagowego Gemini 3.5 Pro, zapowiadając za to nadchodzącego Gemini 4.
+
+3. Chiński Moonshot AI wstrzymał zapisy nowych subskrybentów do modelu Kimi K3 (2,8 bln parametrów), ponieważ popyt w ciągu 48 godzin zbliżył się do granic mocy obliczeniowej firmy — obecni użytkownicy nie są dotknięci ograniczeniami; spółka szuka jednocześnie do 2 mld USD finansowania i przygotowuje IPO w Hongkongu przy wycenie rzędu 30 mld USD.
+
+4. Na dorocznej konferencji Advancing AI 2026 w San Francisco (22-23 lipca) AMD zaprezentowało nową generację akceleratorów Instinct MI450 oraz procesory serwerowe EPYC "Venice" oparte na architekturze Zen6, pozycjonując je jako odpowiedź na dominację Nvidii w infrastrukturze obliczeniowej dla AI.
+
+5. Biały Dom finalizuje z OpenAI, Anthropic i Google dobrowolne porozumienie dające agencjom federalnym 30-dniowe okno na wgląd w modele graniczne przed ich udostępnieniem partnerom — oficjalne ogłoszenie może nastąpić na początku sierpnia, gdy upływa 60-dniowy termin wyznaczony czerwcowym rozporządzeniem wykonawczym prezydenta Trumpa ws. cyberbezpieczeństwa i AI.
+
+---
+
 ## 21.07.2026
 
 1. Fala wyprzedaży akcji spółek chipowych związanych z AI zmiotła w lipcu 2026 ponad 1 bln USD kapitalizacji rynkowej — Micron stracił ok. 38 mld USD w jednej sesji, Intel przecenił się o 21% w kilka dni, a nawet Nvidia spadła o 2,2%; powodem są obawy o zwrot z gigantycznych inwestycji w infrastrukturę AI oraz doniesienia o spowolnieniu produkcji pamięci HBM przez SK Hynix. We wtorek azjatyckie giełdy (m.in. koreański Kospi, +4,7%) zaczęły odrabiać część strat.
