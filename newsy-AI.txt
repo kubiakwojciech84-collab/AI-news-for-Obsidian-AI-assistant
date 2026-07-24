@@ -1,3 +1,17 @@
+## 24.07.2026
+
+1. Anthropic zaktualizował tryb głosowy Claude, dodając obsługę bardziej zaawansowanych modeli — użytkownicy mogą teraz wybierać między Opus, Sonnet i Haiku, a tryb głosowy domyślnie korzysta z najszybszej wersji ostatnio używanego w czacie tekstowym modelu.
+
+2. Google po raz kolejny opóźnił szersze udostępnienie Gemini 3.5 Pro po tym, jak wewnętrzne testy wykazały niewystarczające wyniki w zadaniach programistycznych i złożonym rozumowaniu — firma stara się utrzymać konkurencyjność wobec modeli OpenAI i Anthropic.
+
+3. Chiński DeepSeek zbliża się do stabilnego wydania (GA) modelu V4: 24 lipca o 15:59 UTC wygasają dotychczasowe aliasy API "deepseek-chat" i "deepseek-reasoner", a deweloperzy muszą przełączyć się na nowe modele deepseek-v4-pro lub deepseek-v4-flash.
+
+4. Rada UE potwierdziła uproszczenie harmonogramu AI Act — przepisy dla autonomicznych systemów wysokiego ryzyka przesunięto na grudzień 2027 r., a dla systemów wysokiego ryzyka wbudowanych w produkty na sierpień 2028 r.; nienaruszony pozostaje jednak termin 2 sierpnia 2026 r. dla obowiązków transparentności i egzekwowania zasad wobec modeli ogólnego przeznaczenia (GPAI).
+
+5. OpenAI i Anthropic gwałtownie zwiększyły wydatki na lobbing federalny w USA — w II kwartale 2026 r. łącznie wydały ok. 3,17 mln USD (wzrost o 23% kdk), przy czym wydatki Anthropic ponad dwukrotnie się zwiększyły rok do roku, w miarę jak obie firmy starają się kształtować nadchodzące regulacje dot. modeli granicznych.
+
+---
+
 ## 23.07.2026
 
 1. AMD i Anthropic ogłosiły na konferencji Advancing AI 2026 strategiczne partnerstwo: AMD dostarczy Anthropic do 2 gigawatów akceleratorów Instinct MI450 w systemach rack-scale Helios i zainwestuje w spółkę do 5 mld USD, z pierwszym gigawatem wdrożeń od I połowy 2027 r. Tego samego dnia AMD zaprezentowało też serwerowe EPYC "Venice" na 2 nm TSMC oraz łączne zamówienia od OpenAI i Meta na 12 GW mocy obliczeniowej.
