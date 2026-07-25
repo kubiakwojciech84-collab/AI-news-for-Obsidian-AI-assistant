@@ -1,3 +1,17 @@
+## 25.07.2026
+
+1. Anthropic zaprezentował Claude Opus 5 — czwarty nowy model firmy w niecałe dwa miesiące — opisywany jako zbliżający się do możliwości flagowego Fable 5 przy około połowie jego ceny; nowość to przełącznik poziomu wysiłku (niski/średni/wysoki) pozwalający równoważyć koszt i jakość, a model stał się domyślny w Claude Max i najmocniejszy w Claude Pro.
+
+2. Fireworks AI pozyskało 1,5 mld USD w rundzie serii D na rozbudowę infrastruktury i platformy multi-model dla przedsiębiorstw budujących aplikacje agentowe korzystające z wielu modeli jednocześnie.
+
+3. Stripe prowadzi rozmowy w sprawie przejęcia OpenRouter, platformy pośredniczącej w dostępie do modeli AI, za kwotę rzędu 10 mld USD.
+
+4. Biały Dom oskarżył chiński Moonshot AI o zdestylowanie modelu Fable Anthropic w celu zbudowania Kimi K3 oraz o nielegalne pozyskanie zastrzeżonych chipów Nvidia GB300 poprzez Tajlandię; Moonshot na razie nie odniósł się publicznie do żadnego z zarzutów.
+
+5. Badacze opisali nową metodę treningu "selective activation sparsity", uczącą modele wykorzystywać tylko najistotniejsze parametry dla danego zadania — modele trenowane tą metodą osiągają wyniki porównywalne z modelami trzykrotnie większymi w testach rozumowania, co obniża koszty treningu i wnioskowania oraz ułatwia uruchamianie AI na urządzeniach o ograniczonej mocy obliczeniowej.
+
+---
+
 ## 24.07.2026
 
 1. Anthropic zaktualizował tryb głosowy Claude, dodając obsługę bardziej zaawansowanych modeli — użytkownicy mogą teraz wybierać między Opus, Sonnet i Haiku, a tryb głosowy domyślnie korzysta z najszybszej wersji ostatnio używanego w czacie tekstowym modelu.
