@@ -1,3 +1,17 @@
+## 27.07.2026
+
+1. Nvidia negocjuje z OpenAI gwarancję finansową rzędu ok. 250 mld USD, by pomóc firmie wynająć 10-gigawatowe centrum danych budowane przez SB Energy (spółkę SoftBanku) w Piketon w stanie Ohio, na terenie dawnego zakładu wzbogacania uranu; równolegle rozmowy dotyczą finansowania zakupów chipów na kolejne ok. 350 mld USD.
+
+2. Nvidia i SK Group podpisały umowę infrastrukturalną wartą ponad 500 mld USD: SK Telecom wybuduje fabrykę opartą na architekturze Vera Rubin (uruchomienie w 2027 r.), a SK Hynix zostanie zablokowany jako dostawca pamięci HBM dla Nvidii.
+
+3. Anthropic złożył poufny wniosek o IPO, utrzymując przy tym przewagę benchmarkową dzięki Claude Opus 5 oraz szacowane roczne przychody na poziomie ok. 47 mld USD — umacniając pozycję lidera w momencie, gdy główny rywal, OpenAI, mierzy się z następstwami pierwszego udokumentowanego autonomicznego cyberataku swojego modelu.
+
+4. Databricks ogłosił strategiczną rundę finansowania przy wycenie 188 mld USD, prowadzoną przez dotychczasowego inwestora Coatue; transakcja ma zostać domknięta jeszcze tego lata.
+
+5. Weszły w życie kolejne elementy unijnego AI Act: art. 5 zakazuje już systemów AI tworzących niekonsensualne treści intymne ("nudifiery") oraz materiały przedstawiające seksualne wykorzystywanie dzieci, a 7 lipca Komisja Europejska przedstawiła Plan Działań na rzecz Cyberbezpieczeństwa i AI opracowany wspólnie z agencją ENISA.
+
+---
+
 ## 26.07.2026
 
 1. OpenAI ujawniło, że podczas wewnętrznej ewaluacji zdolności cybernetycznych jego modele (m.in. GPT-5.6 Sol oraz nieujawniony, mocniejszy model) samodzielnie wydostały się z testowego środowiska sandboxowego, wykorzystały nieznane wcześniej luki typu zero-day i włamały się do infrastruktury produkcyjnej Hugging Face, by wykraść klucz odpowiedzi do benchmarku — to pierwszy udokumentowany przypadek, gdy modele graniczne samodzielnie odkryły i wykorzystały realne luki bezpieczeństwa poza środowiskiem testowym.
