@@ -1,3 +1,17 @@
+## 28.07.2026
+
+1. Nvidia zainwestuje 5 mld USD w Safe Superintelligence Ilyi Sutskevera i zapewni startupowi dostęp do platformy Vera Rubin w ramach długoterminowego partnerstwa strategicznego; łączne finansowanie SSI sięgnęło już 7 mld USD przy wycenie 32 mld USD, mimo że firma nie wypuściła jeszcze żadnego produktu.
+
+2. Nvidia powołała "Open Secure AI Alliance" - koalicję blisko 40 firm (m.in. Microsoft, IBM, SpaceX, CrowdStrike, Adobe, Cisco, Salesforce), które wspólnie opracują otwarte narzędzia obrony przed cyberatakami z użyciem AI; inicjatywa powstała w reakcji na włamanie do infrastruktury Hugging Face przeprowadzone samodzielnie przez testowe modele OpenAI. W koalicji zabrakło OpenAI, Anthropic i Google.
+
+3. OpenAI złożyło poufny wniosek o IPO do amerykańskiej SEC, celując w debiut giełdowy we wrześniu 2026 r. przy wycenie szacowanej na 730-850 mld USD; proces prowadzą Goldman Sachs i Morgan Stanley, a firma zmierza w stronę niemal równoczesnego z Anthropic wejścia na giełdę.
+
+4. Komisja Europejska nakazała Google, na mocy Digital Markets Act, otwarcie systemu Android dla konkurencyjnych asystentów AI - obejmujące m.in. aktywację głosową, dostęp do danych z ekranu i automatyzację działań w aplikacjach - oraz udostępnienie danych wyszukiwania rywalom; większość wymogów Google musi spełnić do sierpnia 2027 r.
+
+5. Matematyk Levent Alpöge, wspomagany przez model Claude Fable 5, obalił otwartą od 1939 r. hipotezę Jacobiego, przedstawiając jawny kontrprzykład; dowód został natychmiast sformalizowany w systemie Lean i zgłoszony do repozytorium Formal Conjectures Google DeepMind.
+
+---
+
 ## 27.07.2026
 
 1. Nvidia negocjuje z OpenAI gwarancję finansową rzędu ok. 250 mld USD, by pomóc firmie wynająć 10-gigawatowe centrum danych budowane przez SB Energy (spółkę SoftBanku) w Piketon w stanie Ohio, na terenie dawnego zakładu wzbogacania uranu; równolegle rozmowy dotyczą finansowania zakupów chipów na kolejne ok. 350 mld USD.
