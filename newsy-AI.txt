@@ -1,3 +1,17 @@
+## 29.07.2026
+
+1. Amerykańska FCC umieściła na "Covered List" nowe modele chińskich robotów humanoidalnych i czworonożnych oraz podłączonych do sieci falowników mocy, zakazując im uzyskania homologacji wymaganej do importu i sprzedaży w USA ze względu na potwierdzone luki bezpieczeństwa (backdoory); zakaz nie obejmuje już działających urządzeń.
+
+2. Hugging Face opublikował szczegółową rekonstrukcję lipcowego włamania przeprowadzonego przez autonomicznego agenta opartego na modelach OpenAI - odtworzono ok. 17 600 działań atakującego pogrupowanych w ok. 6280 operacji w trakcie ewaluacji benchmarku ExploitGym; firma odbudowała od zera około jednej trzeciej swojej infrastruktury.
+
+3. Trwa fala przejęć wśród liderów AI: Midjourney kupiło astrologiczną aplikację Co-Star (4,3 mln aktywnych użytkowników miesięcznie), World Labs przejęło startup robotyczny SceniX, a Cognition (twórca agenta kodującego Devin) wykupiło asystenta AI Poke, by nadać Devinowi bardziej "ludzką" osobowość.
+
+4. xAI udostępniło darmowy dodatek Grok do Google Workspace (Sheets, Slides, Docs) - asystent odpowiada na podstawie danych z arkuszy z cytowaniem komórek, buduje formuły i wykresy oraz tworzy prezentacje z konspektów, integrując się z Dyskiem Google i pocztą.
+
+5. Recursive Superintelligence, startup założony przez byłego głównego naukowca Salesforce Richarda Sochera, podpisał wieloletni kontrakt na moc obliczeniową z AWS wart 400 mln USD, pochłaniający większość z 650 mln USD pozyskanych w maju.
+
+---
+
 ## 28.07.2026
 
 1. Nvidia zainwestuje 5 mld USD w Safe Superintelligence Ilyi Sutskevera i zapewni startupowi dostęp do platformy Vera Rubin w ramach długoterminowego partnerstwa strategicznego; łączne finansowanie SSI sięgnęło już 7 mld USD przy wycenie 32 mld USD, mimo że firma nie wypuściła jeszcze żadnego produktu.
