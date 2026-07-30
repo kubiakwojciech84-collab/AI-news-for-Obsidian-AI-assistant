@@ -1,3 +1,17 @@
+## 30.07.2026
+
+1. Ponad 1200 pracowników czołowych laboratoriów AI (OpenAI, Anthropic, Google, Meta) podpisało list otwarty "Pacing the Frontier", wzywający rząd USA do zbudowania międzynarodowych narzędzi technicznych i regulacyjnych umożliwiających w razie potrzeby kontrolowane spowolnienie rozwoju AI; OpenAI i Anthropic formalnie poparły apel jako firmy.
+
+2. Nieopublikowany jeszcze model Anthropic, Claude Mythos Preview, samodzielnie znalazł dwie nowe luki kryptograficzne - w ok. 60 godzin złamał odporność postkwantowego schematu podpisów HAWK (kandydata na standard federalny USA), redukując koszt ataku miliardy razy, oraz przyspieszył atak na osłabioną wersję AES 200-1000 razy względem dotychczasowych wyników badaczy.
+
+3. Meta opublikowała wyniki za II kwartał 2026 - przychody wzrosły o 28% r/r do 60,8 mld USD, ale akcje spadły o ponad 8% po zapowiedzi wydatków na AI rzędu 130-145 mld USD w tym roku; Zuckerberg opublikował też w "Wall Street Journal" tekst ostrzegający przed nadmierną koncentracją władzy w AI.
+
+4. xAI pozwało prokuratora generalnego stanu Minnesota, Keitha Ellisona, kwestionując nowe prawo zakazujące narzędzi do tworzenia niekonsensualnych, zseksualizowanych deepfake'ów - firma twierdzi, że przepis (kary do 500 tys. USD za naruszenie) nadmiernie ogranicza wolność słowa.
+
+5. SpaceX podpisało ze startupem Reflection AI umowę wartą 6,3 mld USD na dostęp do mocy obliczeniowej (chipy Nvidia GB300) w centrum danych Colossus 2 pod Memphis, płatną 150 mln USD miesięcznie do 2029 r. - kolejny sygnał wyścigu Big Tech o infrastrukturę obliczeniową i satelitarną.
+
+---
+
 ## 29.07.2026
 
 1. Amerykańska FCC umieściła na "Covered List" nowe modele chińskich robotów humanoidalnych i czworonożnych oraz podłączonych do sieci falowników mocy, zakazując im uzyskania homologacji wymaganej do importu i sprzedaży w USA ze względu na potwierdzone luki bezpieczeństwa (backdoory); zakaz nie obejmuje już działających urządzeń.
