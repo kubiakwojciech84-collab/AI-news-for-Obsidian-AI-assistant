@@ -1,3 +1,17 @@
+## 31.07.2026
+
+1. OpenAI poinformowało pracowników, że przychody z lipca (w ujęciu zannualizowanym) przekroczyły sumę za cały II kwartał 2026 r., a firma odnotowała pierwszy miesiąc z przychodami rzędu 1 mld USD; wzrost napędzają model GPT-5.6, agent ChatGPT Work oraz narzędzie do kodowania Codex.
+
+2. Google DeepMind zaprezentował Gemini Robotics 2 - pakiet trzech modeli obejmujący model wizyjno-językowo-akcyjny do sterowania całym ciałem humanoidów, model ER 2 do wieloetapowego planowania i współpracy wielu robotów oraz wariant on-device adaptujący się do nowych konstrukcji robotów w ciągu godzin.
+
+3. Badacze bezpieczeństwa (Noma Security) ujawnili krytyczną lukę CVE-2026-59726 (CVSS 10.0) w Ruflo, popularnej otwartoźródłowej nakładce agentowej dla Claude Code i OpenAI Codex - nieuwierzytelniony mostek MCP eksponował 233 narzędzia (w tym wykonywanie poleceń powłoki), umożliwiając kradzież kluczy API i trwałe "zatruwanie" pamięci agentów AI.
+
+4. 2 sierpnia 2026 r. wchodzą w życie kluczowe przepisy unijnego AI Act dotyczące przejrzystości (art. 50) - chatboty będą musiały jawnie informować, że rozmawia się ze sztuczną inteligencją, a treści i deepfake'i generowane przez AI będą wymagały czytelnego oznaczenia; wymogi dla systemów wysokiego ryzyka pozostają odroczone.
+
+5. Amazon opublikował wyniki za II kwartał 2026 r. - przychody AWS wzrosły o 37% r/r do 42,2 mld USD (najszybszy wzrost od 18 kwartałów) przy marży operacyjnej 39,4%; CEO Andy Jassy podał, że biznesy AI i chipów w ramach AWS przekroczyły już osobno roczne tempo przychodów 25 mld USD każdy.
+
+---
+
 ## 30.07.2026
 
 1. Ponad 1200 pracowników czołowych laboratoriów AI (OpenAI, Anthropic, Google, Meta) podpisało list otwarty "Pacing the Frontier", wzywający rząd USA do zbudowania międzynarodowych narzędzi technicznych i regulacyjnych umożliwiających w razie potrzeby kontrolowane spowolnienie rozwoju AI; OpenAI i Anthropic formalnie poparły apel jako firmy.
