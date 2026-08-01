@@ -1,3 +1,17 @@
+## 01.08.2026
+
+1. Nvidia i południowokoreański SK Group ogłosiły list intencyjny o partnerstwie infrastrukturalnym AI wartym ponad 500 mld USD - SK Telecom wdroży systemy obliczeniowe Nvidia Vera Rubin z pamięcią HBM4 SK hynix o docelowej mocy do 2 GW, a pierwsza "fabryka AI" ma ruszyć w 2027 r.; SK hynix dodatkowo dostarczy pamięci AI do centrów danych Microsoftu.
+
+2. Fireworks AI, platforma infrastruktury do wnioskowania (inference) dla modeli generatywnych, zamknęła rundę Series D na ponad 1,5 mld USD przy wycenie 17,5 mld USD (m.in. Nvidia, Index Ventures, TCV); firma przekroczyła już 1 mld USD przychodu w ujęciu rocznym, a wolumen przetwarzanych tokenów wzrósł do ponad 40 bln dziennie.
+
+3. Google DeepMind zaprezentował LEAP - agentowy framework łączący duże modele językowe z formalnym dowodzeniem twierdzeń w systemie Lean - który samodzielnie rozwiązał wszystkie 12 zadań z konkursu Putnam 2025 i podniósł skuteczność dowodzenia w benchmarku zbliżonym do olimpiady IMO z poniżej 10% do 70%.
+
+4. CuspAI, brytyjski startup zajmujący się odkrywaniem materiałów za pomocą AI, pozyskał 450 mln USD w rundzie Series B (Kleiner Perkins, NEA, fundusz Jeffa Bezosa Bezos Expeditions i in.) przy wycenie 2,6 mld USD.
+
+5. Alibaba poprowadziło rozszerzenie rundy Series C singapurskiego startupu AIsphere (twórcy platformy do generowania wideo PixVerse), podnosząc łączne finansowanie rundy do 439 mln USD przy wycenie ponad 2 mld USD - inwestycja wpisuje się w wyścig chińskich gigantów technologicznych o interaktywne modele świata (world models), rywalizujące z przewagą ByteDance w tym segmencie.
+
+---
+
 ## 31.07.2026
 
 1. OpenAI poinformowało pracowników, że przychody z lipca (w ujęciu zannualizowanym) przekroczyły sumę za cały II kwartał 2026 r., a firma odnotowała pierwszy miesiąc z przychodami rzędu 1 mld USD; wzrost napędzają model GPT-5.6, agent ChatGPT Work oraz narzędzie do kodowania Codex.
