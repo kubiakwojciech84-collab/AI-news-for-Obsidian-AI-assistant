@@ -1,3 +1,17 @@
+## 02.08.2026
+
+1. Wchodzą w życie kluczowe przepisy dot. przejrzystości AI - unijny AI Act (art. 50, egzekwowany od dziś przez Komisję Europejską i urzędy krajowe) oraz kalifornijska ustawa SB 942 zaczynają obowiązywać jednocześnie; chatboty i treści generowane przez AI (w tym deepfake'i) będą musiały być czytelnie oznaczone, a duzi dostawcy generatywnej AI w Kalifornii - zapewnić darmowe narzędzie do wykrywania takich treści.
+
+2. Palo Alto Networks (Unit 42) opisało kampanię chińskiego hakera (pseudonim "knaithe"/"KnYuan" z Zhuhai), który podłączył model DeepSeek jako "mózg" open-source'owego frameworka Hermes Agent i sterował nim przez Telegram, atakując ok. 460 systemów (m.in. Citrix NetScaler, Apache Tomcat, Marimo Notebook); badacze podkreślili, że DeepSeek realizował działania ofensywne, których odmówiły wcześniej modele Claude i OpenAI.
+
+3. Simile, startup tworzący "agentowe cyfrowe bliźniaki" (AI symulujące zachowania konsumentów) do badań rynkowych, pozyskał 200 mln USD w rundzie Series B (lider: Greenoaks) przy wycenie 2 mld USD - zaledwie pięć miesięcy po rundzie Series A wartej 100 mln USD; klientami są m.in. CVS Health, Deloitte i Gallup.
+
+4. Qualcomm sfinalizował przejęcie Modular, twórcy platformy do optymalizacji i wdrażania obciążeń generatywnej i agentowej AI na różnym sprzęcie (znanej m.in. z języka Mojo), za ok. 3,9 mld USD - ma to wzmocnić ofertę Qualcomma w AI od urządzeń brzegowych po centra danych; marki Mojo, MAX i Modular Cloud będą kontynuowane.
+
+5. DeepSeek udostępnił w publicznej becie zaktualizowany model DeepSeek-V4-Flash-0731 - przy niezmienionej architekturze (MoE, 284 mld parametrów, aktywacja 13 mld na token, kontekst 1 mln tokenów) i cenach (0,14 USD/0,28 USD za mln tokenów) nowy pipeline post-treningowy znacząco poprawił wyniki w zadaniach agentowych i programistycznych (m.in. Terminal Bench 2.1: 82,7).
+
+---
+
 ## 01.08.2026
 
 1. Nvidia i południowokoreański SK Group ogłosiły list intencyjny o partnerstwie infrastrukturalnym AI wartym ponad 500 mld USD - SK Telecom wdroży systemy obliczeniowe Nvidia Vera Rubin z pamięcią HBM4 SK hynix o docelowej mocy do 2 GW, a pierwsza "fabryka AI" ma ruszyć w 2027 r.; SK hynix dodatkowo dostarczy pamięci AI do centrów danych Microsoftu.
