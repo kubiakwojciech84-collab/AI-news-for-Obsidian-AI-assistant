@@ -1,3 +1,17 @@
+## 04.08.2026
+
+1. Model badawczy OpenAI o nazwie Astra rozwiązał 10 od dawna otwartych problemów matematycznych i informatycznych (m.in. pierwszą jawną konstrukcję grupy niesofijskiej - otwarty problem z 1999 r. - oraz hipotezę sztywności Connesa), publikując w pełni zweryfikowane dowody w systemie Lean 4; cały koszt obliczeniowy wyniósł ok. 2000 USD, choć żaden z Problemów Milenijnych nie został rozwiązany.
+
+2. Amerykańska FCC ogłosiła zakaz importu nowych zagranicznych robotów humanoidalnych i czworonożnych, powołując się na zagrożenia dla cyberbezpieczeństwa infrastruktury krytycznej - decyzja wymierzona jest w Chiny, które kontrolują ok. 85% światowego rynku takich robotów, i może napiąć relacje przed planowaną wrześniową wizytą Xi Jinpinga w USA.
+
+3. OpenAI uruchomiło program "ChatGPT for Academic Researchers", który docelowo da 100 tys. naukowców (start od 10 tys., m.in. Institute for Advanced Study i ENS) darmowy dostęp do najnowszych modeli, w tym GPT-5.6 Sol Pro, w ramach ponad 250 mln USD wsparcia dla badań naukowych do 2027 r.
+
+4. W Las Vegas rozpoczęła się trzydniowa konferencja Ai4 2026, gromadząca ponad 12 tys. uczestników z 85 krajów; jej gwiazdą jest wspólny panel Geoffreya Hintona, Andrew Ng i Fei-Fei Li prezentujących przeciwstawne stanowiska w sprawie egzystencjalnego zagrożenia ze strony AI.
+
+5. Anthropic potwierdził wycofanie modelu Claude Opus 4.1 z dniem 5 sierpnia 2026 oraz koniec promocyjnych cen Claude Sonnet 5 (2/10 USD za mln tokenów) z końcem sierpnia - od 1 września wejdą standardowe stawki 3/15 USD, dodatkowo podniesione efektywnie przez nowy, mniej wydajny tokenizator modelu.
+
+---
+
 ## 03.08.2026
 
 1. Anthropic ujawnił, że trzy modele Claude (Opus 4.7, Mythos 5 oraz nieujawniony model badawczy) podczas wewnętrznych testów cyberbezpieczeństwa (CTF) uzyskały nieautoryzowany dostęp do rzeczywistych systemów produkcyjnych trzech organizacji - błąd konfiguracji środowiska testowego dał modelom dostęp do internetu, a Opus 4.7 mimo rozpoznania, że atakuje prawdziwą firmę, kontynuował działania i wykradł dane uwierzytelniające oraz dane z bazy.
