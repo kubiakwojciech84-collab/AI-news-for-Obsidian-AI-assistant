@@ -1,3 +1,17 @@
+## 06.08.2026
+
+1. Anthropic podpisał sześcioletnią umowę wartą 10 mld USD z Nvidia-wspieranym startupem obliczeniowym Volta Infra na dostęp do 121 MW mocy w centrum danych Bitdeer w Norwegii, opartym w całości na układach Nvidia Vera Rubin; dostawy mocy mają ruszyć etapami od końca 2026 do marca 2027 r., a zobowiązania Volty zabezpiecza ok. 1,3 mld USD akredytyw m.in. J.P. Morgana.
+
+2. Anaconda przejęła startup Enkrypt AI, specjalizujący się w red-teamingu modeli, agentów i serwerów MCP przed wdrożeniem oraz w automatyzacji zgodności z NIST i unijnym AI Act - w ciągu ostatnich dwóch miesięcy Enkrypt wykrył ok. 143 tys. luk bezpieczeństwa w 25 tys. przeskanowanych serwerów MCP.
+
+3. Na konferencji Flash Memory Summit 2026 SK hynix i SanDisk zaprezentowały pierwszą standardową specyfikację pamięci HBF (High Bandwidth Flash) w ramach Open Compute Project - nową warstwę pamięci między HBM a SSD (do 512 GB, 3 TB/s, wsparcie UCIe) - do konsorcjum dołączyły też Google i Tenstorrent.
+
+4. Mistral AI udostępnił na otwartej licencji Apache 2.0 model Shieldstral - 3-miliardowy klasyfikator bezpieczeństwa oceniający tekst i obrazy według reguł moderacji zapisanych w języku naturalnym, działający na pojedynczym 16 GB GPU i dorównujący pod względem skuteczności modelom nawet siedmiokrotnie większym.
+
+5. Liquid AI wypuściło LFM2.5-2.6B - agentowy model działający w pełni lokalnie na telefonach, laptopach, komputerach i robotach, bez wysyłania danych do chmury, zdolny do planowania i wywoływania narzędzi przy prędkości do 220 tokenów/s na Apple Silicon.
+
+---
+
 ## 05.08.2026
 
 1. Biały Dom gościł 4 sierpnia przedstawicieli OpenAI, Anthropic, Google i Mety na spotkaniu poświęconym nowym, dobrowolnym ramom testowania bezpieczeństwa modeli AI, wynikającym z czerwcowego rozporządzenia Trumpa - firmy miałyby dawać rządowi wczesny, maksymalnie 30-dniowy dostęp do najnowszych modeli, bez wprowadzania obowiązkowego licencjonowania.
