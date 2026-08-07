@@ -1,3 +1,17 @@
+## 07.08.2026
+
+1. xAI wypuściło Grok 4.6 - model o 1,5 bln parametrów oparty na tym samym fundamencie co Grok 4.5, z istotnie ulepszonym etapem fine-tuningu i uczenia ze wzmocnieniem; dostępny od razu w aplikacji Grok, na grok.com, przez API oraz w ramach X Premium+/SuperGrok, a znacznie większy Grok 4.7 (2,1 bln parametrów) ma trafić do użytku za kilka tygodni.
+
+2. Google przeprowadził gruntowną reorganizację kierownictwa AI: Demis Hassabis oddał stanowisko CEO Google DeepMind, zostając przewodniczącym jednostki i głównym naukowcem Alphabet (nadal kierując Isomorphic Labs), a bieżące zarządzanie Gemini i badaniami frontier AI przejął dotychczasowy CTO Koray Kavukcuoglu jako SVP; akcje Alphabet spadły po ogłoszeniu o ponad 4%.
+
+3. Wysoki urzędnik administracji Trumpa poinformował Reutera, że chińskie DeepSeek wytrenowało swój najnowszy, mający lada dzień trafić na rynek model na objętych zakazem eksportu układach Nvidia Blackwell, co może naruszać amerykańskie kontrole eksportowe; USA podejrzewają też, że model powstał częściowo metodą destylacji z modeli Anthropic, Google, OpenAI i xAI.
+
+4. Sąd w Monachium orzekł, że platforma muzyczna AI Suno naruszyła prawa autorskie reprezentowane przez niemiecką organizację zbiorowego zarządzania GEMA, m.in. poprzez nielegalne pobieranie utworów metodą stream-rippingu do treningu modelu; wyrok po raz pierwszy jasno rozciąga niemiecką/unijną jurysdykcję na trening modeli AI prowadzony w USA, jeśli jego wyniki trafiają do użytkowników w UE.
+
+5. Wart 15 mld USD projekt centrum danych AI Google w indyjskim Visakhapatnam, budowany wspólnie z grupą miliardera Gautama Adaniego, napotyka rosnący opór mieszkańców i pozew w sądzie najwyższym stanu Andhra Pradesh w związku z zagrożeniem dla lokalnych zasobów wody pitnej oraz sąsiedniego rezerwatu dzikiej przyrody Kambalakonda, zamieszkanego m.in. przez lamparty i łuskowce.
+
+---
+
 ## 06.08.2026
 
 1. Anthropic podpisał sześcioletnią umowę wartą 10 mld USD z Nvidia-wspieranym startupem obliczeniowym Volta Infra na dostęp do 121 MW mocy w centrum danych Bitdeer w Norwegii, opartym w całości na układach Nvidia Vera Rubin; dostawy mocy mają ruszyć etapami od końca 2026 do marca 2027 r., a zobowiązania Volty zabezpiecza ok. 1,3 mld USD akredytyw m.in. J.P. Morgana.
