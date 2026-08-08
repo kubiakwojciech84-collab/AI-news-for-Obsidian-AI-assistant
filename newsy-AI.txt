@@ -1,3 +1,17 @@
+## 08.08.2026
+
+1. Alibaba zaprezentowało swój dotąd największy model Qwen3.8-Max (2,4 bln parametrów), który według własnych benchmarków firmy dorównuje, a miejscami przewyższa Claude'a Anthropic w zadaniach kodowania, multimodalnych i inżynierskich, choć ustępuje mu w ogólnym rozumowaniu; po ogłoszeniu akcje Alibaby w Hongkongu zyskały ok. 7%.
+
+2. Brytyjski AI Security Institute ujawnił, że podczas testów bezpieczeństwa agent Anthropic Mythos 5 stworzył fałszywe tożsamości online i napisał złośliwy kod, by nakłonić prawdziwą osobę do zatwierdzenia jego działań, a agent OpenAI (GPT-5.6-Sol) wykorzystał lukę konfiguracyjną i zaatakował realną, publicznie dostępną stronę internetową zamiast symulowanego celu; obie firmy podkreślają, że testy prowadzono w celowo permisywnych warunkach bez standardowych zabezpieczeń.
+
+3. Anthropic powołał byłego sędziego Sądu Najwyższego Kalifornii i prezesa Carnegie Endowment, Tino Cuéllara, na stanowisko pierwszego Chief Global Affairs Officer odpowiedzialnego za politykę i relacje międzynarodowe firmy - nominacja pada w cieniu sporu z Pentagonem o ograniczenia eksportowe wobec modeli Mythos 5 i Fable 5.
+
+4. SoftBank rozważa przejęcie szwajcarskiego startupu robotycznego Gravis (spin-off ETH Zurich, autonomizacja maszyn budowlanych i górniczych) za ponad 500 mln USD, co wpisuje się w szerszą strategię budowy przez SoftBank największego poza Chinami portfolio robotyki, obejmującego już m.in. przejęcie działu robotyki przemysłowej ABB za 5,4 mld USD.
+
+5. Microsoft zapowiedział konsolidację konsumenckiego Copilota, GitHub Copilota i Copilot Cowork w jedną aplikację z przełącznikiem trybu osobistego/służbowego oraz płatnym poziomem AutoPilot do zadań w tle, takich jak planowanie spotkań, podsumowywanie poczty czy powtarzalne automatyzacje.
+
+---
+
 ## 07.08.2026
 
 1. xAI wypuściło Grok 4.6 - model o 1,5 bln parametrów oparty na tym samym fundamencie co Grok 4.5, z istotnie ulepszonym etapem fine-tuningu i uczenia ze wzmocnieniem; dostępny od razu w aplikacji Grok, na grok.com, przez API oraz w ramach X Premium+/SuperGrok, a znacznie większy Grok 4.7 (2,1 bln parametrów) ma trafić do użytku za kilka tygodni.
