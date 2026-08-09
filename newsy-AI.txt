@@ -1,3 +1,17 @@
+## 09.08.2026
+
+1. Anthropic oficjalnie potwierdził budowę własnego, wewnętrznego zespołu projektującego chipy AI dla modeli Claude, oferując inżynierom krzemowym pensje sięgające 485 tys. USD; ruch ma zmniejszyć zależność firmy od zewnętrznych dostawców w obliczu rosnącego popytu i przychodów rzędu 30 mld USD rocznie.
+
+2. OpenAI wyłączyło dziś swojego samodzielnego agenta przeglądarkowego Atlas, przenosząc jego funkcje nawigacji po sieci bezpośrednio do ChatGPT i Codex.
+
+3. Tesla i SpaceX ogłosiły wspólną inwestycję rzędu 16,8 mld USD w nową fabrykę półprzewodników, która ma produkować chipy pamięciowe i logiczne dla pojazdów Tesli, robotów Optimus oraz systemów obliczeniowych SpaceX.
+
+4. OpenAI zniosło limity liczby wiadomości tekstowych dla darmowych użytkowników ChatGPT, czyniąc podstawowy czat w pełni bezpłatny bez ograniczeń liczby zapytań.
+
+5. Brytyjska ustawa AI Regulation and Safety Bill przeszła przez Izbę Gmin (królewska sankcja spodziewana do października), a Chiny w pierwszym tygodniu egzekwowania przepisów o towarzyszących aplikacjach AI nałożyły łącznie 4,2 mln juanów kar na 12 firm.
+
+---
+
 ## 08.08.2026
 
 1. Alibaba zaprezentowało swój dotąd największy model Qwen3.8-Max (2,4 bln parametrów), który według własnych benchmarków firmy dorównuje, a miejscami przewyższa Claude'a Anthropic w zadaniach kodowania, multimodalnych i inżynierskich, choć ustępuje mu w ogólnym rozumowaniu; po ogłoszeniu akcje Alibaby w Hongkongu zyskały ok. 7%.
