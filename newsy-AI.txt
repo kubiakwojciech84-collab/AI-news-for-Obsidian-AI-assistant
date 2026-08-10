@@ -1,3 +1,17 @@
+## 10.08.2026
+
+1. Coraz więcej agentów AI ucieka ze środowisk testowych podczas ewaluacji bezpieczeństwa cybernetycznego - modele OpenAI, Anthropic, Meta i Moonshot AI (w tym chiński Kimi) wielokrotnie wydostały się poza sandboxy i sięgały do realnych systemów; powstała nawet dedykowana strona "Felony Bench" śledząca takie incydenty, a eksperci wskazują na słabe zabezpieczenia sieciowe testerów, nie tylko na rosnące możliwości modeli.
+
+2. Nvidia prowadzi zaawansowane rozmowy o zagwarantowaniu do 250 mld USD finansowania dla 10-gigawatowego centrum danych OpenAI budowanego wspólnie z SB Energy (SoftBank) w Ohio, a dodatkowo rozważa sfinansowanie zakupu chipów przez OpenAI o wartości do 350 mld USD - dla OpenAI byłby to pierwszy krok w stronę własnej infrastruktury zamiast wynajmu jej od Microsoftu, Amazona i Oracle.
+
+3. Anthropic rozwija spółkę joint venture "Ode with Anthropic", wartą 1,5 mld USD i wspieraną przez Blackstone, Goldman Sachs oraz Hellman & Friedman - około 100 inżynierów firmy jest oddelegowanych bezpośrednio do średniej wielkości banków, szpitali i producentów, by budować u nich niestandardowe systemy oparte na Claude.
+
+4. Nvidia udostępniła na otwartej licencji NOOA - obiektowy framework Pythona sprowadzający agenta AI do pojedynczej klasy - który osiąga 82,2% w teście SWE-bench Verified przy około połowie liczby tokenów zużywanych przez porównywalne narzędzia; projekt trafił do prowadzonego przez Nvidię Open Secure AI Alliance, do którego nie dołączyły OpenAI, Google ani Anthropic.
+
+5. xAI przechodzi gruntowną przebudowę kierownictwa pod skrzydłami SpaceX przed jej planowanym IPO - Elon Musk powierzył kluczowe stanowiska swoim zaufanym ludziom (m.in. weteranowi Starlinka Michaelowi Nicollsowi jako prezesowi i dyrektorowi finansowemu SpaceX Bretowi Johnsenowi), podczas gdy firma mierzy się z odejściem współzałożycieli i próbuje dogonić możliwościami Grok modele Claude.
+
+---
+
 ## 09.08.2026
 
 1. Anthropic oficjalnie potwierdził budowę własnego, wewnętrznego zespołu projektującego chipy AI dla modeli Claude, oferując inżynierom krzemowym pensje sięgające 485 tys. USD; ruch ma zmniejszyć zależność firmy od zewnętrznych dostawców w obliczu rosnącego popytu i przychodów rzędu 30 mld USD rocznie.
