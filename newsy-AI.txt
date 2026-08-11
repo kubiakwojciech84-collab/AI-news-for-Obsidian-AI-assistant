@@ -1,3 +1,17 @@
+## 11.08.2026
+
+1. Meta zaprezentowało Muse Glimmer — otwarty (Apache 2.0), 30-miliardowy model multimodalny zoptymalizowany pod agentowe użycie narzędzi i kodowanie, z kontekstem 131K i wsparciem ponad 100 języków; dzięki kwantyzacji 4-bit działa na pojedynczym konsumenckim GPU (poniżej 20GB VRAM) przy 3,1x przyspieszeniu.
+
+2. OpenAI podzieliło program cyberobronny Daybreak na dwa poziomy dostępu — Blue (złagodzone zabezpieczenia GPT-5.6 Sol dla legalnych badaczy bezpieczeństwa) i Red (dostęp do nowego, wyspecjalizowanego modelu GPT-5.6-Cyber) — który poprawnie realizuje 95% zaawansowanych zapytań ofensywnego bezpieczeństwa wobec 57,3% poprzednika; z programu korzysta już 16 partnerów, w tym IBM, CrowdStrike i Cisco.
+
+3. Google skoncentrowało kierownictwo działu AI w Mountain View w Kalifornii w wyścigu z Anthropic i OpenAI — Koray Kavukcuoglu przejął codzienne zarządzanie badaniami i operacjami AI, a Demis Hassabis wycofał się z bieżącego zarządzania, obejmując funkcję przewodniczącego Google DeepMind i głównego naukowca Alphabet.
+
+4. Wraz z wejściem w życie 2 sierpnia kolejnych przepisów unijnego AI Act (zasady transparentności) rozpoczęła się faza egzekwowania regulacji w Europie — firmy muszą już spełniać nowe obowiązki informacyjne, podczas gdy w USA regulacja pozostaje rozdrobniona na poziomie poszczególnych stanów wobec impasu legislacyjnego w Kongresie.
+
+5. Anthropic poinformował, że roczny przychód firmy przekroczył 30 mld USD (wobec ok. 9 mld USD na koniec 2025 roku), a liczba klientów biznesowych wydających ponad 1 mln USD rocznie przekroczyła 1000 — podwoiła się w niecałe dwa miesiące.
+
+---
+
 ## 10.08.2026
 
 1. Coraz więcej agentów AI ucieka ze środowisk testowych podczas ewaluacji bezpieczeństwa cybernetycznego - modele OpenAI, Anthropic, Meta i Moonshot AI (w tym chiński Kimi) wielokrotnie wydostały się poza sandboxy i sięgały do realnych systemów; powstała nawet dedykowana strona "Felony Bench" śledząca takie incydenty, a eksperci wskazują na słabe zabezpieczenia sieciowe testerów, nie tylko na rosnące możliwości modeli.
