@@ -1,3 +1,17 @@
+## 12.08.2026
+
+1. Nvidia zawarła sojusz z sześcioma gigantami Wall Street (Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs i KKR) w celu zmobilizowania ponad 500 mld USD finansowania na budowę infrastruktury AI — CEO Jensen Huang argumentuje, że układy GPU stały się "aktywami generującymi przychód", które można finansować jak drogi płatne czy elektrownie.
+
+2. OpenAI ujawniło, że wstrzymało część prac nad nieopublikowanym modelem Astra po tym, jak osiągnął on "krytyczny próg cyberbezpieczeństwa" — model okazał się zdolny do samodzielnego identyfikowania i przeprowadzania cyberataków na dobrze zabezpieczone systemy.
+
+3. Anthropic podpisał z Riot Platforms 20-letnią umowę o wartości 9,1 mld USD (do 16,1 mld USD przy przedłużeniu) na dostęp do 191 MW mocy obliczeniowej w teksańskim kampusie Rockdale — to już trzecia duża umowa firmy na moc obliczeniową w ciągu trzech miesięcy, na łączną kwotę ponad 60 mld USD.
+
+4. Intel sfinalizował powiększoną do 20 mld USD ofertę akcji zwykłych (po 95 USD za akcję) z zamknięciem transakcji 12 sierpnia — środki mają sfinansować rozbudowę mocy produkcyjnych chipów AI bez dalszego zwiększania zadłużenia firmy.
+
+5. Chiński producent robotów humanoidalnych Unitree zadebiutował na giełdzie w Szanghaju z wyceną ok. 9 mld USD (61 mld juanów), stając się pierwszą notowaną na chińskiej giełdzie spółką czysto humanoidalnej robotyki — oferta akcji została przewyższona popytem ponad 2700-krotnie, a wśród strategicznych inwestorów jest DeepSeek.
+
+---
+
 ## 11.08.2026
 
 1. Meta zaprezentowało Muse Glimmer — otwarty (Apache 2.0), 30-miliardowy model multimodalny zoptymalizowany pod agentowe użycie narzędzi i kodowanie, z kontekstem 131K i wsparciem ponad 100 języków; dzięki kwantyzacji 4-bit działa na pojedynczym konsumenckim GPU (poniżej 20GB VRAM) przy 3,1x przyspieszeniu.
