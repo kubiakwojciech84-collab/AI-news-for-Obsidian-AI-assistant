@@ -1,3 +1,17 @@
+## 13.08.2026
+
+1. Anthropic, Macquarie Asset Management i singapurski fundusz GIC powołały spółkę joint venture Theseus Infrastructure do budowy i wynajmu dedykowanych centrów danych na potrzeby Anthropic w USA — Macquarie i GIC sfinansują większość kapitału, a Anthropic zobowiązał się pokrywać ewentualne podwyżki cen prądu dla lokalnych odbiorców.
+
+2. DARPA i Siły Powietrzne USA rozpoczęły w ramach programu VENOM testy w locie myśliwca F-16 sterowanego w pełni przez agenta AI na bazie Eglin — pilot bezpieczeństwa pozostaje w kokpicie i może w każdej chwili przejąć stery, a system rozwija wcześniejsze osiągnięcia programu ACE z samolotem X-62A VISTA.
+
+3. Badacze bezpieczeństwa ujawnili największy jak dotąd w 2026 r. atak na łańcuch dostaw AI — kompromitacja pakietów PyPI popularnego projektu LiteLLM (przez lukę w skanerze Trivy) mogła narazić ponad 2500 firm i ok. 434 tys. pipeline'ów CI/CD na wyciek kluczy API, danych uwierzytelniających chmur i tokenów Kubernetes; FBI ostrzega przed dalszym wykorzystywaniem przechwyconych danych.
+
+4. OpenAI ogłosiło, że ChatGPT przekroczył 1 mld cotygodniowych aktywnych użytkowników na świecie, po tym jak aplikacja osiągnęła już wcześniej 1 mld użytkowników miesięcznych jako najszybciej rozwijająca się aplikacja w historii.
+
+5. AI-owy serwis informacyjny RuntimeWire, prowadzony bez ludzkich dziennikarzy przez przedsiębiorcę Ryana Merketa kosztem ok. 100 USD dziennie, wyprzedził tradycyjne media z publikacją szczegółów prezentacji OpenAI o bezpieczeństwie z konferencji Black Hat — tekst powstał w ok. 6 minut od otrzymania transkrypcji, budząc dyskusję o przyszłości dziennikarstwa technologicznego.
+
+---
+
 ## 12.08.2026
 
 1. Nvidia zawarła sojusz z sześcioma gigantami Wall Street (Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs i KKR) w celu zmobilizowania ponad 500 mld USD finansowania na budowę infrastruktury AI — CEO Jensen Huang argumentuje, że układy GPU stały się "aktywami generującymi przychód", które można finansować jak drogi płatne czy elektrownie.
