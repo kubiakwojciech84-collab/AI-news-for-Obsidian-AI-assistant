@@ -1,3 +1,17 @@
+## 14.08.2026
+
+1. Google poinformował, że aplikacja Gemini przekroczyła 1 mld aktywnych użytkowników miesięcznie, stając się najszybciej rosnącym produktem w historii firmy — 63% użytkowników korzysta z trybu głosowego, a system generuje ponad 150 mln obrazów dziennie.
+
+2. Operator centrów danych Vantage Data Centers, wspierany przez Silver Lake i DigitalBridge, rozważa IPO przy wycenie ok. 100 mld USD lub sprzedaż firmy — byłaby to największa dotąd oferta publiczna spółki z branży centrów danych, napędzana rosnącym popytem generowanym przez AI; Vantage współpracuje też z Oracle i OpenAI przy kampusie Stargate w Wisconsin.
+
+3. Twórca agenta kodującego Devin, startup Cognition AI, prowadzi wstępne rozmowy o nowej rundzie finansowania przy wycenie sięgającej 40 mld USD — to wzrost o ponad 50% względem 26 mld USD sprzed niespełna trzech miesięcy, napędzany przychodami zbliżającymi się już do 1 mld USD rocznie.
+
+4. Indyjski koncern Larsen & Toubro podpisał kontrakt wart 10-15 tys. crore rupii na budowę największego w Indiach pojedynczego klastra AI — 10 tys. układów Nvidia B300 w kampusie w Chennai na potrzeby amerykańskiej firmy Together AI, w ramach szerszej rozbudowy suwerennej infrastruktury GPU kraju.
+
+5. SpaceXAI (dawniej xAI) wypuściło flagowy model Grok 4.6, zoptymalizowany pod długo działających agentów, kodowanie i pracę wiedzową, z kontekstem 500K tokenów — w kompozytowym rankingu Artificial Analysis dorównuje modelowi GPT-5.6 Sol od OpenAI, ustępując jedynie Fable 5 Max od Anthropic.
+
+---
+
 ## 13.08.2026
 
 1. Anthropic, Macquarie Asset Management i singapurski fundusz GIC powołały spółkę joint venture Theseus Infrastructure do budowy i wynajmu dedykowanych centrów danych na potrzeby Anthropic w USA — Macquarie i GIC sfinansują większość kapitału, a Anthropic zobowiązał się pokrywać ewentualne podwyżki cen prądu dla lokalnych odbiorców.
