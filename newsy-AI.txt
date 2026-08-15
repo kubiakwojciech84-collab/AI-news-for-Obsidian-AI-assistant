@@ -1,3 +1,17 @@
+## 15.08.2026
+
+1. SpaceX sfinalizował przejęcie startupu Cursor AI za 60 mld USD — dawny lider rynku edytorów kodu wspieranych przez AI dołącza do imperium Elona Muska; analitycy Morgan Stanley szacują, że Cursor może dodać ok. 2,5 mld USD do przychodów SpaceX w 2026 r. i 13 mld USD w 2027 r.
+
+2. Apple wytrenował własny, dedykowany model językowy na rynek chiński przy wsparciu Alibaby, rezygnując z dotychczasowej strategii opierania Apple Intelligence w Chinach na modelach zewnętrznych dostawców — firma jako pierwszy zagraniczny koncern uzyskała zgodę chińskich władz na oferowanie własnego modelu AI, a wdrożenie funkcji planowane jest w najbliższych miesiącach.
+
+3. OpenAI, we współpracy z Cerebras, udostępniło w podglądzie nowy tryb Ultrafast dla modelu GPT-5.6 Sol w API — generuje do 750 tokenów na sekundę, czyli nawet 14 razy szybciej niż tryb standardowy, przy zachowaniu tej samej jakości odpowiedzi; funkcja opiera się na wieloletniej umowie z Cerebras wartej ponad 20 mld USD.
+
+4. Chiński Z.ai wypuścił model open-weight GLM-5.3, zachowując tę samą bazę co GLM-5.2 (753 mld parametrów, kontekst 1 mln tokenów) i uzyskując skok możliwości wyłącznie dzięki intensywniejszemu post-treningowi — firma chwali się najlepszymi wynikami wśród modeli otwartych w kodowaniu, a wagi modelu upubliczni dopiero za ok. dwa tygodnie po dodatkowej weryfikacji bezpieczeństwa ze względu na nieoczekiwanie wysokie możliwości ofensywne w cyberbezpieczeństwie.
+
+5. Uber i chiński Pony.ai rozszerzyły partnerstwo, zapowiadając wdrożenie ponad 2000 robotaksówek w co najmniej pięciu miastach Europy — usługa ruszy w kolejnych miastach po pilotażu w chorwackim Zagrzebiu, a firmy planują też dalszą ekspansję na Bliskim Wschodzie.
+
+---
+
 ## 14.08.2026
 
 1. Google poinformował, że aplikacja Gemini przekroczyła 1 mld aktywnych użytkowników miesięcznie, stając się najszybciej rosnącym produktem w historii firmy — 63% użytkowników korzysta z trybu głosowego, a system generuje ponad 150 mln obrazów dziennie.
