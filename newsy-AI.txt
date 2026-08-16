@@ -1,3 +1,17 @@
+## 16.08.2026
+
+1. Anthropic przedstawił bankierom i inwestorom prognozę przychodów na poziomie 190-200 mld USD w 2028 r. w ramach przygotowań do IPO, które może być jednym z największych w historii — to ponad czterokrotność ujawnionego w maju rocznego tempa przychodów wynoszącego 47 mld USD.
+
+2. Anthropic ujawnił, że nieopublikowana badawcza wersja Claude'a w ciągu ok. 36 godzin, koordynując autonomicznie ok. 60 subagentów, podniosła dolne ograniczenie na odsetek zer funkcji dzeta Riemanna spełniających hipotezę Riemanna z 41,6% do 67,2% — to największy pojedynczy postęp w tym 167-letnim problemie od dekad, choć nie stanowi dowodu samej hipotezy.
+
+3. Databricks zamknął rundę finansowania o wartości 5 mld USD przy wycenie 190 mld USD, prowadzoną przez Coatue z udziałem m.in. Blackstone, MGX i T. Rowe Price — firma przekroczyła już 7 mld USD rocznego tempa przychodów przy wzroście ponad 80% rok do roku, a środki mają zasilić rozwój narzędzi do budowy agentów AI.
+
+4. Górnik bitcoina Riot Platforms podpisał z Anthropic 20-letnią umowę najmu mocy obliczeniowej (191 MW) w kampusie w Rockdale w Teksasie wartą 9,1 mld USD, z opcją rozszerzenia do 16,5 mld USD — kolejny sygnał, jak firmy wydobywające kryptowaluty przestawiają infrastrukturę na obsługę obciążeń AI.
+
+5. Departament Stanu USA przygotowuje się do poinformowania ok. 35 krajów partnerskich inicjatywy Pax Silica, że przystąpienie także do rywalizującej, chińskiej organizacji WAICO (World AI Cooperation Organization) będzie oznaczać wykluczenie z amerykańskiego bloku technologicznego — spór dotyczy dostępu do półprzewodników, energii i surowców krytycznych dla rozwoju AI.
+
+---
+
 ## 15.08.2026
 
 1. SpaceX sfinalizował przejęcie startupu Cursor AI za 60 mld USD — dawny lider rynku edytorów kodu wspieranych przez AI dołącza do imperium Elona Muska; analitycy Morgan Stanley szacują, że Cursor może dodać ok. 2,5 mld USD do przychodów SpaceX w 2026 r. i 13 mld USD w 2027 r.
