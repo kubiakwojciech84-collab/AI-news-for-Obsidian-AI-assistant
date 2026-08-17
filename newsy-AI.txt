@@ -1,3 +1,17 @@
+## 17.08.2026
+
+1. DeepSeek podniósł ceny dostępu do API modeli V4-Flash i V4-Pro nawet o ponad 1100%, wprowadzając od 16 sierpnia zróżnicowane stawki szczytowe i pozaszczytowe (np. V4-Pro drożeje z 0,87 USD do 3,96 USD za milion tokenów wyjściowych w godzinach szczytu) — mimo podwyżki ceny pozostają niższe niż u głównych konkurentów.
+
+2. Naukowcy z ELLIS Institute i Max Planck Institute wykryli lukę w szyfrowanych blokach "ukrytego rozumowania" w API OpenAI, Anthropic i Google, która pozwoliła odczytać ponad 315 tys. takich bloków i wydobyć z publicznych logów 182 aktywne dane uwierzytelniające (klucze API, hasła) — dostawcy wdrożyli już poprawki i atak nie jest obecnie możliwy do powtórzenia.
+
+3. Google skoncentrował kierownictwo pionu AI w Mountain View w Kalifornii — Koray Kavukcuoglu awansował na SVP odpowiedzialnego za DeepMind, a współzałożyciel Demis Hassabis objął funkcję przewodniczącego — w ramach przyspieszenia wyścigu z Anthropic i OpenAI o dominację na froncie rozwoju modeli.
+
+4. DARPA i Siły Powietrzne USA przeprowadziły w ramach programu VENOM pierwszy lot myśliwca F-16 sterowanego w pełni przez agenta AI, z pilotem bezpieczeństwa na pokładzie mogącym w każdej chwili przejąć kontrolę — to krok w stronę floty autonomicznych samolotów bojowych nadzorowanych przez ludzkich pilotów.
+
+5. Meta zaprezentowała Muse Code — terminalowego agenta kodującego konkurującego z Claude Code i Codex CLI, oparty na modelu Muse Spark 1.2 — z cenami od 1,25 USD za milion tokenów wejściowych i 4,25 USD za wyjściowe oraz tańszym wariantem od 0,10 USD dla użytkowników udostępniających dane treningowe.
+
+---
+
 ## 16.08.2026
 
 1. Anthropic przedstawił bankierom i inwestorom prognozę przychodów na poziomie 190-200 mld USD w 2028 r. w ramach przygotowań do IPO, które może być jednym z największych w historii — to ponad czterokrotność ujawnionego w maju rocznego tempa przychodów wynoszącego 47 mld USD.
