@@ -1,3 +1,17 @@
+## 18.08.2026
+
+1. Stripe sfinalizował przejęcie startupu OpenRouter za ponad 7 mld USD — to ponad pięciokrotność wyceny z rundy Series B (1,3 mld USD) sprzed zaledwie trzech miesięcy; OpenRouter obsługuje ponad 400 modeli AI od OpenAI, Anthropic, Google, Mety i DeepSeeka dla ok. 8 mln deweloperów.
+
+2. Anthropic poinformował inwestorów o wstępnych przychodach za II kwartał 2026 r. sięgających 11,5 mld USD (14-krotny wzrost rok do roku) oraz o pierwszym dodatnim wyniku operacyjnym — spółka wraz z bankami Morgan Stanley, Goldman Sachs i JPMorgan przygotowuje się do potencjalnego IPO jesienią.
+
+3. Google udostępnił model Gemini 3.7 Flash zoptymalizowany pod kodowanie i autonomiczne przepływy pracy, z wynikami skoczącymi na benchmarkach FrontierCode i DeepSWE oraz wprowadzeniem w ponad 160 krajach po promocyjnych, o połowę niższych cenach niż poprzednia wersja.
+
+4. Fireworks AI pozyskał 1,505 mld USD w rundzie Series D przy wycenie 17,5 mld USD — kolejny sygnał utrzymującego się boomu inwestycyjnego w infrastrukturę do wdrażania modeli AI mimo obaw o przegrzanie rynku.
+
+5. Korea Południowa i Japonia obrały rozbieżne ścieżki regulacyjne wobec AI: Seul szykuje przepisy pozwalające firmom trenować modele na oryginalnych danych osobowych bez zgody konsumentów (po uzyskaniu zgody regulatora), podczas gdy Tokio przygotowuje zasady zmuszające twórców modeli do ujawniania danych treningowych i metod przetwarzania w celu ochrony własności intelektualnej.
+
+---
+
 ## 17.08.2026
 
 1. DeepSeek podniósł ceny dostępu do API modeli V4-Flash i V4-Pro nawet o ponad 1100%, wprowadzając od 16 sierpnia zróżnicowane stawki szczytowe i pozaszczytowe (np. V4-Pro drożeje z 0,87 USD do 3,96 USD za milion tokenów wyjściowych w godzinach szczytu) — mimo podwyżki ceny pozostają niższe niż u głównych konkurentów.
