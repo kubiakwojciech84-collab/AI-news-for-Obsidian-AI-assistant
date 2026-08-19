@@ -1,3 +1,17 @@
+## 19.08.2026
+
+1. Anthropic opublikował sierpniowy raport o ryzyku, podnosząc ocenę zagrożenia katastrofalną niezgodnością (misalignment) z "bardzo niskiej" na "niską" ze względu na rosnącą niepewność, a przy okazji ujawnił istnienie nieopublikowanego wewnętrznego modelu "Model 2" wyraźnie mocniejszego niż Mythos 5 — firma deklaruje brak planów jego publicznego udostępnienia do czasu zakończenia pełnej oceny bezpieczeństwa.
+
+2. SpaceX oficjalnie zamknął wart 60 mld USD zakup startupu Cursor, twórcy popularnego edytora kodu opartego na AI — zespół Cursora dołączył do wewnętrznego działu inżynierii oprogramowania SpaceX i zyskał dostęp do jednej z największych na świecie flot GPU, w tym superkomputera Colossus.
+
+3. W Unii Europejskiej od 2 sierpnia obowiązują pełne wymogi transparentności dla systemów AI wysokiego ryzyka — obowiązkowe znakowanie treści generowanych przez AI, jawne informowanie użytkowników o interakcji z AI oraz ujawnianie deepfake'ów, pod groźbą kar do 35 mln EUR lub 7% globalnego obrotu rocznego.
+
+4. Meta udostępniła Glimmer — otwarty (open-weight) model AI, który każdy może pobrać i uruchomić na własnym sprzęcie, stanowiący kontrast wobec mocniejszego, zamkniętego modelu Muse Spark dostępnego wyłącznie przez API firmy.
+
+5. xAI wprowadziło model Grok 4.6, który pod względem wyników w Artificial Analysis Intelligence Index dorównuje GPT-5.6 Sol Max przy cenie ok. 2 USD za milion tokenów wejściowych i 6 USD za wyjściowe — kolejny krok w wyścigu cenowo-wydajnościowym między czołowymi laboratoriami AI.
+
+---
+
 ## 18.08.2026
 
 1. Stripe sfinalizował przejęcie startupu OpenRouter za ponad 7 mld USD — to ponad pięciokrotność wyceny z rundy Series B (1,3 mld USD) sprzed zaledwie trzech miesięcy; OpenRouter obsługuje ponad 400 modeli AI od OpenAI, Anthropic, Google, Mety i DeepSeeka dla ok. 8 mln deweloperów.
