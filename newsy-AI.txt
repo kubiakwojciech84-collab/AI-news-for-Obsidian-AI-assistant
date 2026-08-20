@@ -1,3 +1,17 @@
+## 20.08.2026
+
+1. OpenAI wstrzymał największy jak dotąd trening swojego przyszłego modelu Astra i zawiesił część prac nad nim po tym, jak wstępne testy wykazały, że model może przekroczyć ustalony przez firmę krytyczny próg zdolności hakerskich — decyzja zapadła po incydencie związanym z Hugging Face, w którym narzędzia AI posłużyły do przeprowadzenia cyberataku; firma wdraża też nowy system monitoringu mający wykrywać niepokojące zachowania modeli w ciągu 30 minut.
+
+2. Chipy Nvidia H200 ponownie trafiają do Chin — ByteDance i Tencent otrzymały w ostatnich tygodniach po ok. 10 tys. procesorów w ramach amerykańskiej licencji z 25-procentowym podatkiem, pozwalającej każdej z ok. dziesięciu zatwierdzonych chińskich firm (w tym Alibabie i JD.com) kupić do 75-100 tys. sztuk, choć realne dostawy stanowią na razie ułamek limitu.
+
+3. Startup Etched, tworzący specjalizowane chipy do inferencji AI konkurujące z Nvidią, pozyskał 700 mln USD przy wycenie 21 mld USD — wartość firmy podwoiła się w niecały miesiąc, a wśród inwestorów rundy znaleźli się Jane Street, Kleiner Perkins, Sequoia, Andreessen Horowitz i Tiger Global.
+
+4. Google zapłaci 10 mln USD na aukcji majątku upadłego Spirit Airlines za ogromny zbiór danych firmowych — ok. 100 mln e-maili pracowników, 500 mln czatów z Microsoft Teams oraz miliony plików i repozytoriów kodu — z zamiarem wykorzystania ich do trenowania modeli AI; dane osobowe pasażerów i program lojalnościowy są wyłączone z transakcji, a informacje wrażliwe zostaną zanonimizowane przed przekazaniem.
+
+5. Z powodu rosnącego zapotrzebowania na energię do treningu modeli AI, nowe centra danych w Europie budowane są coraz dalej od dużych miast — średnia odległość od głównych ośrodków ma wzrosnąć ze 46 km (projekty z lat 2022-2025) do 175 km w latach 2026-2028, a inwestorzy przenoszą się na tereny przemysłowe i zielone łąki tam, gdzie łatwiej zapewnić moc i chłodzenie.
+
+---
+
 ## 19.08.2026
 
 1. Anthropic opublikował sierpniowy raport o ryzyku, podnosząc ocenę zagrożenia katastrofalną niezgodnością (misalignment) z "bardzo niskiej" na "niską" ze względu na rosnącą niepewność, a przy okazji ujawnił istnienie nieopublikowanego wewnętrznego modelu "Model 2" wyraźnie mocniejszego niż Mythos 5 — firma deklaruje brak planów jego publicznego udostępnienia do czasu zakończenia pełnej oceny bezpieczeństwa.
