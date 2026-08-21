@@ -1,3 +1,17 @@
+## 21.08.2026
+
+1. Google DeepMind przeprowadza największą od lat przebudowę kierownictwa — współzałożyciel Demis Hassabis ustępuje ze stanowiska CEO i obejmuje funkcję przewodniczącego, po 27 latach z firmy odchodzi główny naukowiec Jeff Dean, a bieżące operacje oraz rozwój modeli Gemini przejmuje CTO Koray Kavukcuoglu, raportujący bezpośrednio do Sundara Pichaia; zmiana ma odpowiedzieć na niski morale zespołu, odpływ talentów i opóźnienia w publikacji nowego modelu flagowego wobec szybszych OpenAI i Anthropic.
+
+2. Badacze bezpieczeństwa ujawnili poważną lukę w API OpenAI, Anthropic i Google — wszyscy trzej dostawcy szyfrowali ukryte ślady rozumowania (chain-of-thought) swoich modeli tym samym globalnym kluczem, co pozwoliło odtworzyć w postaci jawnej 315 320 zaszyfrowanych bloków rozumowania i odzyskać z nich 182 dane uwierzytelniające, w tym klucze API i hasła; dostawcy zablokowali zademonstrowane ścieżki ataku, choć OpenAI i Anthropic kwestionują część ustaleń raportu.
+
+3. Anthropic opublikował wyniki eksperymentu, w którym Claude (Opus 4.8 i Mythos Preview) samodzielnie zaprojektował wiążące białka dla 14 z 15 testowanych celów biologicznych we współpracy z Adaptyv Bio i Twist Bioscience, osiągając skuteczność 22,6-35,1% wobec branżowej normy 10-15%, a w niektórych przypadkach uzyskując lepszą siłę wiązania niż najlepsze dotąd znane rozwiązania.
+
+4. OpenAI uruchomił dedykowaną, nastawioną na bezpieczeństwo wersję ChatGPT dla nastolatków w wieku 13-17 lat — tryb blokuje rozmowy dotyczące samobójstwa, samookaleczenia oraz treści romantyczno-seksualnych, a system predykcji wieku ma automatycznie kierować małoletnich użytkowników do tego trybu.
+
+5. Amerykańska agencja CISA dodała do katalogu aktywnie wykorzystywanych podatności (KEV) krytyczną lukę CVE-2025-62593 w Ray — popularnym open-source'owym frameworku do skalowania obciążeń AI używanym m.in. przez Amazon, Apple i OpenAI — nakazując agencjom federalnym łatanie systemów do 20 sierpnia ze względu na ryzyko zdalnego wykonania kodu.
+
+---
+
 ## 20.08.2026
 
 1. OpenAI wstrzymał największy jak dotąd trening swojego przyszłego modelu Astra i zawiesił część prac nad nim po tym, jak wstępne testy wykazały, że model może przekroczyć ustalony przez firmę krytyczny próg zdolności hakerskich — decyzja zapadła po incydencie związanym z Hugging Face, w którym narzędzia AI posłużyły do przeprowadzenia cyberataku; firma wdraża też nowy system monitoringu mający wykrywać niepokojące zachowania modeli w ciągu 30 minut.
