@@ -1,3 +1,17 @@
+## 22.08.2026
+
+1. Nevada zatwierdziła wdrożenie do 8000 robotaksówek w rejonie Las Vegas — Tesla otrzymała limit 5000 pojazdów (radykalne rozszerzenie wobec wcześniejszego tymczasowego zezwolenia na zaledwie 10 aut), Waymo 1000, a Uber kolejne 1000 we współpracy z Motional i Zoox.
+
+2. Broadcom negocjuje finansowanie dłużne o wartości nawet 100 mld USD na pokrycie dostaw niestandardowych chipów AI dla Anthropic i prawdopodobnie innych klientów (m.in. OpenAI) — pakiet miałby obejmować 60-70 mld USD długu senioralnego oraz ok. 30 mld USD finansowania podporządkowanego.
+
+3. Anthropic zbliża się do gigantycznego IPO — do prowadzących ofertę banków (Morgan Stanley, Goldman Sachs, JPMorgan) dołącza Citigroup, a spółka liczy na dorównanie lub przebicie rekordowej oferty SpaceX (75 mld USD); publiczne złożenie prospektu S-1 spodziewane jest jeszcze w sierpniu, przy wycenie z czerwcowej rundy na poziomie 965 mld USD.
+
+4. Nvidia pogłębia inwestycje w startupy AI budujące modele — zapłaci 6 mld USD za licencję na modele startupu Poolside (plus 1 mld USD inwestycji przy wycenie 12 mld USD) i zatrudni ponad 100 jego pracowników, a jednocześnie prowadzi rozmowy o inwestycji w dostawcę danych treningowych Mercor przy wycenie 20 mld USD.
+
+5. CEO Anthropic Dario Amodei przyznał publicznie, że negatywny odbiór społeczny AI to poważny problem, nazywając go "kryzysem zaufania" — mimo szybkiego rozwoju technologii branża wciąż nie przekonała do siebie opinii publicznej.
+
+---
+
 ## 21.08.2026
 
 1. Google DeepMind przeprowadza największą od lat przebudowę kierownictwa — współzałożyciel Demis Hassabis ustępuje ze stanowiska CEO i obejmuje funkcję przewodniczącego, po 27 latach z firmy odchodzi główny naukowiec Jeff Dean, a bieżące operacje oraz rozwój modeli Gemini przejmuje CTO Koray Kavukcuoglu, raportujący bezpośrednio do Sundara Pichaia; zmiana ma odpowiedzieć na niski morale zespołu, odpływ talentów i opóźnienia w publikacji nowego modelu flagowego wobec szybszych OpenAI i Anthropic.
