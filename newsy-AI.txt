@@ -1,3 +1,17 @@
+## 23.08.2026
+
+1. Chiński model open-source Z.ai GLM-5.3 pozostaje głównym tematem branży bezpieczeństwa — w testach samodzielnie znalazł 2436 podatności (w tym 1097 o wysokiej/krytycznej wadze) w 269 projektach, m.in. w jądrze Linuksa, VMware, Apache oraz realną lukę w edytorze Cursor; Z.ai wstrzymał publikację wag modelu o ok. dwa tygodnie, by wzmocnić zabezpieczenia po tym, jak zdolności hakerskie modelu wzrosły szybciej niż zakładano.
+
+2. OpenAI obniżył cenę swojego flagowego modelu Sol o ponad 20% (do 4 USD za milion tokenów wejściowych i 20 USD za milion wyjściowych), pogłębiając wojnę cenową z Google, który równolegle obniżył ceny swoich najlepszych modeli.
+
+3. Cloudflare uruchomił Kitesurf — przeglądarkę internetową zaprojektowaną specjalnie dla agentów AI, działającą w izolatach V8 na platformie Cloudflare Workers; zużywa 3-7 razy mniej CPU i pamięci niż Chromium, przechodzi ponad 235 tys. testów Web Platform Tests i jest kompatybilna z Puppeteer, Playwright oraz MCP.
+
+4. Brytyjsko-amerykański startup infrastrukturalny Volta wyszedł z trybu stealth, pozyskując 300 mln USD (seed + seria A) przy wycenie 2,4 mld USD od a16z, Nvidii i rodzinnego funduszu Michaela Della, oraz podpisał wart 10 mld USD kontrakt na budowę kampusu AI o mocy 133 MW w Norwegii — partnerem umowy ma być, według Bloomberga, Anthropic.
+
+5. Meta udostępniła Muse Glimmer — otwarty (licencja Apache 2.0) model agentowy o 30 mld parametrów, skompresowany do poniżej 20 GB, dzięki czemu działa lokalnie na pojedynczym laptopie z konsumencką kartą graficzną; Zuckerberg zapowiedział w towarzyszącym wpisie powrót firmy do regularnych publikacji modeli open source.
+
+---
+
 ## 22.08.2026
 
 1. Nevada zatwierdziła wdrożenie do 8000 robotaksówek w rejonie Las Vegas — Tesla otrzymała limit 5000 pojazdów (radykalne rozszerzenie wobec wcześniejszego tymczasowego zezwolenia na zaledwie 10 aut), Waymo 1000, a Uber kolejne 1000 we współpracy z Motional i Zoox.
