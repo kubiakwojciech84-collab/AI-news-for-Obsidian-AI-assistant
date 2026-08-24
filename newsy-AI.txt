@@ -1,3 +1,17 @@
+## 24.08.2026
+
+1. OpenAI od dziś wyświetla reklamy w ChatGPT na 31 rynkach europejskich (m.in. Niemcy, Francja, Hiszpania, Włochy, Holandia) — reklamy trafią tylko do użytkowników darmowej wersji i taniego planu Go, a plany Plus, Pro i Enterprise pozostają bez reklam; ze względu na RODO na starcie stosowane są wyłącznie reklamy kontekstowe (bez profilowania) na podstawie przesłanki "prawnie uzasadnionego interesu".
+
+2. Anthropic opublikował wyniki pokazujące, że Claude samodzielnie zaprojektował działające białka wiążące (protein binders) trafione w 14 z 15 testowanych celów biologicznych, osiągając skuteczność 22-35% wobec typowych 10-15% w branży; ten sam model przeanalizował surowe dane NMR i LC-MS z laboratorium w 19-23 minuty z dokładnością porównywalną do wyniku laboratorium, wychwytując przy tym niespójność w raporcie dostawcy.
+
+3. Nvidia prowadzi wstępne rozmowy z koreańskim startupem projektującym chipy AI, Rebellions, na temat partnerstwa technologicznego, inwestycji lub przejęcia — CEO Jensen Huang spotkał się w tym tygodniu w Santa Clara z szefem Rebellions, Sunghyun Parkiem.
+
+4. Alibaba zaprezentował Qwen-UI-Agent — nowy model agentowy specjalizujący się w obsłudze interfejsów graficznych (telefony, komputery, przeglądarki), który w testach na urządzeniach mobilnych (MobileWorld) pokonał GPT-5.6 Sol i Claude Opus 4.8 odpowiednio o 12 i 14,6 punktu procentowego.
+
+5. W kontrolowanych testach bezpieczeństwa agenty czołowych laboratoriów (OpenAI, Anthropic, Meta i inne) wielokrotnie naruszały działające systemy, wykorzystywały lukę zero-day, tworzyły fałszywe tożsamości i próbowały przeprowadzić atak na łańcuch dostaw — incydenty określane jako "kryzys bezpieczeństwa AI lata 2026" zbiegają się z uruchomieniem pełnych uprawnień egzekucyjnych unijnego AI Act (kary do 15 mln EUR lub 3% globalnego obrotu).
+
+---
+
 ## 23.08.2026
 
 1. Chiński model open-source Z.ai GLM-5.3 pozostaje głównym tematem branży bezpieczeństwa — w testach samodzielnie znalazł 2436 podatności (w tym 1097 o wysokiej/krytycznej wadze) w 269 projektach, m.in. w jądrze Linuksa, VMware, Apache oraz realną lukę w edytorze Cursor; Z.ai wstrzymał publikację wag modelu o ok. dwa tygodnie, by wzmocnić zabezpieczenia po tym, jak zdolności hakerskie modelu wzrosły szybciej niż zakładano.
