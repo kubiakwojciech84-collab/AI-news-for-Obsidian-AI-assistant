@@ -1,3 +1,17 @@
+## 25.08.2026
+
+1. Hugging Face rozważa sprzedaż firmy przy wycenie na poziomie 13 mld USD (wg Business Insider) — to niemal trzykrotność wyceny 4,5 mld USD z rundy Serii D w 2023 r.; firma wcześniej odrzuciła ofertę inwestycji Nvidii za 500 mln USD przy wycenie 7 mld USD, obawiając się dominującego wpływu jednego inwestora.
+
+2. Nvidia prowadzi rozmowy o inwestycji w Perplexity w ramach nowej rundy finansowania, która mogłaby wycenić startup AI-wyszukiwarki na ponad 30 mld USD — to wzrost o ponad 50% względem poprzedniej rundy sprzed roku (ok. 20 mld USD), a roczne przychody Perplexity wzrosły z poniżej 250 mln USD na początku roku do ponad 750 mln USD.
+
+3. Nvidia i SpaceXAI ogłosiły, że Elon Musk-owa firma wdroży procesory Nvidia Vera (pierwszy CPU zaprojektowany specjalnie pod agentów AI) do przyspieszenia workloadów agentowych, rozbuduje infrastrukturę Groka o platformę Vera Rubin oraz planuje przenieść moc obliczeniową na orbitę za pomocą satelity Starmind AI opartego na systemie Vera Rubin NVL72.
+
+4. Osobisty asystent AI Instinct, wciąż w prywatnym dostępie, budzi kontrowersje związane z prywatnością — regulamin usługi przyznaje firmie wieczystą licencję na dane użytkowników do trenowania modeli, a szeroki dostęp asystenta do e-maila, kalendarza, lokalizacji i ekranu czyni z niego atrakcyjny cel dla hakerów w razie przejęcia konta.
+
+5. OpenAI, według TechCrunch, buduje szerszą platformę agentów AI wykraczającą poza kodowanie (Codex) — firma chce, by funkcje znane z narzędzi typu OpenClaw stały się dostępne za pomocą prostego prompta, pogłębiając rywalizację z Anthropic i jego Claude Code o miano wiodącego dostawcy uniwersalnych agentów AI.
+
+---
+
 ## 24.08.2026
 
 1. OpenAI od dziś wyświetla reklamy w ChatGPT na 31 rynkach europejskich (m.in. Niemcy, Francja, Hiszpania, Włochy, Holandia) — reklamy trafią tylko do użytkowników darmowej wersji i taniego planu Go, a plany Plus, Pro i Enterprise pozostają bez reklam; ze względu na RODO na starcie stosowane są wyłącznie reklamy kontekstowe (bez profilowania) na podstawie przesłanki "prawnie uzasadnionego interesu".
