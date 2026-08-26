@@ -1,3 +1,17 @@
+## 26.08.2026
+
+1. Nvidia opublikuje dziś po zamknięciu sesji giełdowej wyniki za II kwartał roku fiskalnego 2027 — to najbardziej wyczekiwany raport finansowy sezonu, z prognozą przychodów na poziomie ok. 91 mld USD (wzrost r/r o ok. 96%), co ma ponownie potwierdzić skalę popytu na infrastrukturę AI.
+
+2. Anthropic udostępnił na stałe (GA) na platformie Claude cztery narzędzia agentowe: computer use, nowe browser use, Skills API oraz Files API (z pięciokrotnie wyższym limitem i 1 TB przestrzeni na pliki) — Skills API i Files API trafiają też do Microsoft Foundry, a wsparcie dla Google Vertex AI ma pojawić się wkrótce.
+
+3. Startup infrastrukturalny Fireworks AI pozyskał 1,505 mld USD w rundzie Serii D przy wycenie 17,5 mld USD (m.in. od Nvidii, Index Ventures i TCV) — firma przekroczyła już 1 mld USD rocznych przychodów i obsługuje ponad 40 bilionów tokenów dziennie.
+
+4. Naukowcy z Caltechu, Anima Anandkumar i Benedikt Jenik (którzy wcześniej odrzucili ofertę finansowanego przez Jeffa Bezosa startupu Prometheus), zaprezentowali firmę Accelerated Understanding — model fizyki oparty na "neural operators" zamiast architektury transformerowej, zdolny przetworzyć w jednym zapytaniu 5 bilionów punktów danych, z zastosowaniami w projektowaniu chipów, robotyce i prognozowaniu pogody.
+
+5. Australijskie stowarzyszenie branży muzycznej ARIA wykluczyło od piątku w pełni wygenerowane przez AI utwory z oficjalnych list przebojów i nagród — kwalifikować będą się jedynie utwory "w istotnym stopniu stworzone przez człowieka"; decyzja zapadła po tym, jak wygenerowana przez AI wersja utworu Madonny spędziła 16 tygodni w top 20 australijskich list.
+
+---
+
 ## 25.08.2026
 
 1. Hugging Face rozważa sprzedaż firmy przy wycenie na poziomie 13 mld USD (wg Business Insider) — to niemal trzykrotność wyceny 4,5 mld USD z rundy Serii D w 2023 r.; firma wcześniej odrzuciła ofertę inwestycji Nvidii za 500 mln USD przy wycenie 7 mld USD, obawiając się dominującego wpływu jednego inwestora.
