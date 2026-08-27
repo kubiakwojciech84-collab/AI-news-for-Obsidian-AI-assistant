@@ -1,3 +1,17 @@
+## 27.08.2026
+
+1. Nvidia opublikowała wyniki za II kwartał roku fiskalnego 2027: przychody sięgnęły 96,2 mld USD (wzrost r/r o 106%), a zysk na akcję wyniósł 2,22 USD, przebijając oczekiwania Wall Street; firma prognozuje przychody w III kwartale na poziomie ok. 108 mld USD (±2%), a CEO Jensen Huang podkreślił, że agenci AI wymagają 15-100 razy więcej mocy obliczeniowej niż zapytania ludzi.
+
+2. OpenAI ujawniło wyniki testów swojego pierwszego autorskiego chipu inferencyjnego Jalapeño, zaprojektowanego wspólnie z Broadcom — w niezależnych testach InferenceX (m.in. na GPT-OSS 120B, DeepSeek R1 670B i Kimi K2.5 1T) chip osiągnął 1,5-1,9 razy wyższą przepustowość na kilowat i nawet 3,6 razy niższe opóźnienia niż układ Nvidia GB300 (Blackwell); wdrożenie w infrastrukturze OpenAI planowane jest do końca roku.
+
+3. Anthropic przygotowuje publiczne złożenie prospektu S-1 do amerykańskiej SEC nawet jeszcze w sierpniu, celując w debiut na Nasdaq już w październiku 2026 r. — bankami prowadzącymi ofertę (wartą potencjalnie ponad 60 mld USD) są Goldman Sachs, JPMorgan i Morgan Stanley, przy ostatniej prywatnej wycenie spółki na poziomie ok. 965 mld USD.
+
+4. Amazon zamyka 30 września 2026 r. platformę Mechanical Turk po 21 latach działania, a wraz z nią usługi SageMaker Ground Truth i Augmented AI, całkowicie wycofując się z rynku infrastruktury do ręcznego etykietowania danych — miejsce tego typu usług przejmują wyspecjalizowane startupy jak Scale AI, Mercor i Prolific, obsługujące trening nowoczesnych modeli AI.
+
+5. Google uruchomił Gemini Enterprise for Legal — wyspecjalizowaną wersję swojej platformy AI dla kancelarii prawnych i działów prawnych firm, oferującą agentów AI do analizy umów, prowadzenia badań prawnych, weryfikacji cytowań orzeczeń oraz monitorowania zmian regulacyjnych.
+
+---
+
 ## 26.08.2026
 
 1. Nvidia opublikuje dziś po zamknięciu sesji giełdowej wyniki za II kwartał roku fiskalnego 2027 — to najbardziej wyczekiwany raport finansowy sezonu, z prognozą przychodów na poziomie ok. 91 mld USD (wzrost r/r o ok. 96%), co ma ponownie potwierdzić skalę popytu na infrastrukturę AI.
