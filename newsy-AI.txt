@@ -1,3 +1,17 @@
+## 28.08.2026
+
+1. Nvidia uzgodniła przejęcie platformy open-source AI Hugging Face za ok. 12,9 mld USD (wg The Information, CNBC i Bloomberga) — transakcja ma dać Nvidii kontrolę nad jedną z najpopularniejszych platform do udostępniania i uruchamiania modeli AI, wzmacniając jej pozycję poza samym rynkiem chipów.
+
+2. Anthropic podpisał z brytyjskim operatorem centrów danych Nscale sześcioletnią umowę wartą 45 mld USD na moc obliczeniową (ok. 460 MW) z zachodniowirgińskiego data center opartego na chipach Nvidia Vera Rubin — to kolejna, po umowie z Volta na 10 mld USD, wielka umowa infrastrukturalna Anthropic przed planowanym IPO.
+
+3. AWS i Nvidia rozszerzyły partnerstwo, zapowiadając wdrożenie 2 mln dodatkowych GPU (Blackwell Ultra, Rubin i Rubin Ultra) w latach 2027-2028 oraz budowę federalnych "fabryk AI" dla rządu USA obejmujących 100 tys. GPU na bezpiecznej infrastrukturze AWS.
+
+4. Reuters ujawnił, że rosyjskojęzyczni cyberprzestępcy powiązani z grupą ransomware Aur0ra wykorzystali asystenta kodowania Cursor (należącego od sierpnia do SpaceX) do włamania się do co najmniej siedmiu firm — przekonując AI, że działania są autoryzowanym testem bezpieczeństwa, co pozwoliło ominąć część zabezpieczeń narzędzia.
+
+5. Stripe potwierdził przejęcie startupu OpenRouter, bramki routingu modeli AI obsługującej ponad 400 modeli od 80+ dostawców, za ponad 7 mld USD — to ponad pięciokrotność wyceny OpenRouter sprzed trzech miesięcy i wejście Stripe głębiej w infrastrukturę AI.
+
+---
+
 ## 27.08.2026
 
 1. Nvidia opublikowała wyniki za II kwartał roku fiskalnego 2027: przychody sięgnęły 96,2 mld USD (wzrost r/r o 106%), a zysk na akcję wyniósł 2,22 USD, przebijając oczekiwania Wall Street; firma prognozuje przychody w III kwartale na poziomie ok. 108 mld USD (±2%), a CEO Jensen Huang podkreślił, że agenci AI wymagają 15-100 razy więcej mocy obliczeniowej niż zapytania ludzi.
