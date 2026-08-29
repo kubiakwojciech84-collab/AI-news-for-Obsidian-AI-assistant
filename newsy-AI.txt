@@ -1,3 +1,17 @@
+## 29.08.2026
+
+1. Nvidia wstrzymała, niespełna dwa miesiące od ogłoszenia, swój program "AI Compute Partnership" — umowy podziału przychodów oferujące dostawcom chmur AI wsparcie kredytowe w zamian za udział w zyskach — w obliczu obaw pracowników firmy o ryzyko antymonopolowe oraz sprzeciwu partnerów wobec zakresu kontroli, jakiej Nvidia żądała (wg WSJ); firma zapewnia, że sam dostęp do mocy obliczeniowej dla ekosystemu AI pozostaje w mocy.
+
+2. Sędzia federalna Rita Lin uznała umieszczenie Anthropic na czarnej liście Pentagonu za "nielegalne i bezpodstawne", orzekając, że powoływanie się na bezpieczeństwo narodowe nie może być pretekstem do odwetu za krytykę rządu — to pierwszy taki przypadek publicznego oznaczenia amerykańskiej firmy jako zagrożenia dla łańcucha dostaw, po tym jak Anthropic odmówił zgody na użycie Claude do inwigilacji krajowej i broni autonomicznej.
+
+3. Meta wprowadza aktualizację oprogramowania okularów Ray-Ban Meta, Oakley Meta i Meta AI, która zamyka kolejną lukę pozwalającą na potajemne nagrywanie — zasłonięcie diody sygnalizującej nagrywanie w trakcie jego trwania będzie teraz automatycznie je przerywać; to już druga taka poprawka prywatności wprowadzona przez firmę w ciągu dwóch miesięcy.
+
+4. Nvidia prowadzi zaawansowane rozmowy o inwestycji w Perplexity przy wycenie przekraczającej 30 mld USD, czyli o ok. 50% wyższej niż rok temu (20 mld USD) — startup wyszukiwarki AI zwiększył roczne przychody z poniżej 250 mln USD na początku roku do ponad 750 mln USD.
+
+5. Naukowcy z MIT (Kai Chang i Themis Sapsis) opublikowali w Nature Communications metodę "Extreme Event Aware" (η-learning), która generuje realistyczne, statystycznie wiarygodne scenariusze zdarzeń ekstremalnych — np. powodzi stulecia — bez potrzeby trenowania modelu na historycznych danych o katastrofach, co ma pomóc planistom i służbom zarządzania kryzysowego przygotować się na zdarzenia gorsze niż wszystko dotąd odnotowane.
+
+---
+
 ## 28.08.2026
 
 1. Nvidia uzgodniła przejęcie platformy open-source AI Hugging Face za ok. 12,9 mld USD (wg The Information, CNBC i Bloomberga) — transakcja ma dać Nvidii kontrolę nad jedną z najpopularniejszych platform do udostępniania i uruchamiania modeli AI, wzmacniając jej pozycję poza samym rynkiem chipów.
