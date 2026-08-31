@@ -1,3 +1,17 @@
+## 31.08.2026
+
+1. Sony Music Publishing i Warner Chappell Music pozwały Anthropic (wraz ze współzałożycielami Dario Amodei i Benjaminem Mannem) w sądzie federalnym w Kalifornii, zarzucając firmie nielegalne torrentowanie i masowe scrapowanie dziesiątek tysięcy utworów muzycznych do trenowania Claude — domagają się odszkodowania do 150 tys. USD za utwór, co przy skali zarzutów oznacza potencjalną ekspozycję rzędu miliardów dolarów.
+
+2. OpenAI poinformowało SpaceX o zamiarze zakończenia z dniem 12 listopada 2026 r. dostępu do swoich modeli w edytorze kodu Cursor — to efekt przejęcia Cursora (Anysphere) przez firmę Elona Muska za 60 mld USD; OpenAI powołuje się na wcześniejsze naruszenia warunków korzystania przez inne spółki Muska (Twitter/X, xAI).
+
+3. Chiński DeepSeek finalizuje rundę finansowania rzędu ok. 50 mld juanów (7,4 mld USD) przy wycenie ok. 74 mld USD, z udziałem m.in. producenta baterii CATL oraz funduszy Monolith i Shixiang Capital — zamknięcie rundy planowane jest na koniec sierpnia i ma utorować drogę do ewentualnego IPO na szanghajskiej giełdzie STAR Market w 2027 r.
+
+4. xAI zakończyło wieloplatformową ekspansję modelu Grok 4.6, udostępniając go w Google Cloud i Microsoft Foundry, oraz wprowadziło narzędzie "Grok Build" do wszystkich planów na webie i mobile, pozwalające opisać słowami aplikację, grę lub stronę i obserwować, jak Grok buduje ją na żywo.
+
+5. IBM i naukowcy z University of Chicago potwierdzili osiągnięcie zweryfikowanej przewagi kwantowej — komputer z 70 logicznymi kubitami wykonał w ok. 15 minut obliczenie praktycznie nieosiągalne dla najlepszych metod klasycznych, przy błędach logicznych aż 10-krotnie niższych niż fizyczne, co uznaje się za jedną z największych jak dotąd demonstracji obliczeń kwantowych z korekcją błędów.
+
+---
+
 ## 29.08.2026
 
 1. Nvidia wstrzymała, niespełna dwa miesiące od ogłoszenia, swój program "AI Compute Partnership" — umowy podziału przychodów oferujące dostawcom chmur AI wsparcie kredytowe w zamian za udział w zyskach — w obliczu obaw pracowników firmy o ryzyko antymonopolowe oraz sprzeciwu partnerów wobec zakresu kontroli, jakiej Nvidia żądała (wg WSJ); firma zapewnia, że sam dostęp do mocy obliczeniowej dla ekosystemu AI pozostaje w mocy.
