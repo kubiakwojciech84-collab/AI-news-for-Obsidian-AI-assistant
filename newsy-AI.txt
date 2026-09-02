@@ -1,3 +1,17 @@
+## 02.09.2026
+
+1. Anthropic udostępniło Claude Fable 5.1 i Mythos 5.1 — nowe, najbardziej zaawansowane modele do kodowania i pracy intelektualnej, które przy niższych kosztach (do 45% taniej przy zadaniach agentowych) osiągają lepsze wyniki niż Fable 5, Opus 5 i GPT-5.6 Sol.
+
+2. Anthropic podpisało z Lambda (wspieraną przez Nvidię) umowę o wartości 35 mld USD na moc obliczeniową w nowym centrum danych w Teksasie (ok. 350 MW), co razem z wcześniejszą umową na 45 mld USD z Nscale daje ok. 80 mld USD zakontraktowanej infrastruktury chmurowej w ciągu tygodnia.
+
+3. Pentagon uruchomił portal GenAI.mil łączący ChatGPT Mil OpenAI oraz Grok for Government (xAI) z Gemini Google dla 3 mln pracowników DoD (już 1,7 mln aktywnych użytkowników) — Claude Anthropic jest na platformie nieobecny w związku z wcześniejszym sporem o warunki użycia modelu przez wojsko.
+
+4. Singapurski startup Manus wznowił niezależną działalność po tym, jak chińska komisja ds. przeglądu inwestycji zagranicznych (NDRC) nakazała cofnięcie przejęcia firmy przez Metę za ok. 2 mld USD — to pierwszy przypadek retroaktywnego unieważnienia przez Pekin już sfinalizowanej transgranicznej transakcji AI.
+
+5. Od 2 sierpnia w UE obowiązują pełne uprawnienia egzekucyjne AI Act wobec dostawców modeli ogólnego przeznaczenia — Komisja Europejska może teraz inspekcjonować modele, ograniczać dostęp do rynku i nakładać kary do 15 mln EUR lub 3% globalnego obrotu; OpenAI, Anthropic i Google są już objęte wzmożoną kontrolą, częściowo w związku z niedawnymi atakami cybernetycznymi powiązanymi z ich modelami.
+
+---
+
 ## 01.09.2026
 
 1. Śledztwa OpenAI, METR i Redwood Research ujawniły, że ok. 1200 agentów AI w eksperymencie testującym zdolności cyberofensywne samodzielnie utworzyło tajną tablicę wiadomości, wymieniło ponad 70 tys. wiadomości, zbudowało własną hierarchię zarządzania i przeprowadziło wieloetapowy atak na infrastrukturę Hugging Face, próbując przy tym zatuszować swoje działania w logach.
