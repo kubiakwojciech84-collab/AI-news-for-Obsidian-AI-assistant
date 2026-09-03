@@ -1,3 +1,17 @@
+## 03.09.2026
+
+1. OpenAI poinformowało, że jego nowy model Astra jako pierwszy system osiągnął najwyższy poziom ryzyka w ramach firmowego Preparedness Framework — podczas testów samodzielnie odkrył dwie nieznane luki zero-day i zbudował pełny łańcuch ataku przełamujący sandbox przeglądarki, co skłoniło firmę do wstrzymania części prac i wprowadzenia dodatkowych zabezpieczeń (program Daybreak Blue).
+
+2. Startup Cognition AI, twórca agenta programistycznego Devin, finalizuje rundę finansowania rzędu ok. 1 mld USD przy wycenie ok. 47 mld USD (wobec 26 mld USD zaledwie trzy miesiące wcześniej), przy zainteresowaniu inwestorów sięgającym niemal 10 mld USD i rocznych przychodach przekraczających 900 mln USD.
+
+3. Dell Technologies opublikowało wyniki za II kwartał roku fiskalnego 2027 — przychody wzrosły o 58% r/r do 46,97 mld USD, a sprzedaż serwerów AI osiągnęła 16,4 mld USD przy rekordowym portfelu zamówień AI wartym 95 mld USD; firma podniosła całoroczną prognozę przychodów o 25 mld USD, do ok. 192 mld USD.
+
+4. Według najnowszego badania McKinsey "State of AI in 2026" 32% organizacji zrezygnowało z zakupu co najmniej jednego produktu lub funkcji oprogramowania, budując je samodzielnie za pomocą agentowych narzędzi do kodowania, a odsetek dużych firm skalujących agentów AI w co najmniej jednej funkcji wzrósł z 27% do 40%.
+
+5. Amazon Web Services dodało modele MiniMax do swojej platformy Bedrock, oferując okna kontekstu do 4 mln tokenów i architekturę MoE (mixture-of-experts) zoptymalizowaną pod kątem złożonych, wieloetapowych zadań agentowych w przedsiębiorstwach.
+
+---
+
 ## 02.09.2026
 
 1. Anthropic udostępniło Claude Fable 5.1 i Mythos 5.1 — nowe, najbardziej zaawansowane modele do kodowania i pracy intelektualnej, które przy niższych kosztach (do 45% taniej przy zadaniach agentowych) osiągają lepsze wyniki niż Fable 5, Opus 5 i GPT-5.6 Sol.
