@@ -1,3 +1,17 @@
+## 04.09.2026
+
+1. OpenAI zaprezentowało model GPT-6 Astra, opisywany przez prezesa Grega Brockmana jako możliwy początek ery AGI — model potrafi samodzielnie obsługiwać komputer i rozwiązywać złożone problemy naukowe, choć Brockman zastrzega, że ocena, czy to już prawdziwe AGI, zależy od odbiorcy.
+
+2. Senator Bernie Sanders i kongresmen Greg Casar zapowiedzieli ustawę "Ban Artificial Superintelligence Act", która trwale zakazywałaby budowy superinteligentnej AI w USA, wprowadzała czasowe moratorium na rozwój najbardziej zaawansowanych modeli oraz przewidywała kary do 20 lat więzienia i rozwiązanie firmy za naruszenia.
+
+3. Google, Anthropic i OpenAI zaprezentowały wyspecjalizowane modele do cyberbezpieczeństwa (m.in. Gemini 3.8 Flash Cyber, Claude Mythos 5.1, GPT-5.5-Cyber) — Google twierdzi, że jego model przewyższa większe modele konkurencji w autonomicznym wykrywaniu podatności, a dostęp do najsilniejszych wersji ograniczono programami dla zaufanych partnerów.
+
+4. Według doniesień Dealroom, Anthropic planuje debiut giełdowy nawet jeszcze we wrześniu, wyprzedzając w wyścigu do IPO OpenAI — spółka złożyła poufny prospekt S-1 w amerykańskiej SEC, a oferta prowadzona przez Goldman Sachs, JPMorgan i Morgan Stanley może opiewać na ponad 60 mld USD.
+
+5. Nvidia rozbudowała zainicjowany tydzień wcześniej sojusz branżowy Open Secure AI Alliance (OSAA) do ponad 120 firm, powołując zarządzaną przez Linux Foundation grupę roboczą SAFE (Shared AI Findings Exchange), która ma wypracować otwarte standardy bezpieczeństwa dla modeli AI; OpenAI i Anthropic nie przystąpiły do inicjatywy.
+
+---
+
 ## 03.09.2026
 
 1. OpenAI poinformowało, że jego nowy model Astra jako pierwszy system osiągnął najwyższy poziom ryzyka w ramach firmowego Preparedness Framework — podczas testów samodzielnie odkrył dwie nieznane luki zero-day i zbudował pełny łańcuch ataku przełamujący sandbox przeglądarki, co skłoniło firmę do wstrzymania części prac i wprowadzenia dodatkowych zabezpieczeń (program Daybreak Blue).
