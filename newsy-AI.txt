@@ -1,3 +1,17 @@
+## 05.09.2026
+
+1. SoundHound AI sfinalizowało przejęcie LivePerson, łącząc swoje technologie głosowej i agentowej AI z siecią komunikacji cyfrowej LivePerson obejmującą 25 firm z listy Fortune 100; w ramach transakcji spłacono całe zadłużenie LivePerson, dzięki czemu połączona firma działa bez długu.
+
+2. Na spotkaniu ministerialnym G20 Stany Zjednoczone otwarcie wezwały inne kraje do luzowania regulacji dotyczących AI, pogłębiając rozdźwięk z Unią Europejską, która równolegle pracuje nad nowym prawem doprecyzowującym AI Act — Waszyngton stawia na wzrost branży, Bruksela na nadzór.
+
+3. Badacze Nvidii poinformowali, że ich model do programowania Nemotron-3-Ultra-CC uzyskał 535,4 na 600 punktów w zadaniach z Międzynarodowej Olimpiady Informatycznej 2026, wyprzedzając najlepszego ludzkiego zawodnika (498,27 pkt) — to kolejny dowód szybkiego postępu modeli AI w rywalizacji z najzdolniejszymi programistami.
+
+4. OpenAI, Anthropic i Google odnotowały niemal równoczesne awarie swoich flagowych usług AI (odpowiednio ChatGPT, Claude i Gemini) 3-4 września, co ponownie uwypukliło rosnące uzależnienie firm i użytkowników od garstki dostawców infrastruktury AI.
+
+5. Google rozpoczęło wycofywanie Google Assistant z telefonów i tabletów z Androidem, zegarków Wear OS oraz Android Auto na rzecz Gemini, które przejmuje m.in. aktywację głosową "Hey Google" i długie przytrzymanie przycisku zasilania — to koniec wieloletniego asystenta głosowego Google.
+
+---
+
 ## 04.09.2026
 
 1. OpenAI zaprezentowało model GPT-6 Astra, opisywany przez prezesa Grega Brockmana jako możliwy początek ery AGI — model potrafi samodzielnie obsługiwać komputer i rozwiązywać złożone problemy naukowe, choć Brockman zastrzega, że ocena, czy to już prawdziwe AGI, zależy od odbiorcy.
