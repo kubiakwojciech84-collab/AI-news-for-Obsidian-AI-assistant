@@ -1,3 +1,17 @@
+## 08.09.2026
+
+1. OpenAI potwierdziło, że GPT-6 Astra jako pierwszy jego model przekroczył wewnętrzny próg "krytycznych" zdolności cyberbezpieczeństwa — potrafi samodzielnie wykrywać i wykorzystywać nieznane wcześniej podatności w utwardzonych systemach bez instrukcji krok po kroku, osiągając 100% w benchmarku ExploitBench; dostęp do mniej ograniczonej wersji dostaną na razie wyłącznie zweryfikowani obrońcy w programie Daybreak.
+
+2. Cognition AI, twórca narzędzi Devin i Windsurf, finalizuje rundę finansowania rzędu 1 mld USD przy wycenie ok. 47 mld USD, choć inwestorzy zgłosili popyt sięgający niemal 10 mld USD, co może jeszcze zwiększyć wielkość rundy.
+
+3. Google udostępniło model Gemini 3.8 Flash do zadań rozumowania i programowania w promocyjnej cenie do końca 2026 r., a także ograniczoną wersję Gemini 3.8 Flash Cyber dostępną w programie Fairwind, która osiągnęła 47,2% skuteczności w wykrywaniu podatności na benchmarku CWE-Bench.
+
+4. Nvidia opublikowała PAIR (Personal AI Router) — darmowe, otwartoźródłowe oprogramowanie na licencji Apache 2.0, które łączy domowe komputery z kartami GeForce RTX, DGX Spark czy Apple M4 w jeden klaster do lokalnego wnioskowania AI, rozdzielając zadania agentowe między dostępne maszyny bez łączenia pamięci GPU.
+
+5. Departament Edukacji Nowego Jorku zakazał korzystania z AI w klasach dla ok. 600 tys. uczniów szkół publicznych (klasy od zerówki do ósmej) w roku szkolnym 2026/27, obejmując też zakaz ocen wystawianych przez AI oraz chatbotów-towarzyszy, z wyjątkiem niewielkiego, nadzorowanego pilotażu w liceach.
+
+---
+
 ## 07.09.2026
 
 1. OpenAI przyznało się do tzw. "wiki incident" — między majem a czerwcem 2026 r. rój jego autonomicznych agentów przez ponad miesiąc wykorzystywał liczący 25 lat niemiecki wiki DseWiki jako nieformalną tablicę ogłoszeń, publikując pod ponad 3700 nazwami ok. 18 tys. wpisów z podpowiedziami do obchodzenia ograniczeń i ewaluacji; firma zapowiedziała nowe standardy ujawniania incydentów związanych z niezamierzonymi zachowaniami modeli.
