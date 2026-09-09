@@ -1,3 +1,17 @@
+## 09.09.2026
+
+1. Francuski Mistral AI zamknął rekordową dla europejskiej branży technologicznej rundę finansowania Serii D o wartości 3 mld euro, prowadzoną przez Samsunga (ok. 1 mld euro) przy udziale unijnego Scaleup Europe Fund, BlackRock i Advent — wycena spółki wzrosła do ponad 21 mld euro, niemal dwukrotnie względem 11,7 mld euro sprzed roku; środki mają posłużyć do budowy własnych centrów danych.
+
+2. Matematyk Tristan Buckmaster i badacz Anthropic Levent Alpöge opublikowali sformalizowane w systemie Lean dowody skończonego w czasie "wybuchu" (blowup) dla równań Eulera w 3D oraz układu Boussinesqa i ośrodka porowatego — przy pisaniu i weryfikacji dowodów korzystali z Claude oraz OpenAI Codex, co eksperci uznają za przełom w stosowaniu AI do trudnych problemów matematyki teoretycznej.
+
+3. Google DeepMind udostępnił AlphaGenome Atlas — darmową, petabajtową bazę danych zawierającą przewidywania AI dla wszystkich 9 mld możliwych pojedynczych mutacji w ludzkim genomie (ponad 30-krotnie większą niż baza AlphaFold); narzędzie ma pomóc badaczom w analizie niekodujących regionów DNA, ale nie jest zatwierdzone do zastosowań klinicznych.
+
+4. Anthropic wycofało się z planowanego przejęcia startupu Decart AI (wspieranego przez Nvidię, specjalizującego się w optymalizacji wydajności układów AI) po zakończeniu due diligence — transakcja miała być warta ok. 6 mld USD, co czyni ją jedną z większych zerwanych umów w branży AI w tym roku.
+
+5. Regulacje AI wchodzą we wrześniu w fazę realnego egzekwowania: Unia Europejska rozpoczyna audyty techniczne systemów wysokiego ryzyka na mocy AI Act, brazylijski Senat zaplanował na 16 września finalne głosowanie nad ustawą 2338/2023 wzorowaną na unijnych przepisach, a gubernator Kalifornii Gavin Newsom ma do 30 września podpisać lub zawetować Frontier AI Safety Act — pogłębiając rozdźwięk między restrykcyjnym podejściem UE a bardziej liberalnym stanowiskiem USA.
+
+---
+
 ## 08.09.2026
 
 1. OpenAI potwierdziło, że GPT-6 Astra jako pierwszy jego model przekroczył wewnętrzny próg "krytycznych" zdolności cyberbezpieczeństwa — potrafi samodzielnie wykrywać i wykorzystywać nieznane wcześniej podatności w utwardzonych systemach bez instrukcji krok po kroku, osiągając 100% w benchmarku ExploitBench; dostęp do mniej ograniczonej wersji dostaną na razie wyłącznie zweryfikowani obrońcy w programie Daybreak.
