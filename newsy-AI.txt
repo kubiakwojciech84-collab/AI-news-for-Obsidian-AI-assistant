@@ -1,3 +1,17 @@
+## 10.09.2026
+
+1. Amerykańskie agencje NSA, CISA i FBI opublikowały wspólny komunikat oskarżający sześć chińskich firm AI — DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun i Z.AI — o prowadzone od końca 2024 r. na masową skalę, prawdopodobnie za wiedzą chińskiego rządu, "destylowanie" zdolności czołowych amerykańskich modeli (GPT, Claude, Gemini, Grok) poprzez miliardy zapytań; agencje zaleciły firmom z USA ciche degradowanie odpowiedzi dla podejrzanych kont zamiast jawnego blokowania.
+
+2. DeepSeek oficjalnie udostępnia model V4.1 Flash z natywną obsługą multimodalną, wyższą wydajnością i niższymi kosztami niż poprzedni V4 Pro — po zakończeniu testów wszystkie zapytania kierowane dotąd do V4 Pro będą automatycznie przekierowywane na V4.1 Flash w tej samej cenie.
+
+3. Śledztwo organizacji Tech Transparency Project ujawniło, że Meta między listopadem 2025 a sierpniem 2026 r. zatwierdziła i zarabiała na ponad 300 reklamach na Facebooku, Instagramie, Threads i Messengerze zawierających generowane przez AI materiały przedstawiające seksualne wykorzystywanie dzieci — reklamy dotarły do ponad 29 tys. osób, promowały aplikacje typu "nudify", a część wykorzystywała przerobione zdjęcia prawdziwych dzieci, w tym członka europejskiej rodziny królewskiej.
+
+4. Dziennikarze The Intercept ujawnili na podstawie ponad 400 stron dokumentów uzyskanych w trybie FOIA, że OpenAI, Anthropic, Google i xAI podpisały latem 2025 r. z Pentagonem kontrakty warte do 200 mln USD każdy na prototypowanie narzędzi AI wspomagających decyzje wojskowe — firmy zobowiązały się m.in. do oddelegowania inżynierów do jednostek wojskowych i udziału w grach wojennych, a Pentagon miał domagać się od OpenAI modelu o "minimalnym wskaźniku odmów".
+
+5. OpenAI ogłosiło uzyskanie za pomocą roju ok. 10 tys. autonomicznych agentów AI analitycznego dowodu i sformalizowanej w Lean weryfikacji "wybuchu" (blowup) pełnych trójwymiarowych równań Naviera-Stokesa — jednego z sześciu problemów milenijnych Instytutu Claya; matematycy chwalą formalną poprawność dowodu, ale wskazują, że opiera się on na dodatkowej sile zewnętrznej wykluczanej w klasycznym sformułowaniu problemu, przez co Instytut Claya nie uznał go za rozwiązanie nagrody.
+
+---
+
 ## 09.09.2026
 
 1. Francuski Mistral AI zamknął rekordową dla europejskiej branży technologicznej rundę finansowania Serii D o wartości 3 mld euro, prowadzoną przez Samsunga (ok. 1 mld euro) przy udziale unijnego Scaleup Europe Fund, BlackRock i Advent — wycena spółki wzrosła do ponad 21 mld euro, niemal dwukrotnie względem 11,7 mld euro sprzed roku; środki mają posłużyć do budowy własnych centrów danych.
