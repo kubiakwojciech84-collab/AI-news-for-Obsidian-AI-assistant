@@ -1,3 +1,17 @@
+## 11.09.2026
+
+1. Startup Positron AI zamknął rundę finansowania Serii C o wartości 875 mln USD przy wycenie 5 mld USD (ponad czterokrotny wzrost w siedem miesięcy) na rozwój chipu inferencyjnego Asimov, który zamiast drogiej pamięci HBM wykorzystuje tańszą, powszechnie dostępną pamięć LPDDR5X — środki sfinansują taśmę produkcyjną u TSMC (proces N3P) oraz budowę własnego centrum danych testowego.
+
+2. OpenAI udostępniło publiczną wersję beta Agents API, udostępniając deweloperom ten sam "harness" (silnik orkiestracji sesji, kompaktowania kontekstu i odzyskiwania po błędach), który napędza jego narzędzie Codex — firma zapowiedziała brak dodatkowych opłat ponad koszt tokenów modelu i używanych narzędzi.
+
+3. Ant International, Visa i Mastercard ogłosiły wspólną inicjatywę Know-Your-Agent (KYA), mającą ujednolicić dotychczas konkurencyjne standardy weryfikacji tożsamości agentów AI w płatnościach (Trusted Agent Protocol Visy, Verifiable Intent Mastercard i Agentic Mobile Protocol Ant) — celem jest bezpieczne skalowanie "handlu agentowego", wycenianego do 2030 r. nawet na 3-5 bln USD rocznie.
+
+4. Rząd Wielkiej Brytanii rozpoczął konsultacje publiczne (otwarte do 30 września) w sprawie regulacji technologii monitorowania pracowników, obejmujących m.in. śledzenie lokalizacji, biometryczną kontrolę dostępu, monitorowanie klawiatury oraz ocenę wydajności przez AI — rozważane są trzy warianty podejścia regulacyjnego do miejsc pracy.
+
+5. Qualcomm i Amazon rozszerzyły współpracę o wieloletnie porozumienie w sprawie własnych chipów inferencyjnych AI dla centrów danych AWS oraz łączności optycznej do 1,6 Tb/s — w ramach umowy Amazon otrzymał warranty na akcje Qualcomma, które w pełni się zrealizują, jeśli firma wyda do 60 mld USD na chipy i sprzęt sieciowy Qualcomma do 2036 r.
+
+---
+
 ## 10.09.2026
 
 1. Amerykańskie agencje NSA, CISA i FBI opublikowały wspólny komunikat oskarżający sześć chińskich firm AI — DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun i Z.AI — o prowadzone od końca 2024 r. na masową skalę, prawdopodobnie za wiedzą chińskiego rządu, "destylowanie" zdolności czołowych amerykańskich modeli (GPT, Claude, Gemini, Grok) poprzez miliardy zapytań; agencje zaleciły firmom z USA ciche degradowanie odpowiedzi dla podejrzanych kont zamiast jawnego blokowania.
