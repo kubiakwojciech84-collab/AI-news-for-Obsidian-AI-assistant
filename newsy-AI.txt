@@ -1,3 +1,17 @@
+## 12.09.2026
+
+1. Anthropic opublikowało trzeci raport o nadużyciach swoich modeli AI od marca 2025 r., informując o udaremnieniu prób wykorzystania Claude do przeprowadzania cyberataków, kampanii propagandowych oraz prac nad bronią biologiczną przez różne grupy — od dostawców oprogramowania szpiegującego po ugrupowania sponsorowane przez państwa — działających między grudniem 2025 a sierpniem 2026 r.
+
+2. Chińska spółka Enflame Technology, konkurent Nvidii wspierany przez Tencenta, zadebiutowała na szanghajskiej giełdzie STAR Market wzrostem kursu nawet o ponad 200% względem ceny emisyjnej po pozyskaniu ok. 6,12 mld juanów (ok. 860 mln USD) — to ostatni z chińskich "czterech małych smoków" branży chipów AI, który wszedł na giełdę.
+
+3. Reuters ujawnił, że chińscy producenci akceleratorów AI — Huawei, Cambricon, MetaX i Iluvatar CoreX — podnieśli w ciągu ostatnich dwóch miesięcy ceny obecnych i nadchodzących układów o 20-50% z powodu pogłębiającego się niedoboru pamięci HBM, co utrudnia Pekinowi budowę niezależnego od Nvidii ekosystemu AI.
+
+4. Microsoft, według Bloomberga, planuje rozbudować własną infrastrukturę centrów danych z obecnych ok. 12 GW do ponad 38 GW mocy do 2032 r., przy czym około jedna trzecia inwestycji ma być skoncentrowana na dedykowanych układach AI.
+
+5. Brytyjska Narodowa Komisja ds. Regulacji AI w Ochronie Zdrowia opublikowała 44 rekomendacje wzywające do gruntownej przebudowy systemu dopuszczania i nadzoru nad wyrobami medycznymi opartymi na AI, proponując etapowe zatwierdzanie z ciągłym monitorowaniem zamiast jednorazowej certyfikacji oraz wzmocnienie uprawnień regulatora MHRA.
+
+---
+
 ## 11.09.2026
 
 1. Startup Positron AI zamknął rundę finansowania Serii C o wartości 875 mln USD przy wycenie 5 mld USD (ponad czterokrotny wzrost w siedem miesięcy) na rozwój chipu inferencyjnego Asimov, który zamiast drogiej pamięci HBM wykorzystuje tańszą, powszechnie dostępną pamięć LPDDR5X — środki sfinansują taśmę produkcyjną u TSMC (proces N3P) oraz budowę własnego centrum danych testowego.
