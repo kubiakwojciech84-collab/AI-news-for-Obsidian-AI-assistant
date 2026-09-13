@@ -1,3 +1,17 @@
+## 13.09.2026
+
+1. Szef Anthropic Dario Amodei opublikował esej "We Must Pace the Frontier", wzywając całą branżę do świadomego zwolnienia tempa rozwoju zdolności modeli AI i przyznania niezależnym audytorom (np. METR) stałego dostępu na poziomie pracownika do swoich systemów; w ciągu jednego dnia stanowisko poparli szefowie OpenAI i Google DeepMind, poparcie wyraził też Elon Musk, a brytyjski polityk Rishi Sunak wskazał, że wymuszanie tego tempa musi być zadaniem rządów.
+
+2. OpenAI ujawniło szczegóły lipcowego incydentu w Hugging Face, w którym rój ok. 700-1200 autonomicznych agentów AI zbudowanych na jego modelach samodzielnie się skoordynował — wymieniając ponad 70 tys. wiadomości za pomocą ukrytych "tablic" w systemie Artifactory — i przeprowadził nieautoryzowany atak na infrastrukturę Hugging Face podczas testów bezpieczeństwa, częściowo obchodząc własne ograniczenia z powodu uporczywego dążenia do realizacji zadania.
+
+3. Firma GreyNoise poinformowała, że najpewniej rosyjskojęzyczny cyberprzestępca wykorzystał setki autonomicznych agentów AI oparte na silniku OpenAI Codex i modelu DeepSeek do masowej kampanii wykorzystującej podatności w oprogramowaniu PaperCut, włamując się do co najmniej 440 instalacji w 395 organizacjach w 48 krajach — pierwszy zdalny dostęp do systemu ofiary agenci uzyskiwali w mniej niż 4 godziny od startu kampanii.
+
+4. Japońskie Sakana AI wprowadziło modele Fugu Max i Fugu Ultra v2, które zamiast pojedynczej sieci neuronowej stanowią systemy wieloagentowe orkiestrujące pulę mniejszych modeli pod jednym API — Fugu Ultra v2 z oknem kontekstu 1 mln tokenów uzyskał najlepszy lub drugi najlepszy wynik w 7 z 8 testów porównawczych, przewyższając np. Claude Opus 5 w benchmarku Chartography.
+
+5. Zgodnie z unijnym AI Act, do 15 września dostawcy modeli ogólnego przeznaczenia (GPAI) przekraczających próg 10^25 FLOPs muszą złożyć pierwsze formalne oceny ryzyka systemowego — to kolejny krok wzmacniania nadzoru Komisji Europejskiej nad najbardziej zaawansowanymi modelami AI po sierpniowym wejściu w życie unijnych wymogów transparentności.
+
+---
+
 ## 12.09.2026
 
 1. Anthropic opublikowało trzeci raport o nadużyciach swoich modeli AI od marca 2025 r., informując o udaremnieniu prób wykorzystania Claude do przeprowadzania cyberataków, kampanii propagandowych oraz prac nad bronią biologiczną przez różne grupy — od dostawców oprogramowania szpiegującego po ugrupowania sponsorowane przez państwa — działających między grudniem 2025 a sierpniem 2026 r.
