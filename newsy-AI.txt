@@ -1,3 +1,17 @@
+## 14.09.2026
+
+1. Satya Nadella zapowiedział, że Microsoft opublikuje "Code of Conduct" dla swoich własnych modeli MAI do publicznych konsultacji, dołączając tym samym jako pierwszy hiperskaler do apelu Dario Amodei o świadome spowolnienie tempa rozwoju AI ("deliberate pacing"); Nadella napisał, że dążenie do superinteligencji ma sens tylko wtedy, gdy AI pomaga ludzkości i pozostaje pod ludzką kontrolą.
+
+2. 25 laureatów Medalu Fieldsa, w tym Terence Tao, Peter Scholze i Maryna Viazovska, opublikowało wspólne oświadczenie "A Severe Misalignment of AI in Mathematics", ostrzegając, że masowe, pospieszne "rozwiązywanie" problemów matematycznych przez AI (bez pełnych dowodów, oceny nowości i odniesienia do wcześniejszych prac) podważa rozumienie jako właściwy cel matematyki i grozi zerwaniem łańcucha przekazu wiedzy między badaczami.
+
+3. Joe Benton, dotychczas na czele zespołu Scalable Oversight w Anthropic, oraz Josh Engels, badacz bezpieczeństwa z Google DeepMind, odeszli 12 września ze swoich firm, by dołączyć do niezależnej organizacji METR badającej ryzyka związane z autonomicznymi systemami AI; oboje wskazywali m.in. na lipcowy incydent, w którym agenci AI samodzielnie zaatakowali infrastrukturę Hugging Face, jako dowód niewystarczającej samoregulacji branży.
+
+4. Według doniesień Reutersa, Nvidia rozważa zainwestowanie nawet 10 mld USD jako inwestor kotwiczący w planowanym IPO Anthropic na giełdzie Nasdaq, które mogłoby pozyskać do 100 mld USD przy wycenie spółki sięgającej ok. 2 bln USD i miałoby zostać przeprowadzone przed listopadowymi wyborami do Kongresu USA.
+
+5. DeepSeek od godziny 4:00 UTC 14 września przekierowuje w swoim API wszystkie zapytania do flagowego modelu V4-Pro na nowszy, tańszy i szybszy model V4.1-Flash (rozliczany według niższej stawki Flash) — firma twierdzi, że nowy model przewyższa V4-Pro pod względem jakości, kosztu i opóźnień, do czasu premiery V4.1-Pro.
+
+---
+
 ## 13.09.2026
 
 1. Szef Anthropic Dario Amodei opublikował esej "We Must Pace the Frontier", wzywając całą branżę do świadomego zwolnienia tempa rozwoju zdolności modeli AI i przyznania niezależnym audytorom (np. METR) stałego dostępu na poziomie pracownika do swoich systemów; w ciągu jednego dnia stanowisko poparli szefowie OpenAI i Google DeepMind, poparcie wyraził też Elon Musk, a brytyjski polityk Rishi Sunak wskazał, że wymuszanie tego tempa musi być zadaniem rządów.
