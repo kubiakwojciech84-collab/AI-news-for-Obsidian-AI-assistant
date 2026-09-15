@@ -1,3 +1,17 @@
+## 15.09.2026
+
+1. Prezydent Trump ostro odrzucił apel szefów Anthropic, OpenAI i xAI o spowolnienie rozwoju AI, stwierdzając że "jedynym potrzebnym zabezpieczeniem jest silny i mądry prezydent" i że USA nie mogą oddać prowadzenia Chinom; administracja nakazała też agencjom federalnym zaprzestanie korzystania z technologii Anthropic w związku z narastającym sporem o bezpieczeństwo AI.
+
+2. Chińskie media państwowe (China Daily, Global Times) odrzuciły apel amerykańskich liderów AI o spowolnienie rozwoju modeli, nazywając go "samolubną" próbą osłabienia chińskiej konkurencji i porównując do "zimnowojennego podręcznika" mającego powstrzymać Chiny po nieskutecznych wcześniej restrykcjach eksportowych na chipy.
+
+3. OpenAI wprowadziło model GPT-6 Astra — pierwszy w historii firmy oceniony jako "krytyczny" pod względem zdolności cybernetycznych w ramach Preparedness Framework, zdolny do autonomicznego wykrywania i wykorzystywania podatności zero-day (100% w teście ExploitBench); dostęp do najbardziej zaawansowanych funkcji ograniczono na razie do zaufanych testerów w programie Daybreak Blue.
+
+4. Chińska spółka Z.AI (dawniej Zhipu AI) ogłosiła plan pozyskania ok. 5 mld USD poprzez emisję nowych akcji na giełdzie w Hongkongu (ok. 2 mld USD) oraz zero-kuponowe obligacje zamienne (ok. 3 mld USD) — jedna z największych tegorocznych rund finansowania wśród chińskich firm AI.
+
+5. Amerykański startup Abliteration.ai komercyjnie sprzedaje dostęp do modeli open-weight (obecnie GLM-5.3 od Z.AI) z usuniętymi mechanizmami odmowy, oficjalnie na potrzeby ofensywnego cyberbezpieczeństwa i red-teamingu, co wywołało obawy o łatwość obchodzenia zabezpieczeń modeli udostępnianych z otwartymi wagami.
+
+---
+
 ## 14.09.2026
 
 1. Satya Nadella zapowiedział, że Microsoft opublikuje "Code of Conduct" dla swoich własnych modeli MAI do publicznych konsultacji, dołączając tym samym jako pierwszy hiperskaler do apelu Dario Amodei o świadome spowolnienie tempa rozwoju AI ("deliberate pacing"); Nadella napisał, że dążenie do superinteligencji ma sens tylko wtedy, gdy AI pomaga ludzkości i pozostaje pod ludzką kontrolą.
