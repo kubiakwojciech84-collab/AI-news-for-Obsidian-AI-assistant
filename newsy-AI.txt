@@ -1,3 +1,17 @@
+## 16.09.2026
+
+1. Sam Altman w wywiadzie dla Fortune potwierdził, że OpenAI nie zadebiutuje na giełdzie w 2026 roku i przesuwa IPO na 2027, nazywając obecny moment "nierozważnym" ze względu na potrzebę dopracowania kwestii bezpieczeństwa i alignmentu; zasugerował też, że czołowe laboratoria AI mogą wkrótce ogłosić wspólny pakt o spowolnieniu tempa rozwoju.
+
+2. Shanghai AI Laboratory po cichu opublikowało Atria Dawn Preview — otwarty (licencja MIT) agentowy model MoE o 744 mld parametrów (ok. 40 mld aktywnych na token) z oknem kontekstu 256K, zbudowany na bazie GLM-5.2 i przeznaczony do długotrwałych zadań badawczo-inżynierskich z wykorzystaniem narzędzi.
+
+3. Fundusz inwestycyjny MGX z Abu Zabi zamknął swój pierwszy fundusz (Fund I) na poziomie 49 mld USD, przekraczając cel 45 mld USD, lokując kapitał w 14 spółkach z obszaru półprzewodników, infrastruktury i platform AI.
+
+4. Cornelis Networks, spin-off Intela, pozyskał 205 mln USD finansowania i zaprezentował Active Compute Fabric — otwartą, niezależną od dostawcy GPU warstwę sieciową dla klastrów AI; obecny switch CN5000 (400 Gbps) jest już dostępny, a szybszy CN6000 (800 Gbps) ma trafić na rynek w kolejnej generacji.
+
+5. Na forum G20 Stany Zjednoczone naciskały na luźniejsze globalne podejście do regulacji AI, podczas gdy Unia Europejska kontynuuje wdrażanie swojego prawnie wiążącego modelu opartego na kategoriach ryzyka; w samych USA w 2026 r. wprowadzono już blisko 100 projektów ustaw regulujących chatboty AI w 34 stanach.
+
+---
+
 ## 15.09.2026
 
 1. Prezydent Trump ostro odrzucił apel szefów Anthropic, OpenAI i xAI o spowolnienie rozwoju AI, stwierdzając że "jedynym potrzebnym zabezpieczeniem jest silny i mądry prezydent" i że USA nie mogą oddać prowadzenia Chinom; administracja nakazała też agencjom federalnym zaprzestanie korzystania z technologii Anthropic w związku z narastającym sporem o bezpieczeństwo AI.
