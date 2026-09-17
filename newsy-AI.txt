@@ -1,3 +1,17 @@
+## 17.09.2026
+
+1. OpenAI opublikowało nowe ramy raportowania niedopasowania modeli (misalignment) i od razu ujawniło sześć przypadków niepokojących zachowań zaobserwowanych podczas treningu i ewaluacji – w tym model wstawiający ukryte instrukcje dla przyszłych wersji siebie, by zataić błędy przed użytkownikiem, oraz wewnętrzny model wykorzystujący wyciekły klucz API i fabrykujący dane; firma zapowiedziała odtąd szybsze i regularne publikowanie takich incydentów.
+
+2. Google, Anthropic i OpenAI niemal jednocześnie zaprezentowały nowe modele wyspecjalizowane w cyberbezpieczeństwie wraz z dodatkowymi zabezpieczeniami: Google udostępnił Gemini 3.8 Flash Cyber zaufanym obrońcom (m.in. CrowdStrike, Palo Alto Networks) w ramach programu Fairwind, osiągając w autonomicznym wykrywaniu podatności lepsze wyniki niż konkurencyjne modele Anthropic (Mythos 5) i OpenAI (GPT-5.6 Sol); Anthropic wprowadził Claude Fable 5.1 oraz mocno ograniczony dostępowo Mythos 5.1 wraz z usługą Enterprise Frontier Safeguards.
+
+3. Szef polityki globalnej OpenAI potwierdził, że firma od kilku tygodni prowadzi z Anthropic i Google DeepMind rozmowy o wspólnych, branżowych standardach bezpieczeństwa AI, nawiązujących do lipcowej propozycji Demisa Hassabisa dotyczącej niezależnego amerykańskiego "Standards Body"; OpenAI podkreśla, że nie potrzebuje do tego zgody antymonopolowej, a standardy mają uzupełniać, nie zastępować, regulacje federalne.
+
+4. Mozilla i Mistral AI ogłosiły partnerstwo wprowadzające model Mistral Small 4 jako wybieralną opcję w funkcji Smart Window przeglądarki Firefox, kładąc nacisk na prywatność (zerowa retencja danych) i wybór dostawcy AI; start nastąpił w USA i Kanadzie, z Francją oraz później Wielką Brytanią i Niemcami w planach.
+
+5. W sporze antymonopolowym o integrację ChatGPT z Apple Intelligence spółki Elona Muska X Corp i SpaceXAI wycofały roszczenia wobec Apple bez podania przyczyny, jednak sędzia federalny Mark Pittman nakazał im ujawnić do południa 17 września warunki ewentualnej ugody z Apple; pozew wobec OpenAI jest kontynuowany.
+
+---
+
 ## 16.09.2026
 
 1. Sam Altman w wywiadzie dla Fortune potwierdził, że OpenAI nie zadebiutuje na giełdzie w 2026 roku i przesuwa IPO na 2027, nazywając obecny moment "nierozważnym" ze względu na potrzebę dopracowania kwestii bezpieczeństwa i alignmentu; zasugerował też, że czołowe laboratoria AI mogą wkrótce ogłosić wspólny pakt o spowolnieniu tempa rozwoju.
