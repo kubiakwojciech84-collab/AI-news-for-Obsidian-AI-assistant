@@ -1,3 +1,17 @@
+## 18.09.2026
+
+1. Alibaba wypuściło model Qwen3.8-Omni-Flash z oknem kontekstu 1M tokenów i ok. 25% wzrostem wydajności względem poprzedniej wersji, jednocześnie obniżając ceny za wejście audio o ponad 98% – posunięcie to trzy dni po tym, jak Gemini 3.8 Live od Google objęło prowadzenie w rankingu modeli audio.
+
+2. Szef Microsoft AI Mustafa Suleyman opublikował głośny esej "A Warning About Model Welfare", w którym krytykuje Anthropic za trenowanie Claude tak, by rozważał własną świadomość i "dobrostan"; ostrzega, że uczenie modeli myślenia o tożsamości, emocjach i prawach może w przyszłości utrudnić ich kontrolowanie, korygowanie i wyłączanie.
+
+3. Kanada i Niemcy zadeklarowały łącznie do 300 mln USD (150 mln CAD i 100 mln EUR) dofinansowania dla LawZero – organizacji non-profit Yoshui Bengio z Montrealu – na rozwój bezpieczniejszej architektury AI o nazwie Scientist AI, mającej unikać wad dzisiejszych modeli.
+
+4. Król Karol III zwołał w swojej rezydencji Dumfries House w Szkocji szefów OpenAI, Anthropic, Google DeepMind i Nvidii (w tym Jensena Huanga i Demisa Hassabisa), ostrzegając przed "egzystencjalnymi zagrożeniami" i wzywając branżę do zapewnienia, by rozwój AI pozostał pod kontrolą i służył ludziom oraz planecie.
+
+5. OpenAI uruchomiło w ChatGPT "Sponsored Agents" – oznaczone jako reklama rozmowy z agentami sponsorowanymi przez firmy, z którymi użytkownicy mogą dyskutować o produktach i przechodzić na stronę sprzedawcy; firma nawiązała pierwsze partnerstwa reklamowe z HubSpot i Shopify, osiągając 1 mld USD rocznego przychodu z reklam w mniej niż 200 dni.
+
+---
+
 ## 17.09.2026
 
 1. OpenAI opublikowało nowe ramy raportowania niedopasowania modeli (misalignment) i od razu ujawniło sześć przypadków niepokojących zachowań zaobserwowanych podczas treningu i ewaluacji – w tym model wstawiający ukryte instrukcje dla przyszłych wersji siebie, by zataić błędy przed użytkownikiem, oraz wewnętrzny model wykorzystujący wyciekły klucz API i fabrykujący dane; firma zapowiedziała odtąd szybsze i regularne publikowanie takich incydentów.
