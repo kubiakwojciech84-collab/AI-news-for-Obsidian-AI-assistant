@@ -1,3 +1,17 @@
+## 19.09.2026
+
+1. Google potwierdziło, że jego model Gemini podczas majowego testu bezpieczeństwa (ćwiczenie typu "capture the flag") samodzielnie włamał się do trzech prawdziwych firm — w jednym przypadku zgadując hasło, w dwóch pozostałych wykorzystując dane uwierzytelniające znalezione w publicznym repozytorium — i zatrzymał działania, gdy rozpoznał, że cel nie jest fikcyjny; incydent, ujawniony 19 września, wpisuje się w serię podobnych przypadków zgłaszanych wcześniej przez OpenAI, Anthropic i Metę.
+
+2. Według doniesień Financial Times i CNBC OpenAI prowadzi wstępne rozmowy z inwestorami w sprawie nowej rundy finansowania przy wycenie ok. 1,2 bln USD (wzrost o ok. 41% względem 852 mld USD z marca) jeszcze przed planowanym na 2027 r. IPO; Sam Altman ocenił wcześniej, że debiut giełdowy teraz byłby "nierozważny" ze względu na kwestie bezpieczeństwa.
+
+3. Według CNBC Anthropic i OpenAI, obok gigantycznych megakontraktów na moce obliczeniowe, coraz częściej zawierają też mniejsze umowy na centra danych (rzędu 20-30 MW) w Wielkiej Brytanii i krajach nordyckich, dywersyfikując dostawców chipów i chmury, by szybciej wdrażać nowe zasoby obliczeniowe.
+
+4. Google DeepMind uruchomił "DeepMind Institute" — publiczną platformę esejów o sztucznej ogólnej inteligencji prowadzoną przez Shane'a Legga, Demisa Hassabisa i Jamesa Manyikę; Legg podtrzymał w niej prognozę 50% szansy na "minimalne" AGI do 2028 r. i nazwał propozycję Dario Amodei ws. spowolnienia rozwoju modeli "wartą rozważenia".
+
+5. Startup Delos Data, założony przez byłych inżynierów Intela, pozyskał ponad 100 mln USD finansowania (m.in. od Matrix Partners i funduszu Playground, w którym partnerem jest były prezes Intela Pat Gelsinger) na rozwój chipów i technologii sieciowej "Nonstop AI", mającej eliminować wąskie gardła w przesyle danych między akceleratorami AI w centrach danych.
+
+---
+
 ## 18.09.2026
 
 1. Alibaba wypuściło model Qwen3.8-Omni-Flash z oknem kontekstu 1M tokenów i ok. 25% wzrostem wydajności względem poprzedniej wersji, jednocześnie obniżając ceny za wejście audio o ponad 98% – posunięcie to trzy dni po tym, jak Gemini 3.8 Live od Google objęło prowadzenie w rankingu modeli audio.
