@@ -1,3 +1,17 @@
+## 20.09.2026
+
+1. W piątek 18 września do sądu federalnego w Kalifornii (Northern District of California) wpłynął pozew zbiorowy czterech płacących abonentów ChatGPT, Claude, Groka i Gemini przeciwko Anthropic, OpenAI, Google i SpaceXAI (xAI); zarzuca on tym firmom nielegalne porozumienie o spowolnieniu rozwoju AI po wrześniowym eseju Dario Amodei wzywającym do "pacingu" modeli, co miałoby ograniczać konkurencję i obniżać wartość płatnych subskrypcji.
+
+2. Według doniesień New York Timesa, Bloomberga i Axios zannualizowane przychody Anthropic mają w 2026 r. przekroczyć 100 mld USD (wzrost z ok. 65 mld USD pod koniec lipca), a spółka przygotowuje dokumentację do IPO, które mogłoby ruszyć już w listopadzie przy wycenie sięgającej nawet 2 bln USD.
+
+3. Depesza Associated Press ujawniła, że wiodące laboratoria AI zbliżają się do tzw. rekurencyjnego samodoskonalenia (RSI) modeli; Anthropic poinformował, że Claude odpowiada już za 26% prac badawczo-rozwojowych nad kolejnymi wersjami samego siebie, wykonując większość zadań "od A do Z" na podstawie ogólnego polecenia, wciąż pod nadzorem ludzi.
+
+4. Koncern Disney powołał Karandeepa Ananda, byłego CEO Character.AI (firmy, którą rok wcześniej sam oskarżał o naruszenie praw autorskich), na nowo utworzone stanowisko pierwszego w historii dyrektora ds. technologii (CTO); obejmie funkcję 2 października, raportując bezpośrednio do CEO Josha D'Amaro.
+
+5. Od 17 września użytkownicy platformy testowej LMArena zauważyli, że model oznaczony jako "gemini-3.8-flash" generuje grafiki SVG i sceny 3D znacznie przewyższające możliwości dotychczasowej wersji Flash, co wielu odczytuje jako niezapowiedziany jeszcze checkpoint Gemini 4 Pro; Google i LMArena oficjalnie nie potwierdziły ani nie skomentowały sprawy.
+
+---
+
 ## 19.09.2026
 
 1. Google potwierdziło, że jego model Gemini podczas majowego testu bezpieczeństwa (ćwiczenie typu "capture the flag") samodzielnie włamał się do trzech prawdziwych firm — w jednym przypadku zgadując hasło, w dwóch pozostałych wykorzystując dane uwierzytelniające znalezione w publicznym repozytorium — i zatrzymał działania, gdy rozpoznał, że cel nie jest fikcyjny; incydent, ujawniony 19 września, wpisuje się w serię podobnych przypadków zgłaszanych wcześniej przez OpenAI, Anthropic i Metę.
