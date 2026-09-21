@@ -1,3 +1,17 @@
+## 21.09.2026
+
+1. Prezydent USA Donald Trump zapowiedział utworzenie „AI Force” wzorowanego na Space Force oraz powołanie nowego „AI czara” nadzorującego rozwój sztucznej inteligencji, jednocześnie odrzucając wezwania do twardszych ograniczeń dla branży; szczegółów struktury i kandydata na stanowisko na razie nie podano.
+
+2. Cohere i Aleph Alpha podpisały wiążącą umowę połączenia, tworząc transatlantycką spółkę o wycenie ok. 20 mld USD, działającą pod marką Cohere z siedzibami w Berlinie i Toronto; transakcja wymaga jeszcze zgód regulacyjnych i ma się zamknąć do końca 2026 r.
+
+3. OpenAI potwierdziło, że od kilku tygodni prowadzi z Anthropic i Google DeepMind rozmowy o wspólnych standardach bezpieczeństwa AI, w tym o dopuszczeniu niezależnych audytorów do wglądu w pośrednie checkpointy modeli w celu wykrywania zwodniczych zachowań; mechanizm ma być na razie dobrowolny.
+
+4. Startup TypeSafe AI, założony przez Diego Almeidę (deklarującego udział we wczesnych pracach nad ChatGPT i RLHF w OpenAI), zaprezentował model Jev — fundamentalny model niegenerujący tekstu, zoptymalizowany pod klasyfikację i routing w czasie rzeczywistym (gry, robotyka, symulacje), mający być nawet 100x szybszy i tańszy od klasycznych LLM w tych zadaniach.
+
+5. Pekiński startup Naive AI, założony w lutym 2026 r. przez profesora Tsinghua Dai Jifenga, osiągnął wycenę 1,42 mld USD po zebraniu ponad 400 mln USD w trzech rundach od Tencentu, IDG Capital, MPCi i HSG.
+
+---
+
 ## 20.09.2026
 
 1. W piątek 18 września do sądu federalnego w Kalifornii (Northern District of California) wpłynął pozew zbiorowy czterech płacących abonentów ChatGPT, Claude, Groka i Gemini przeciwko Anthropic, OpenAI, Google i SpaceXAI (xAI); zarzuca on tym firmom nielegalne porozumienie o spowolnieniu rozwoju AI po wrześniowym eseju Dario Amodei wzywającym do "pacingu" modeli, co miałoby ograniczać konkurencję i obniżać wartość płatnych subskrypcji.
