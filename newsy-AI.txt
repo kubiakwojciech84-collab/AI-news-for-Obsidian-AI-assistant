@@ -1,3 +1,17 @@
+## 22.09.2026
+
+1. Podczas konferencji Apsara w Hangzhou prezes Alibaba Eddie Wu zapowiedział budowę modelu AI o 5-10 bilionach parametrów (następcy serii Qwen, nawet 4x większego od obecnego flagowca Qwen3.8 Max) oraz zaprezentował nowy chip Zhenwu V900, mający oferować 3x wydajność poprzednika i wspierać klastry liczące do 500 tys. kart.
+
+2. xAI Elona Muska udostępniło 21 września model Grok 4.7 (2,1 bln parametrów, wzrost o 40% względem Grok 4.6) w tej samej cenie co poprzednik; nowy model trafił już do aplikacji Grok, Cursor oraz GitHub Copilot, po serii wielokrotnych opóźnień premiery.
+
+3. Microsoft AI opublikował projekt „Code of Conduct" dla przyszłych modeli z rodziny MAI, wymagający m.in. respektowania poleceń wyłączenia, działania wyłącznie w ramach autoryzowanych narzędzi i uprawnień oraz zakazu twierdzenia przez model, że posiada świadomość lub osobowość prawną.
+
+4. Meta uruchomiła „Meta One" — globalną subskrypcję (od 2,99 USD/mies.) obejmującą Instagram, Facebook, WhatsApp i Meta AI, dającą dostęp do ponad 50 funkcji, w tym rozszerzonego, kosztownego obliczeniowo generowania obrazu i wideo.
+
+5. Na spotkaniu ministerialnym G20 w Chapel Hill w Karolinie Północnej administracja USA opowiedziała się przeciw sektorowym regulacjom AI, pogłębiając rozdźwięk z UE, gdzie od 2 sierpnia obowiązują nowe wymogi transparentności z AI Act (obowiązki dla systemów wysokiego ryzyka przesunięto na grudzień 2027).
+
+---
+
 ## 21.09.2026
 
 1. Prezydent USA Donald Trump zapowiedział utworzenie „AI Force” wzorowanego na Space Force oraz powołanie nowego „AI czara” nadzorującego rozwój sztucznej inteligencji, jednocześnie odrzucając wezwania do twardszych ograniczeń dla branży; szczegółów struktury i kandydata na stanowisko na razie nie podano.
