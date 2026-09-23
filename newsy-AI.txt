@@ -1,3 +1,17 @@
+## 23.09.2026
+
+1. Rada Bezpieczeństwa ONZ zebrała się 23 września w Nowym Jorku na zwołanej przez Francję sesji poświęconej AI i bezpieczeństwu międzynarodowemu — szefowie OpenAI (Sam Altman, osobiście) i Anthropic (Dario Amodei, zdalnie) przedstawili stanowiska obok przedstawicieli chińskich DeepSeek i Moonshot, Hugging Face oraz współprzewodniczącego niezależnego panelu naukowego ONZ ds. AI Yoshui Bengio; dyskusja koncentrowała się na złośliwym wykorzystaniu AI i ryzyku utraty kontroli nad coraz zdolniejszymi systemami.
+
+2. Anthropic udostępnił Claude Opus 5.5 — pierwszy model nowej rodziny 5.5, o 40% tańszy w typowych zadaniach i o ponad 30% szybszy od Opus 5 (4/20 USD za mln tokenów), z najsilniejszymi jak dotąd zabezpieczeniami cybernetycznymi (opisanymi w 230-stronicowej karcie systemowej) oraz nowym mechanizmem "preserved thinking" chroniącym przed destylacją jego rozumowania przez API.
+
+3. Cognition AI, twórca agenta programistycznego Devin, zamknął rundę finansowania o wartości 2 mld USD przy wycenie 48 mld USD, prowadzoną przez Andreessen Horowitz, Accel, Founders Fund i General Catalyst — to kolejny skok wyceny startupu w ciągu zaledwie kilku tygodni od poprzedniej rundy.
+
+4. Google, Anthropic i OpenAI kontynuują rywalizację wyspecjalizowanymi modelami do cyberbezpieczeństwa: Gemini 3.8 Flash Cyber od Google osiąga wyniki przewyższające konkurencyjne Claude Mythos 5 oraz GPT-5.6 Sol/GPT-5.5-Cyber w autonomicznym wykrywaniu podatności, a dostęp do najsilniejszych wersji pozostaje ograniczony do zaufanych partnerów (m.in. CrowdStrike, Palo Alto Networks).
+
+5. Gubernator Kalifornii Gavin Newsom zbliża się do wyznaczonego na 30 września terminu podpisania lub zawetowania Frontier AI Safety Act, podczas gdy próba federalnej prewencji (preemption) regulacji stanowych utknęła w Komisji Sądownictwa Izby Reprezentantów wobec sprzeciwu stanowych prokuratorów generalnych — pogłębia się rozdźwięk między liberalnym podejściem administracji USA a rosnącą liczbą stanowych ustaw o AI.
+
+---
+
 ## 22.09.2026
 
 1. Podczas konferencji Apsara w Hangzhou prezes Alibaba Eddie Wu zapowiedział budowę modelu AI o 5-10 bilionach parametrów (następcy serii Qwen, nawet 4x większego od obecnego flagowca Qwen3.8 Max) oraz zaprezentował nowy chip Zhenwu V900, mający oferować 3x wydajność poprzednika i wspierać klastry liczące do 500 tys. kart.
