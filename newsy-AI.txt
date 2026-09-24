@@ -1,3 +1,17 @@
+## 24.09.2026
+
+1. Cisco Talos ujawnił CLOSEDQUORUM — pierwszy udokumentowany w pełni autonomiczny implant C2 dla Windows, który decyzje taktyczne podejmuje głosowaniem czterech komercyjnych modeli LLM (DeepSeek, Qwen, Mistral, Gemini) bez udziału operatora; jednocześnie Talos udostępnił open source'owe narzędzie CAIRN do wykrywania i klasyfikowania złośliwego oprogramowania wykorzystującego AI.
+
+2. OpenAI zakończyło 24 września dostęp do API Sora, finalizując dwuetapowe wygaszanie modelu wideo (aplikacja zamknięta w kwietniu) — powodem miały być koszty obliczeniowe sięgające ok. 1 mln USD dziennie oraz chęć skupienia zasobów na ChatGPT i Codex.
+
+3. OpenAI odpowiedziało na premierę Claude Opus 5.5 wprowadzeniem GPT-6 Sol i GPT-6 Luna z cenami obniżonymi o połowę względem GPT-5.6 (odpowiednio 2/10 USD i 0,10/0,50 USD za mln tokenów) — jeden z najostrzejszych jak dotąd starć cenowych na rynku modeli frontierowych.
+
+4. Naukowcy z MIT opracowali nowy system sterowania AI dla miniaturowego robota latającego inspirowanego owadami, zwiększający jego prędkość o ok. 450% i pozwalający na wykonanie 10 salt w 11 sekund przy zachowaniu dokładności trajektorii do 5 cm nawet przy wietrze.
+
+5. Startup Snorkel AI zamknął rundę finansowania Serii E prowadzoną przez Insight Partners i S32, osiągając wycenę 3,5 mld USD — kolejny sygnał utrzymującego się boomu inwestycyjnego wokół firm dostarczających dane i narzędzia do trenowania modeli AI.
+
+---
+
 ## 23.09.2026
 
 1. Rada Bezpieczeństwa ONZ zebrała się 23 września w Nowym Jorku na zwołanej przez Francję sesji poświęconej AI i bezpieczeństwu międzynarodowemu — szefowie OpenAI (Sam Altman, osobiście) i Anthropic (Dario Amodei, zdalnie) przedstawili stanowiska obok przedstawicieli chińskich DeepSeek i Moonshot, Hugging Face oraz współprzewodniczącego niezależnego panelu naukowego ONZ ds. AI Yoshui Bengio; dyskusja koncentrowała się na złośliwym wykorzystaniu AI i ryzyku utraty kontroli nad coraz zdolniejszymi systemami.
