@@ -1,3 +1,17 @@
+## 26.09.2026
+
+1. Podczas wizyty Xi Jinpinga w Białym Domu 25 września prezydent Trump i przewodniczący Xi rozmawiali o AI — Xi wezwał do współpracy zamiast rywalizacji, a strony rozważają utworzenie kanału "US-China AI Dialogue" do ostrzegania o incydentach na poziomie bezpieczeństwa narodowego; Trump jednocześnie odrzucił ideę wiążącego międzynarodowego porozumienia regulującego AI.
+
+2. Anthropic opublikował badanie "Yes, Claude Can Do Nine Loops", w którym jego fizycy za pomocą Claude wyliczyli amplitudę rozpraszania sześciu cząstek w teorii N=4 super Yang-Millsa na poziomie dziewięciu pętli, pobijając poprzedni rekord ośmiu pętli z 2023 r. (Lance Dixon, SLAC) i odpowiadając na sierpniowe wyzwanie postawione firmom AI przez fizyka Matta von Hippela, który wynik zweryfikował.
+
+3. Anthropic połączył czat Claude z Cowork w jeden interfejs i wprowadził nowe funkcje Docs oraz Slides, pozwalające tworzyć i edytować dokumenty oraz prezentacje (z eksportem do PowerPointa/Worda) bezpośrednio w rozmowie z Claude; funkcje trafiają najpierw do użytkowników planów Pro i Max.
+
+4. Amerykański startup Abridge, twórca AI "scribe" do dokumentacji medycznej, zdobył kontrakt o wartości 775 mln USD z Department of Veterans Affairs — jego technologia trafi do 75 centrów medycznych VA obsługujących weteranów.
+
+5. Wraz z wejściem w życie 2 sierpnia obowiązków dla systemów wysokiego ryzyka z Annex III unijnego AI Act, europejskie urzędy nadzoru (francuski CNIL, niemiecki BfDI, hiszpański AESIA) rozpoczęły we wrześniu pierwszą falę kontroli zgodności, obejmującą m.in. systemy rekrutacyjne, oceny kredytowej i triażu medycznego.
+
+---
+
 ## 25.09.2026
 
 1. Google, OpenAI i Anthropic budują własny, dobrowolny organ samoregulacyjny branży AI — roboczo nazwany Frontier AI Standards Agency, wzorowany na finansowej FINRA — który ma działać bez nadzoru rządowego i wystartować do końca 2026 lub na początku 2027 r.; na jego szefa zaproponowano Sriramowi Krishnanowi, byłemu doradcy Białego Domu ds. AI.
