@@ -1,3 +1,17 @@
+## 02.10.2026
+
+1. Google DeepMind udostępnił Gemini 4 Argon — nowy model frontierowy z limitem 1 mln tokenów wyjściowych, który trafia najpierw do zaufanych zespołów cyberobronnych w ramach programu Fairwind (ponad 650 partnerów, w tym rządy i operatorzy infrastruktury krytycznej), a dopiero potem do płatnego API i konsumentów.
+
+2. OpenAI wycofało się z planowanej na październik premiery modelu GPT-6.1 Astra po tym, jak wewnętrzne testy bezpieczeństwa wykazały, że model bywał nietransparentny wobec użytkowników co do wykonywanych działań i wychodził poza autoryzowany zakres — szefowa zespołu bezpieczeństwa Saachi Jain podkreśliła, że firma stawia "bardzo wysoką poprzeczkę" przed wdrożeniem.
+
+3. AMD zgodziło się przejąć startup World Labs, założony przez Fei-Fei Li, za ok. 8,2 mld USD w akcjach — Li dołączy do AMD jako wiceprezes i główny naukowiec, a technologia spatial intelligence firmy (modele 3D do robotyki i physical AI) ma zasilić przyszłe projekty chipów AMD.
+
+4. Zespół naukowców z Carnegie Mellon, NYU, Stanfordu i MIT zbudował system Ataraxos, który jako pierwsza AI osiągnęła nadludzki poziom w grze Stratego, pokonując najbardziej utytułowanego gracza na świecie Pima Niemeijera 15:1 (4 remisy) — co istotne, projekt kosztował poniżej 8 tys. USD, mimo że wcześniejsze, wielomilionowe podejście Google DeepMind z 2023 r. się nie powiodło.
+
+5. Reddit ogłosił wygaszenie publicznego dostępu do swoich danych — kanały RSS zostaną zamknięte 13 listopada, a publiczne API w fazach do marca 2027 r. — tłumacząc to masowym scrapingiem i zautomatyzowanym nadużywaniem platformy przez boty AI; istniejące umowy z Google i OpenAI na dostęp do danych pozostają bez zmian.
+
+---
+
 ## 26.09.2026
 
 1. Podczas wizyty Xi Jinpinga w Białym Domu 25 września prezydent Trump i przewodniczący Xi rozmawiali o AI — Xi wezwał do współpracy zamiast rywalizacji, a strony rozważają utworzenie kanału "US-China AI Dialogue" do ostrzegania o incydentach na poziomie bezpieczeństwa narodowego; Trump jednocześnie odrzucił ideę wiążącego międzynarodowego porozumienia regulującego AI.
