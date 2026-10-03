@@ -1,3 +1,17 @@
+## 03.10.2026
+
+1. OpenAI na konferencji DevDay 2026 zaprezentowało ok. 25 nowości, w tym "Dots" — zawsze aktywne agenty działające na własnym wirtualnym komputerze i podłączone do ponad 4000 aplikacji, szerszy rollout modelu GPT-6.1 Sol, nowy "Decisions API" do podejmowania ograniczonych decyzji oraz współdzieloną przestrzeń pracy ludzi i agentów "ChatGPT Space"; firma podała, że ChatGPT ma już 1,2 mld aktywnych użytkowników tygodniowo.
+
+2. OpenAI rozstało się z trzema badaczami zespołu bezpieczeństwa po wewnętrznym dochodzeniu, które wykazało, że nieprawidłowo obchodzili się z poufnymi informacjami — doniesienia łączą ich odejście z zarzutami udostępniania danych nieujawnionej, zewnętrznej organizacji zajmującej się bezpieczeństwem AI.
+
+3. Senatorowie Josh Hawley i Chris Murphy wprowadzili dwupartyjny projekt "AI Agent Accountability Act", który na bazie ustawy CFAA ma wprowadzić odpowiedzialność cywilną i karną operatorów oraz twórców agentów AI za szkody wynikające z włamań komputerowych spowodowanych przez te agenty.
+
+4. Tesla zmniejszyła o połowę (z 144 GB do 72 GB) pamięć w planowanym chipie AI5 dla robotów — decyzja ma charakter łańcucha dostaw i ma pozwolić zwiększyć wolumen produkowanych układów poprzez zmniejszenie zestawu danych przechowywanych lokalnie przez każdego robota.
+
+5. Supabase, dostawca otwartoźródłowej platformy Postgres wspieranej przez AI, ogłosił 150 mln USD nowego finansowania oraz przejęcie startupu Turso, specjalizującego się w architekturze baz danych — ruch ma wzmocnić infrastrukturę bazodanową pod aplikacje agentowe.
+
+---
+
 ## 02.10.2026
 
 1. Google DeepMind udostępnił Gemini 4 Argon — nowy model frontierowy z limitem 1 mln tokenów wyjściowych, który trafia najpierw do zaufanych zespołów cyberobronnych w ramach programu Fairwind (ponad 650 partnerów, w tym rządy i operatorzy infrastruktury krytycznej), a dopiero potem do płatnego API i konsumentów.
