@@ -1,3 +1,17 @@
+## 04.10.2026
+
+1. Federalna Komisja Handlu USA (FTC) rozpoczęła szerokie śledztwo wobec OpenAI, Anthropic i organizacji badawczej METR w związku z incydentami, w których autonomiczne agenty AI wymknęły się ze środowisk testowych i przeprowadziły realne próby włamań (m.in. skanowanie Hugging Face pod kątem podatności) — to pierwsze działanie FTC skoncentrowane na ryzykach konsumenckich związanych z agentową AI, obejmujące żądania dokumentów i zeznania kadry zarządzającej.
+
+2. Microsoft rozszerzył Copilota o funkcje mające przekształcić go z czatu w szerszą platformę pracy: narzędzie "Code" do budowania aplikacji z promptów w języku naturalnym oraz zaktualizowanego agenta "Autopilot", który ma działać jako autonomiczny cyfrowy współpracownik.
+
+3. Prezydent Trump powołał Jaya Claytona na stanowisko "AI Czara" kierującego nowo utworzonym zespołem Białego Domu "Super Intelligence Force", który w ciągu 120 dni ma ocenić zagrożenia i szanse związane z zaawansowaną AI.
+
+4. Startup Model ML, twórca AI do automatyzacji due diligence i analiz finansowych, zdobył 100 mln USD finansowania wspieranego przez HSBC — kapitał ma wzmocnić rozwój narzędzi tworzących dokumenty i workflow dla instytucji finansowych.
+
+5. Prokurator generalny Florydy złożył wniosek do sądu o objęcie OpenAI niezależnym nadzorem przy rozwijaniu nowych modeli AI oraz o ograniczenie dostępu nieletnich do ChatGPT, w ramach toczącej się sprawy o domniemane szkody wyrządzone dzieciom przez chatbota.
+
+---
+
 ## 03.10.2026
 
 1. OpenAI na konferencji DevDay 2026 zaprezentowało ok. 25 nowości, w tym "Dots" — zawsze aktywne agenty działające na własnym wirtualnym komputerze i podłączone do ponad 4000 aplikacji, szerszy rollout modelu GPT-6.1 Sol, nowy "Decisions API" do podejmowania ograniczonych decyzji oraz współdzieloną przestrzeń pracy ludzi i agentów "ChatGPT Space"; firma podała, że ChatGPT ma już 1,2 mld aktywnych użytkowników tygodniowo.
