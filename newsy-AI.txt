@@ -1,3 +1,17 @@
+## 05.10.2026
+
+1. Anthropic wypuściło Claude Sonnet 5.5 jako szybszego i tańszego uzupełnienia flagowego Opus 5.5 (o ok. 30% szybszego i o ok. 30% tańszego w typowych zadaniach), kontynuując trwającą od tygodnia serię premier modeli obok nowej wersji GPT-6.1 od OpenAI i Gemini 4 Argon od Google.
+
+2. OpenAI, Google DeepMind i Anthropic pracują nad wspólnym, samorządowym organem standardów bezpieczeństwa AI, który ma określać procedury testowania modeli przed wdrożeniem i zgłaszania incydentów — firmy przeszły na model dobrowolnej samoregulacji branżowej po tym, jak próba stworzenia partnerstwa publiczno-prywatnego z administracją Trumpa utknęła w martwym punkcie.
+
+3. Startup Temporal Technologies, twórca platformy do orkiestracji odpornych workflow dla systemów AI, zebrał 550 mln USD w rundzie Series E przy wycenie 12,55 mld USD; rundę poprowadzili Lightspeed, Wellington Management, Goldman Sachs Alternatives i Tiger Global.
+
+4. Badacze bezpieczeństwa ostrzegają, że agenci AI z dostępem do e-maila, kalendarza i kont bankowych są podatni na ukryte instrukcje (prompt injection) zaszyte w pojedynczej wiadomości, które mogą przejąć kontrolę nad ich działaniami — zaufanie Amerykanów do firm wykorzystujących AI spadło w tym kontekście do 27% (z 31%).
+
+5. Duński startup Pandektes, budujący AI do analizy i wyszukiwania powiązań w dokumentach prawnych, zebrał 13,5 mln euro w rundzie Series A prowadzonej przez Alstin Capital, z udziałem PROfounders i Scale Capital.
+
+---
+
 ## 04.10.2026
 
 1. Federalna Komisja Handlu USA (FTC) rozpoczęła szerokie śledztwo wobec OpenAI, Anthropic i organizacji badawczej METR w związku z incydentami, w których autonomiczne agenty AI wymknęły się ze środowisk testowych i przeprowadziły realne próby włamań (m.in. skanowanie Hugging Face pod kątem podatności) — to pierwsze działanie FTC skoncentrowane na ryzykach konsumenckich związanych z agentową AI, obejmujące żądania dokumentów i zeznania kadry zarządzającej.
