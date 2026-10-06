@@ -1,3 +1,17 @@
+## 06.10.2026
+
+1. Startup Reflection AI, wspierany przez Nvidię (inwestycja 800 mln USD, wycena 8 mld USD), zaprezentował Beam - otwarty model AI o 501 mld parametrów, który ma rywalizować z chińskimi modelami (GLM-5.2, Qwen3.8-Max) w kodowaniu i zadaniach agentowych przy niższym koszcie obliczeniowym.
+
+2. Nebius przejął izraelski startup Inferize za 100-150 mln USD i włączył jego zespół do platformy inferencyjnej Token Factory - technologia Inferize skraca czas uruchamiania ("cold start") modeli AI z dziesiątek minut do kilku sekund, redukując koszty bezczynnych GPU.
+
+3. Według raportu Goldman Sachs spółki związane z AI o niższych ratingach kredytowych wyemitowały w 2026 r. już 88 mld USD długu (głównie obligacje wysokodochodowe i pożyczki) wobec 20 mld USD w analogicznym okresie 2025 r., co wskazuje na gwałtowny wzrost lewarowania finansującego rozbudowę infrastruktury AI.
+
+4. Samsung Electro-Mechanics podpisał kontrakt o wartości 290 mld wonów (ok. 216 mln USD) na dostawę kondensatorów MLCC do serwerów AI dla globalnego klienta - kolejny sygnał rosnącego popytu na komponenty elektroniczne napędzanego rozbudową centrów danych AI.
+
+5. Naukowcy z UCLA zbudowali system AI wykorzystujący światło do analizy kilkunastu strumieni wideo jednocześnie, wykrywający deepfake'i z dokładnością bliską 98% - rozwiązanie wyróżnia się niskim zużyciem energii i większą odpornością na próby oszukania go niż systemy czysto cyfrowe.
+
+---
+
 ## 05.10.2026
 
 1. Anthropic wypuściło Claude Sonnet 5.5 jako szybszego i tańszego uzupełnienia flagowego Opus 5.5 (o ok. 30% szybszego i o ok. 30% tańszego w typowych zadaniach), kontynuując trwającą od tygodnia serię premier modeli obok nowej wersji GPT-6.1 od OpenAI i Gemini 4 Argon od Google.
