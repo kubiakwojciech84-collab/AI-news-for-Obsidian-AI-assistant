@@ -1,3 +1,17 @@
+## 07.10.2026
+
+1. Anthropic ogłosiło rozszerzony Cyber Verification Program z trójpoziomową strukturą dostępu (Defense Access, Red Team Access, Specialized Access) dla systemów o krytycznym znaczeniu dla bezpieczeństwa - partnerzy wcześniejszego programu Glasswing wykryli już ponad 129 000 zweryfikowanych podatności w oprogramowaniu (w tym ponad 33 000 ocenionych jako krytyczne lub wysokiego ryzyka) między kwietniem a lipcem 2026 r.
+
+2. Wspierany przez Nvidię dostawca infrastruktury AI Lambda negocjuje rundę finansowania o wartości 4 mld USD przy wycenie 14,5 mld USD przed planowanym wejściem na giełdę (IPO), co wzmocni jego pozycję w wyścigu o moce obliczeniowe dla AI.
+
+3. Waymo, spółka autonomicznych pojazdów należąca do Alphabetu, zwiększyło swoją pierwszą w historii rundę prywatnego długu do 5 mld USD, aby finansować dalszą ekspansję flot robotaxi w miastach USA.
+
+4. Google zaprezentował EmbeddingGemma 2 - nowy, 740-milionowy multimodalny model embeddingów - oraz ogłosił zakup 3,6 GW energii z elektrowni jądrowych od Constellation na potrzeby zasilania centrów danych AI.
+
+5. Naukowcy z USC i Intela zaprezentowali metodę On-Policy Power Distillation (OPPD), przenoszącą koszt kosztownego "power samplingu" (generowania wielu kandydatów odpowiedzi) do etapu treningu modelu - pozwala to w jednej generacji podczas inferencji uzyskać 94% jakości, jaką dawało wcześniej losowanie 16 kandydatów.
+
+---
+
 ## 06.10.2026
 
 1. Startup Reflection AI, wspierany przez Nvidię (inwestycja 800 mln USD, wycena 8 mld USD), zaprezentował Beam - otwarty model AI o 501 mld parametrów, który ma rywalizować z chińskimi modelami (GLM-5.2, Qwen3.8-Max) w kodowaniu i zadaniach agentowych przy niższym koszcie obliczeniowym.
