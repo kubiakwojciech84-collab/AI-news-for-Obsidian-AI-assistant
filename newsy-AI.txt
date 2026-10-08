@@ -1,3 +1,17 @@
+## 08.10.2026
+
+1. Chiński startup Manus (Butterfly Effect), twórca agenta AI, zebrał ponad 500 mln USD w pierwszej rundzie finansowania od czasu, gdy Pekin zablokował przejęcie spółki przez Metę za ok. 2 mld USD; rundę poprowadziły Boyu Capital i IDG Capital, przy udziale Tencent, HSG i ZhenFund, co może podwoić wycenę firmy do 4 mld USD.
+
+2. Mistral AI udostępniło w publicznym podglądzie Mistral Large 4 ("Le Chonk") - multimodalny model mixture-of-experts z ok. 1,05 bln parametrów łącznych (ok. 49 mld aktywnych) i oknem kontekstu do 1 mln tokenów; firma nazywa go najsilniejszym otwartym modelem z Zachodu, a pełne wagi mają zostać opublikowane do końca października.
+
+3. AMD zgodziło się przejąć startup World Labs, założony przez Fei-Fei Li, w transakcji akcyjnej o wartości ok. 8,2 mld USD - po zamknięciu umowy Li ma objąć stanowisko wiceprezes wykonawczej i głównej naukowiec AMD, a firma specjalizująca się w modelach "spatial intelligence" ma wzmocnić działania AMD wobec Nvidii.
+
+4. Startup General Intuition, budujący modele AI na bazie danych z rozgrywek wideo (platforma Medal), zebrał 220 mln USD w rundzie prowadzonej przez Valor Equity Partners przy wycenie 6,2 mld USD - to prawie trzykrotny wzrost wyceny względem rundy Series A z poprzednich miesięcy.
+
+5. Dostawca infrastruktury GPU GMI Cloud pozyskał łącznie 668 mln USD finansowania (223 mln USD w rundzie Series B z udziałem Nvidii oraz 445 mln USD w kredycie poprowadzonym przez CTBC) na rozbudowę mocy obliczeniowych AI w USA, na Tajwanie i w regionie Azji-Pacyfiku.
+
+---
+
 ## 07.10.2026
 
 1. Anthropic ogłosiło rozszerzony Cyber Verification Program z trójpoziomową strukturą dostępu (Defense Access, Red Team Access, Specialized Access) dla systemów o krytycznym znaczeniu dla bezpieczeństwa - partnerzy wcześniejszego programu Glasswing wykryli już ponad 129 000 zweryfikowanych podatności w oprogramowaniu (w tym ponad 33 000 ocenionych jako krytyczne lub wysokiego ryzyka) między kwietniem a lipcem 2026 r.
