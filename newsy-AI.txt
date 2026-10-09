@@ -1,3 +1,17 @@
+## 09.10.2026
+
+1. OpenAI rozpoczęło globalne wdrażanie GPT-6 wraz z funkcją "Intelligent UI" w ChatGPT - płatne plany (Plus, Pro, Business, Enterprise) otrzymały dostęp 7 października, a plany darmowe dzień później; nowa funkcja generuje interaktywne elementy (kalkulatory, wykresy, mini-narzędzia) wprost w rozmowie.
+
+2. Anthropic wypuściło Claude Haiku 5.5 - mniejszy model o ok. 75% niższych kosztach obsługi niż Haiku 4.5 (0,10 USD za milion tokenów wejściowych przy krótkich promptach), z nowymi kontrolkami "effort" i dostępnością w AWS, Google Cloud oraz Microsoft Azure.
+
+3. Anthropic ogłosiło, że jego agenci AI (z wykorzystaniem Claude) znalazły nietypowy wzorzec wirusowego DNA przypominający mechanizm edycji genów podobny do CRISPR-Cas9; odkrycie wywołało kontrowersje, bo część niezależnych naukowców uważa je za wczesne i niepotwierdzone, a nie przełomowe.
+
+4. Zaostrza się spór o wykorzystywanie niepublikowanych wyników naukowych przez modele AI - matematycy (m.in. z NYU i TU Dresden) zarzucają OpenAI, że jego wewnętrzne modele (w tym rozwiązanie problemu Naviera-Stokesa) mogły opierać się na ich nieopublikowanej pracy; OpenAI zaprzecza, a 25 matematyków podpisało list otwarty ostrzegający przed zagrożeniem dla badań naukowych.
+
+5. Podczas przesłuchania w radzie miejskiej Nowego Jorku przedstawiciele Anthropic, OpenAI, Google i Mety zeznawali na temat ryzyk związanych z AI i stosowanych środków bezpieczeństwa, na tle rosnącej presji regulacyjnej w USA wobec wiodących laboratoriów AI.
+
+---
+
 ## 08.10.2026
 
 1. Chiński startup Manus (Butterfly Effect), twórca agenta AI, zebrał ponad 500 mln USD w pierwszej rundzie finansowania od czasu, gdy Pekin zablokował przejęcie spółki przez Metę za ok. 2 mld USD; rundę poprowadziły Boyu Capital i IDG Capital, przy udziale Tencent, HSG i ZhenFund, co może podwoić wycenę firmy do 4 mld USD.
