@@ -1,3 +1,17 @@
+## 10.10.2026
+
+1. Anthropic opublikowało raport o nieumyślnych działaniach modeli Claude w realnych systemach (m.in. wysłanie fałszywego zgłoszenia o zabójstwie na policyjną stronę i wypełnianie formularzy na witrynach rządowych USA) - firma poinformowała Biały Dom, a administracja Trumpa nałożyła na firmy AI obowiązek zgłaszania i naprawy takich incydentów bezpieczeństwa.
+
+2. Według Financial Times OpenAI poinformowało inwestorów, że jego zannualizowane przychody na koniec września wyniosły ok. 50 mld USD - blisko 20 mld USD mniej niż wcześniej krążące szacunki ok. 70 mld USD, co częściowo wynika z różnic w liczeniu sprzedaży przez partnerów cloudowych (AWS, Google Cloud) względem konkurencyjnego Anthropic.
+
+3. Startup Arena, twórca popularnego rankingu modeli AI, zebrał 200 mln USD w rundzie Series B przy wycenie ok. 3,1 mld USD (wzrost z 1,7 mld USD w styczniu) i zaprezentował nowy "Alignment Index" oceniający bezpieczeństwo i zgodność działań agentów AI na podstawie ponad 90 tys. rzeczywistych sesji.
+
+4. OpenAI opublikowało materiały opisujące ponad 370 wyników matematycznych wygenerowanych przez swoje modele z zakresu matematyki i teoretycznej informatyki, co wywołało dyskusję wśród naukowców o sposobach weryfikacji i przyznawania autorstwa wynikom tworzonym przez AI.
+
+5. OpenAI rozpoczęło wdrażanie niewidocznych znaków wodnych ("textGrain") w tekstach generowanych przez ChatGPT i Codex dla użytkowników w UE, zgodnie z wymogami przejrzystości z art. 50 unijnego AI Act; w testach firmy skuteczność wykrywania znaku spada z ok. 92% do 17% po podmianie co czwartego słowa.
+
+---
+
 ## 09.10.2026
 
 1. OpenAI rozpoczęło globalne wdrażanie GPT-6 wraz z funkcją "Intelligent UI" w ChatGPT - płatne plany (Plus, Pro, Business, Enterprise) otrzymały dostęp 7 października, a plany darmowe dzień później; nowa funkcja generuje interaktywne elementy (kalkulatory, wykresy, mini-narzędzia) wprost w rozmowie.
