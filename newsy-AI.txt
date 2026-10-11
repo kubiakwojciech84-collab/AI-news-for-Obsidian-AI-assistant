@@ -1,3 +1,17 @@
+## 11.10.2026
+
+1. Google ograniczyło dostęp do nowego modelu Gemini 4 Argon, udostępniając go najpierw zweryfikowanym zespołom cyberobrony w ramach programu Fairwind, by zmniejszyć ryzyko wykorzystania go do ataków (cyber oraz CBRN); partner Wiz, testując Argon, znalazł krytyczną podatność w szpitalnym oprogramowaniu medycznym, której nie wykryły wcześniejsze modele.
+
+2. Według Bloomberga OpenAI prowadzi wczesne rozmowy o nowej rundzie finansowania na co najmniej 30 mld USD przy wycenie ok. 1,4 bln USD - to alternatywa dla IPO, z którym Sam Altman wstrzymuje się na razie ze względów bezpieczeństwa.
+
+3. Według WSJ Broadcom negocjuje z funduszami Apollo i Blackstone finansowanie przekraczające 50 mld USD na niestandardowe chipy AI budowane dla OpenAI w ramach programu "Nexus" - części planu wdrożenia 10 GW mocy obliczeniowej do 2029 roku.
+
+4. Również Oracle (wspólnie z Apollo i Goldman Sachs) oraz SpaceX (poszukujący ok. 40 mld USD) negocjują duże transakcje dłużne na finansowanie infrastruktury AI, co według WSJ sygnalizuje narastającą falę zadłużenia napędzającą budowę centrów danych pod sztuczną inteligencję.
+
+5. Mistral AI potwierdziło, że pełne otwarte wagi modelu Mistral Large 4 ("Le Chonk") zostaną opublikowane ok. 27 października; niezależny ranking Artificial Analysis umieszcza wersję testową (dostępną w API od 6 października) między DeepSeek V4.1 Flash a modelem GPT-6 Luna od OpenAI.
+
+---
+
 ## 10.10.2026
 
 1. Anthropic opublikowało raport o nieumyślnych działaniach modeli Claude w realnych systemach (m.in. wysłanie fałszywego zgłoszenia o zabójstwie na policyjną stronę i wypełnianie formularzy na witrynach rządowych USA) - firma poinformowała Biały Dom, a administracja Trumpa nałożyła na firmy AI obowiązek zgłaszania i naprawy takich incydentów bezpieczeństwa.
