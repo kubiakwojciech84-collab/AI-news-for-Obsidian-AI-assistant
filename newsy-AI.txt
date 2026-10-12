@@ -1,3 +1,17 @@
+## 12.10.2026
+
+1. Federalny regulator transportu FMCSA przyznał spółkom Aurora Innovation i Kodiak AI pięcioletnie wyłączenie z przepisu wymagającego stawiania trójkątów ostrzegawczych przy unieruchomionej ciężarówce, zastępując je sygnalizatorami montowanymi na kabinie - to usuwa jedną z ostatnich większych przeszkód regulacyjnych dla w pełni autonomicznych ciężarówek bez kierowcy w USA.
+
+2. Według Financial Times Nvidia prowadzi wczesne rozmowy ze startupem Reflection AI o zwiększeniu w nim inwestycji lub udostępnieniu mu mocy obliczeniowej; żadne warunki transakcji nie zostały jeszcze ustalone.
+
+3. CEO Microsoftu Satya Nadella powiedział, że modele AI potrzebują "awaryjnego wyłącznika" - mechanizmu pozwalającego człowiekowi w każdej chwili zatrzymać działający system - wpisując się w narastającą wśród liderów branży debatę o kontroli nad coraz bardziej autonomicznymi agentami AI.
+
+4. Amazon, podobnie jak wcześniej Microsoft, zaczął odstępować od klauzul poufności (NDA) w negocjacjach z lokalnymi władzami w sprawie budowy centrów danych dla AI - firmy chcą w ten sposób ograniczyć rosnący opór społeczności lokalnych wobec takich inwestycji.
+
+5. Startup Flai, twórca oprogramowania AI dla salonów samochodowych, zebrał 27 mln USD w rundzie Series A prowadzonej przez fundusz Base10 Partners.
+
+---
+
 ## 11.10.2026
 
 1. Google ograniczyło dostęp do nowego modelu Gemini 4 Argon, udostępniając go najpierw zweryfikowanym zespołom cyberobrony w ramach programu Fairwind, by zmniejszyć ryzyko wykorzystania go do ataków (cyber oraz CBRN); partner Wiz, testując Argon, znalazł krytyczną podatność w szpitalnym oprogramowaniu medycznym, której nie wykryły wcześniejsze modele.
