@@ -1,3 +1,17 @@
+## 13.10.2026
+
+1. Meta zaprezentowała swoje najbardziej zaawansowane jak dotąd modele Muse Wonder i Muse Wonder Full, twierdząc, że osiągają wyniki porównywalne z najlepszymi modelami OpenAI i Anthropic według niezależnego rankingu Artificial Analysis (choć Wonder należy też do najdroższych w użyciu); po ogłoszeniu akcje Mety zyskały ok. 4%.
+
+2. Startup TypeSafe AI, twórca modelu Jev zwracającego ustrukturyzowane dane bezpośrednio do kodu zamiast tekstu, zamknął rundę Series A o wartości 870 mln USD przy wycenie 7,5 mld USD, prowadzoną przez Andreessen Horowitz z udziałem Sequoia Capital - to ponad 20-krotny wzrost wyceny względem rundy seed z lata.
+
+3. Brytyjski urząd antymonopolowy CMA zakończył konsultacje nad zaostrzonymi propozycjami "ekranów wyboru" dla Androida i Chrome, na których - po spełnieniu kryteriów technicznych i bezpieczeństwa - mogłyby się znaleźć konkurencyjne wobec Gemini asystenty AI (np. ChatGPT, Perplexity); ostateczna decyzja regulatora ma zapaść do końca 2026 r.
+
+4. Włochy przyjęły dekret wykonawczy nr 179/2026 (wejście w życie 23 października) do swojej krajowej ustawy o AI, wyznaczając agencje ACN i AgID jako organy nadzorujące stosowanie unijnego AI Act oraz precyzując zasady wykorzystywania danych do trenowania modeli - kolejny krok we wdrażaniu pierwszej w Europie krajowej ustawy o sztucznej inteligencji.
+
+5. Prezes Microsoftu Brad Smith w wywiadzie dla BBC wezwał do ustanowienia globalnych standardów bezpieczeństwa AI - niezależnych ocen modeli, obowiązkowego raportowania incydentów i "awaryjnego wyłącznika" dla zbuntowanych agentów - porównując obecny brak regulacji do tego, że "pralka podlega dziś większym normom bezpieczeństwa niż AI".
+
+---
+
 ## 12.10.2026
 
 1. Federalny regulator transportu FMCSA przyznał spółkom Aurora Innovation i Kodiak AI pięcioletnie wyłączenie z przepisu wymagającego stawiania trójkątów ostrzegawczych przy unieruchomionej ciężarówce, zastępując je sygnalizatorami montowanymi na kabinie - to usuwa jedną z ostatnich większych przeszkód regulacyjnych dla w pełni autonomicznych ciężarówek bez kierowcy w USA.
