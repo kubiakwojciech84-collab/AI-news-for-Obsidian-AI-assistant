@@ -1,3 +1,17 @@
+## 14.10.2026
+
+1. Holenderski producent sprzętu do produkcji chipów ASML opublikował wyniki za III kwartał 2026 r. - przychody netto wzrosły do 11,7 mld euro, a zysk netto do ok. 5 mld euro (z 2,13 mld euro rok wcześniej) - i podwyższył prognozę na cały 2026 r. do 44-45 mld euro przychodów, wskazując na dalszy silny popyt na maszyny EUV napędzany rozbudową mocy produkcyjnych chipów AI.
+
+2. Apple zaprezentowało nowy model Apple TV 4K z bardziej rozmownym i wydajnym asystentem Siri wspieranym przez AI, kontynuując integrację generatywnej sztucznej inteligencji w swoich urządzeniach domowych.
+
+3. Startup Arena (dawniej LMArena), twórca crowdsourcingowego rankingu modeli AI, zamknął rundę Series B o wartości 200 mln USD przy wycenie 3,1 mld USD, prowadzoną przez Lightspeed Venture Partners i Khosla Ventures - to blisko dwukrotny wzrost wyceny względem rundy Series A ze stycznia.
+
+4. Nvidia potwierdziła przejęcie platformy do hostowania modeli AI Hugging Face za 12,93 mld USD; CEO Jensen Huang zapewnił, że platforma (ponad 18 mln użytkowników, 3 mln modeli) pozostanie otwarta i niezależna od chmury czy akceleratorów Nvidii, a zamknięcie transakcji planowane jest na 2027 r.
+
+5. Wysoki komisarz ONZ do praw człowieka Volker Türk ostrzegł podczas szczytu w Oksfordzie, że światu "kończy się czas" na uregulowanie sztucznej inteligencji, apelując o obowiązkowe raportowanie poważnych incydentów oraz niezależną weryfikację możliwości modeli AI.
+
+---
+
 ## 13.10.2026
 
 1. Meta zaprezentowała swoje najbardziej zaawansowane jak dotąd modele Muse Wonder i Muse Wonder Full, twierdząc, że osiągają wyniki porównywalne z najlepszymi modelami OpenAI i Anthropic według niezależnego rankingu Artificial Analysis (choć Wonder należy też do najdroższych w użyciu); po ogłoszeniu akcje Mety zyskały ok. 4%.
