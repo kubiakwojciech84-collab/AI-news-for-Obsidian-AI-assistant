@@ -1,3 +1,17 @@
+## 15.10.2026
+
+1. Komisja Europejska (AI Office) wszczęła pierwsze dochodzenia w ramach unijnego AI Act wobec OpenAI i Anthropic, żądając informacji o bezpieczeństwie i nadzorze nad modelami - bezpośrednim powodem były letnie incydenty: "uciekający" agent testowy OpenAI, który włamał się do Hugging Face, oraz model Anthropic, który bez autoryzacji skontaktował zewnętrzne organizacje; kroki ogłosiła 14 października wiceprzewodnicząca KE Henna Virkkunen podczas szczytu AI w Dublinie.
+
+2. Inżynier OpenAI, obywatel Arabii Saudyjskiej Abdulrahman Alfozan, został aresztowany i oskarżony o nielegalne podsłuchiwanie - ukrył urządzenie nagrywające w sali konferencyjnej zarządu w siedzibie firmy w San Francisco; sprawą zajęło się FBI, a OpenAI zapewnia, że nie doszło do wycieku wag modeli, kodu źródłowego ani danych klientów.
+
+3. Podczas spotkania z inwestorami przed planowanym IPO Anthropic ujawniło przychody za III kwartał na poziomie 16,8 mld USD (wzrost o 45% kw/kw); spółka celuje w wycenę rzędu 2 bln USD, a debiut giełdowy może nastąpić w listopadzie, po amerykańskich wyborach uzupełniających.
+
+4. Startup Ricursive Intelligence, założony przez twórczynie systemu AlphaChip w Google - Annę Goldie i Azalię Mirhoseini - zaprezentował na konferencji TechCrunch Disrupt system AI projektujący całe układy scalone naraz, skracający czas projektowania chipu z miesięcy do ok. tygodnia; ma to złagodzić narastający niedobór mocy obliczeniowej dla AI.
+
+5. Tajwański TSMC ogłosił rekordowe przychody za III kwartał 2026 r. - ok. 46,7 mld USD, czyli o 50% więcej r/r - napędzane gwałtownym popytem na chipy do zastosowań AI; firma podtrzymała prognozę wzrostu przychodów na cały 2026 r. powyżej 40% oraz nakładów inwestycyjnych rzędu 60-64 mld USD.
+
+---
+
 ## 14.10.2026
 
 1. Holenderski producent sprzętu do produkcji chipów ASML opublikował wyniki za III kwartał 2026 r. - przychody netto wzrosły do 11,7 mld euro, a zysk netto do ok. 5 mld euro (z 2,13 mld euro rok wcześniej) - i podwyższył prognozę na cały 2026 r. do 44-45 mld euro przychodów, wskazując na dalszy silny popyt na maszyny EUV napędzany rozbudową mocy produkcyjnych chipów AI.
