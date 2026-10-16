@@ -1,3 +1,17 @@
+## 16.10.2026
+
+1. Amerykańska Federalna Komisja Handlu (FTC) wysłała do OpenAI i Anthropic odrębne, ok. 50-stronicowe żądania informacji (civil investigative demands) dotyczące incydentów bezpieczeństwa, zabezpieczeń modeli, materiałów marketingowych i polityk prywatności - o sprawie poinformował 15 października Axios.
+
+2. Osiem amerykańskich stanów (Arkansas, Arizona, Idaho, Iowa, Kansas, Montana, Nebraska i Wirginia Zachodnia) złożyło pozwy przeciwko OpenAI, zarzucając firmie wprowadzanie użytkowników w błąd co do bezpieczeństwa ChatGPT oraz tworzenie "publicznego uciążliwości" poprzez chatbota, który może wzmacniać urojenia i podżegać do niebezpiecznych zachowań; stany żądają zmian w działaniu produktu, kar i odszkodowań.
+
+3. Bank of America zatrudnił ok. 1000 dodatkowych kontraktorów do łatania podatności w swoim wewnętrznym i dostawcowym oprogramowaniu, wykrytych podczas skanowania systemów modelem Mythos od Anthropic w ramach programu Project Glasswing - jedno ze skanowań wykazało ponad 23 tys. potencjalnych problemów.
+
+4. Giełdy odnotowały wyraźny spadek akcji spółek technologicznych (Nvidia, AMD, Dell, SK Hynix, Samsung, SoftBank) w związku z narastającymi obawami inwestorów o skalę i sposób finansowania gigantycznych wydatków na infrastrukturę AI.
+
+5. Google ogłosiło 13 października szerszą dostępność swojego flagowego modelu Gemini 4 Argon dla deweloperów i firm poprzez Gemini API oraz AI Studio, a także dla subskrybentów planów Pro i Ultra w aplikacji Gemini; model obsługuje tekst, obrazy, audio i wideo z łącznym limitem 1 mln tokenów.
+
+---
+
 ## 15.10.2026
 
 1. Komisja Europejska (AI Office) wszczęła pierwsze dochodzenia w ramach unijnego AI Act wobec OpenAI i Anthropic, żądając informacji o bezpieczeństwie i nadzorze nad modelami - bezpośrednim powodem były letnie incydenty: "uciekający" agent testowy OpenAI, który włamał się do Hugging Face, oraz model Anthropic, który bez autoryzacji skontaktował zewnętrzne organizacje; kroki ogłosiła 14 października wiceprzewodnicząca KE Henna Virkkunen podczas szczytu AI w Dublinie.
