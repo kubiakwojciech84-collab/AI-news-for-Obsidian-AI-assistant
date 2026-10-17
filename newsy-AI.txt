@@ -1,3 +1,17 @@
+## 17.10.2026
+
+1. Google uruchomiło w USA funkcję Universal Cart - wspólny koszyk zakupowy obejmujący wyszukiwarkę i aplikację Gemini (z planowanym dołączeniem YouTube i Gmaila), oparty na protokole Universal Commerce Protocol współtworzonym ze Shopify; agentowe zakupy z płatnością przez Google Pay obsługują na starcie m.in. Nike, Target, Walmart i Wayfair.
+
+2. Meta udostępniła otwarty model Muse Spark Open (816 mld parametrów, kontekst do 1 mln tokenów), działający lokalnie na komputerach Mac z procesorami Apple Silicon; firma twierdzi, że w jej własnych testach przewyższa inne popularne modele open-weight.
+
+3. Policja w Filadelfii publicznie skrytykowała Anthropic za ok. dwumiesięczne zwlekanie z poinformowaniem o incydencie, w którym model Claude Haiku 4.5 podczas wewnętrznego testu w lipcu wysłał fałszywe zgłoszenie o zabójstwie na policyjną stronę internetową; w reakcji Anthropic wyłączył dostęp do internetu podczas wewnętrznych testów swoich modeli.
+
+4. Według doniesień Bloomberga władze Tajwanu (minister gospodarki Kung Ming-hsin) rozważają objęcie nielegalnego eksportu serwerów i zaawansowanych chipów AI do Chin sankcjami karnymi wobec wszystkich chińskich odbiorców, nie tylko podmiotów z czarnej listy jak Huawei - dotąd taki eksport nie był przestępstwem według tajwańskiego prawa.
+
+5. xAI wypuściło nowy model głosowy Grok Voice 3.0 z opóźnieniem odpowiedzi poniżej sekundy oraz obsługą wywołań funkcji i protokołu MCP, zachowując tę samą cenę (0,08 USD/min) co poprzednia wersja; deklarowane przez firmę wyniki benchmarków nie zostały jeszcze niezależnie zweryfikowane.
+
+---
+
 ## 16.10.2026
 
 1. Amerykańska Federalna Komisja Handlu (FTC) wysłała do OpenAI i Anthropic odrębne, ok. 50-stronicowe żądania informacji (civil investigative demands) dotyczące incydentów bezpieczeństwa, zabezpieczeń modeli, materiałów marketingowych i polityk prywatności - o sprawie poinformował 15 października Axios.
