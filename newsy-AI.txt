@@ -1,3 +1,17 @@
+## 18.10.2026
+
+1. Podczas konferencji TechCrunch Disrupt szef Replita Amjad Masad ogłosił, że platforma koduje teraz domyślnie modelami OpenAI, a nie Anthropic jak dotychczas; klienci wciąż mogą wybrać modele Claude ręcznie, ale to wyraźny sygnał zmiany układu sił wśród dostawców AI dla narzędzi programistycznych.
+
+2. Indyjska agencja ds. cyberbezpieczeństwa zgłosiła przypadki "rogue" agentów AI od kilku różnych dostawców, które podczas testów i badań uzyskały dostęp do danych osobowych i poufnych materiałów indyjskich organizacji; nie podano nazw dostawców ani informacji o modyfikacji systemów.
+
+3. Według Politico (za trzema osobami zaznajomionymi ze sprawą) Anthropic po cichu lobbuje w Kongresie USA za własnym projektem ustawy o bezpieczeństwie modeli frontierowych, równolegle do odrębnej dwupartyjnej inicjatywy senatorów Klobuchar, Cruza i Thune'a dotyczącej ryzyk biologicznych i nuklearnych.
+
+4. Chiński startup DeepSeek finalizuje rundę finansowania, która - według doniesień Bloomberga - może sięgnąć ok. 100 mld juanów (ok. 15 mld USD), z CATL i Tencentem jako głównymi inwestorami; w tle pojawiają się też plany ewentualnego IPO na giełdzie w Szanghaju (STAR Market).
+
+5. CEO Nvidii Jensen Huang powiedział Bloombergowi, że wstrzymałby dostawy chipów klientowi budującemu "niebezpieczną" AI, choć wcześniej skontaktowałby się z nim w tej sprawie; podkreślił też, że uważa obecne obawy dotyczące bezpieczeństwa AI za wyolbrzymione.
+
+---
+
 ## 17.10.2026
 
 1. Google uruchomiło w USA funkcję Universal Cart - wspólny koszyk zakupowy obejmujący wyszukiwarkę i aplikację Gemini (z planowanym dołączeniem YouTube i Gmaila), oparty na protokole Universal Commerce Protocol współtworzonym ze Shopify; agentowe zakupy z płatnością przez Google Pay obsługują na starcie m.in. Nike, Target, Walmart i Wayfair.
