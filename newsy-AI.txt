@@ -1,3 +1,17 @@
+## 19.10.2026
+
+1. Prezydent Trump podpisał w Białym Domu dobrowolne porozumienie dotyczące AI z udziałem szefów OpenAI, Anthropic, Google, Meta, xAI i Nvidii; dokument ma charakter deklaracji intencji i nie wprowadza wiążących regulacji.
+
+2. Meta zaprezentowała nowe modele Muse Wonder i Muse Wonder Full, określane przez firmę jako jej najbardziej zdolne dotychczas; Meta twierdzi, że w wybranych przez siebie benchmarkach przewyższają one najlepsze modele OpenAI i Anthropic, choć wyniki te nie zostały jeszcze niezależnie zweryfikowane.
+
+3. Według Financial Times Anthropic zaproponował funduszowi Blackstone kupon w wysokości 10% na 9 mld USD długu podrzędnego w ramach 60-miliardowego finansowania zakupu chipów (Project North Star); firma otrzymała też rating BB+ od agencji KBRA i planuje przejęcie (acquihire) startupu Opaque, specjalizującego się w confidential computing.
+
+4. OpenAI potwierdziło plany budowy humanoidalnego robota z pokazem demonstracyjnym planowanym na 2027 rok; firma podczas przesłuchania w brytyjskim parlamencie zapewniała, że nie "ściga się na dno" w kwestii bezpieczeństwa, wskazując, że wstrzymała wydanie modelu GPT-6.1 Astra z obaw bezpieczeństwa.
+
+5. Google DeepMind opracował wspólnie z singapurską agencją GovTech model do wykrywania oszustw działający lokalnie na smartfonach, co ma pozwolić na analizę podejrzanych transakcji bez przesyłania danych użytkownika na serwery.
+
+---
+
 ## 18.10.2026
 
 1. Podczas konferencji TechCrunch Disrupt szef Replita Amjad Masad ogłosił, że platforma koduje teraz domyślnie modelami OpenAI, a nie Anthropic jak dotychczas; klienci wciąż mogą wybrać modele Claude ręcznie, ale to wyraźny sygnał zmiany układu sił wśród dostawców AI dla narzędzi programistycznych.
