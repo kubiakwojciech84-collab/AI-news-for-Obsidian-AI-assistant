@@ -1,3 +1,17 @@
+## 20.10.2026
+
+1. Serwis Character.AI złożył w USA wniosek o ochronę przed upadłością na podstawie Chapter 11 po serii pozwów dotyczących samobójstw nastolatków powiązanych z czatbotami; w ramach planowanej sprzedaży Disney zapłaci 20 mln USD za niewyłączną licencję na własność intelektualną spółki, a firma ma kontynuować działalność w trakcie szukania nabywcy.
+
+2. Nvidia zaprezentowała nową, otwartą rodzinę modeli Nemotron 3.5 - flagowy Super VL (120 mld parametrów) do budowy agentów korporacyjnych analizujących dokumenty i wykresy oraz mniejsze modele Bolt do uruchamiania agentów lokalnie na komputerach i urządzeniach edge; firma deklaruje do 5-krotnie wyższą przepustowość względem konkurencyjnych modeli tej klasy (wyniki niezweryfikowane niezależnie).
+
+3. Amazon (AWS) zaprezentował narzędzie TorchNeuron, które ma ułatwiać programistom przenoszenie aplikacji napisanych w PyTorch na własne chipy Trainium praktycznie jedną zmianą konfiguracji - to kolejny krok w rywalizacji AWS z Nvidią o rynek infrastruktury do trenowania i uruchamiania modeli AI.
+
+4. Według doniesień The Information Google szykuje model Gemini 4 - pierwszy nowy model flagowy od czasu Gemini 3; szef DeepMind Koray Kavukcuoglu zasygnalizował, że może trafić na rynek jeszcze przed końcem roku, a firma miała po cichu wycofać się z wcześniej obiecywanego Gemini 3.5 Pro, stawiając tymczasowo na tańsze modele z linii Flash.
+
+5. Władze USA ostrzegły firmy, że wykorzystywanie chińskich chipów AI, w tym układów Ascend Huawei, może naruszać amerykańskie przepisy eksportowe, mimo wcześniejszego złagodzenia części ograniczeń na eksport zaawansowanych półprzewodników do Chin; chińskie ministerstwo handlu nazwało te ostrzeżenia "zastraszaniem" i zagroziło środkami odwetowymi.
+
+---
+
 ## 19.10.2026
 
 1. Prezydent Trump podpisał w Białym Domu dobrowolne porozumienie dotyczące AI z udziałem szefów OpenAI, Anthropic, Google, Meta, xAI i Nvidii; dokument ma charakter deklaracji intencji i nie wprowadza wiążących regulacji.
