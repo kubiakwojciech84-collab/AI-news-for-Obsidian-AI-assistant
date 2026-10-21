@@ -1,3 +1,17 @@
+## 21.10.2026
+
+1. Google udostępniło na zasadach open source TorchTPU – natywny backend PyTorch dla własnych układów TPU, opracowany wspólnie z Metą; to odpowiedź na podobny ruch Amazona (TorchNeuron) i element szerszej strategii dużych chmur, mającej osłabić dominację Nvidii i ekosystemu CUDA w infrastrukturze AI.
+
+2. Według doniesień Bloomberga OpenAI rozpoczęło rozmowy o pozyskaniu co najmniej 30 mld USD przy wycenie rzędu 1,4 bln USD, co ma sfinansować dalszą rozbudowę infrastruktury obliczeniowej w sytuacji, gdy planowane IPO spółki zostało odłożone poza bieżący rok.
+
+3. Anthropic przygotowuje się do debiutu giełdowego planowanego na połowę listopada, przy wycenie sięgającej nawet 2 bln USD; firma poinformowała inwestorów, że jej przychody wzrosły w minionym kwartale o ok. 50% do 16,8 mld USD, choć strata netto za 2025 rok rozszerzyła się do niemal 42 mld USD.
+
+4. Ujawniono szczegóły lobbowanego przez Anthropic projektu ustawy o bezpieczeństwie AI: rząd USA mógłby zablokować model tylko w razie realnego ryzyka szkód powyżej 1 mld USD lub śmierci bądź poważnego uszczerbku u ponad 50 osób wskutek broni biologicznej, cyberataku lub utraty kontroli nad modelem; krytycy wskazują, że tak wysoki próg wyklucza mniejsze, lecz wciąż katastrofalne scenariusze.
+
+5. Startup Elorian zaprezentował swój pierwszy model, Glimpse, który podczas wnioskowania potrafi samodzielnie kadrować obrazy i wyciągać klatki z wideo (tzw. "wizualny notatnik"), co ma pozwolić mu rozumować bezpośrednio na obrazach, a nie tylko na ich opisach.
+
+---
+
 ## 20.10.2026
 
 1. Serwis Character.AI złożył w USA wniosek o ochronę przed upadłością na podstawie Chapter 11 po serii pozwów dotyczących samobójstw nastolatków powiązanych z czatbotami; w ramach planowanej sprzedaży Disney zapłaci 20 mln USD za niewyłączną licencję na własność intelektualną spółki, a firma ma kontynuować działalność w trakcie szukania nabywcy.
