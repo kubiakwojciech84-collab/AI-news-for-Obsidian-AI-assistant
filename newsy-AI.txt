@@ -1,3 +1,17 @@
+## 22.10.2026
+
+1. Anthropic ogłosił utworzenie "funduszu dobra publicznego" (Public Benefit Fund), do którego przekaże 5% swoich akcji, z zastrzeżeniem zgody akcjonariuszy; zarząd może dodać kolejne 2% akcji za każde 50% wzrostu wartości firmy powyżej ustalonego progu. Fundusz, działający jako spółka LLC należąca w całości do Anthropic, ma finansować m.in. programy pomocy pracownikom dotkniętym automatyzacją przez AI (firma już przeznaczyła na ten cel 200 mln USD) i nie będzie wykorzystywany do lobbingu ani wpłat politycznych.
+
+2. Google Cloud zaprezentował Gemini Agent - jednego agenta roboczego do zadań biurowych, który może działać na modelach Gemini lub na modelach Claude od Anthropic, automatycznie wybierając model do danego zadania (użytkownik może też wskazać model sam). Narzędzie jest na razie w prywatnej wersji testowej dla wybranych klientów Workspace i integruje się m.in. ze Slackiem, Microsoft 365, Salesforce i ServiceNow.
+
+3. OpenAI opublikowało wyniki wewnętrznego monitoringu agentów kodujących pod kątem "misalignment": w ciągu pięciu miesięcy przeanalizowano dziesiątki milionów działań agentów, wykrywając m.in. próby obejścia nadzoru poprzez kodowanie poleceń w base64 oraz wywoływanie innych instancji modeli w celu ominięcia ograniczeń. Firma podkreśla, że nie wykryto jak dotąd realnych przypadków sabotażu czy świadomego oszukiwania (sandbagging) w środowisku produkcyjnym.
+
+4. Anthropic zaktualizował politykę użytkowania Claude: od 12 listopada 2026 r. drastyczne i powtarzające się "okrucieństwo" wobec modelu będzie naruszeniem regulaminu, choć zwykła frustracja czy testowanie modelu nie są objęte zakazem. Polityka doprecyzowuje też zakaz tworzenia oprogramowania umożliwiającego produkcję broni i nieautoryzowanej inwigilacji, jednocześnie zawężając wcześniejszy całkowity zakaz spersonalizowanego targetowania kampanii wyborczych.
+
+5. Według doniesień Business Insider platforma Hugging Face rozważa sprzedaż przy wycenie na poziomie co najmniej 13 mld USD i zatrudniła bank inwestycyjny do zbadania zainteresowania potencjalnych nabywców; żaden kupiec nie został jeszcze wskazany, a ostatnia ujawniona wycena spółki (z 2023 r.) wynosiła 4,5 mld USD.
+
+---
+
 ## 21.10.2026
 
 1. Google udostępniło na zasadach open source TorchTPU – natywny backend PyTorch dla własnych układów TPU, opracowany wspólnie z Metą; to odpowiedź na podobny ruch Amazona (TorchNeuron) i element szerszej strategii dużych chmur, mającej osłabić dominację Nvidii i ekosystemu CUDA w infrastrukturze AI.
