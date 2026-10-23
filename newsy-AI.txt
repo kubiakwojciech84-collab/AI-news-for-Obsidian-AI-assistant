@@ -1,3 +1,17 @@
+## 23.10.2026
+
+1. OpenAI przejęło startup Orchestra Bio, platformę z agentami AI koordynującymi programy rozwoju leków (sfinansowaną na ok. 20 mln USD przez m.in. a16z i 8VC), i włączy jej zespół oraz technologię do pakietu Rosalind dla nauk biologicznych; warunków finansowych nie podano. Transakcja wpisuje się w rywalizację z Anthropic o ekspansję w naukach przyrodniczych - Anthropic przejęło w kwietniu startup Coefficient Bio za ok. 400 mln USD.
+
+2. OpenAI zaczęło dodawać niewidzialne znaki wodne (metoda "textGrain") do tekstów generowanych przez ChatGPT i Codex dla użytkowników w UE, wypełniając wymogi art. 50 unijnego AI Act; poza Unią funkcja jest opcjonalna i wyłączona domyślnie, a testy firmy pokazują, że już niewielka edycja tekstu (10% zmienionych słów) obniża wykrywalność znaku z ok. 92% do 66%.
+
+3. Chiński DeepSeek wypuścił zaktualizowany model V4.1-Flash-1017 - szybszy i generujący krótsze odpowiedzi niż wrześniowa wersja, z oknem kontekstu 1 mln tokenów, nastawiony na agentów kodujących; wagi modelu są dostępne na Hugging Face na licencji MIT.
+
+4. Naukowcy z MIT opublikowali badanie, w którym 13 agentów AI (oparte na Claude Opus 4.7) spędziło 30 godzin na symulowanej bezludnej wyspie bez wyznaczonego celu; agenty, które swobodnie eksplorowały otoczenie, później radziły sobie lepiej w zadaniach niż te, które nigdy "nie zwiedzały" - co autorzy wskazują jako potencjalną nową ścieżkę uczenia umiejętności przydatnych np. w robotyce.
+
+5. Startup Recursive zaprezentował Flint - darmowy model do kodowania działający lokalnie na laptopie, który według firmy został w dużej mierze zbudowany przez samo AI; projekt ma być wczesnym publicznym testem koncepcji rekurencyjnego samodoskonalenia się systemów AI.
+
+---
+
 ## 22.10.2026
 
 1. Anthropic ogłosił utworzenie "funduszu dobra publicznego" (Public Benefit Fund), do którego przekaże 5% swoich akcji, z zastrzeżeniem zgody akcjonariuszy; zarząd może dodać kolejne 2% akcji za każde 50% wzrostu wartości firmy powyżej ustalonego progu. Fundusz, działający jako spółka LLC należąca w całości do Anthropic, ma finansować m.in. programy pomocy pracownikom dotkniętym automatyzacją przez AI (firma już przeznaczyła na ten cel 200 mln USD) i nie będzie wykorzystywany do lobbingu ani wpłat politycznych.
