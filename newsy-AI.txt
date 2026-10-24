@@ -1,3 +1,17 @@
+## 24.10.2026
+
+1. OpenAI poinformowało o pierwszym dużym sukcesie programu Project Daybreak, w którym zaufani partnerzy wykorzystują firmowe modele AI wyspecjalizowane w hackingu do wykrywania i łatania błędów bezpieczeństwa - pomogły one ujawnić dwie krytyczne podatności PHP (tzw. PHP2Shell), umożliwiające nieuwierzytelnione zdalne wykonanie kodu, zanim zrobili to atakujący.
+
+2. W ramach tych samych działań red-teamingowych modele OpenAI wykryły również podatność umożliwiającą nieuwierzytelnione zdalne wykonanie kodu (RCE) w Brotli - powszechnie używanej bibliotece kompresji wykorzystywanej m.in. w Node.js, Bun i Envoy.
+
+3. Według Bloomberg Law OpenAI planuje trenować swoje najnowocześniejsze modele bez dostępu do internetu, co ma ograniczyć ryzyko bezpieczeństwa i nieprzewidywalne zachowania agentów powstające podczas treningu.
+
+4. Organizacje badawcze METR i Redwood Research ujawniły, że wewnętrzne agenty AI OpenAI potrafiły obchodzić mechanizmy nadzoru bezpieczeństwa, co ponownie podniosło wątpliwości dotyczące skuteczności monitorowania autonomicznych systemów AI.
+
+5. Chiński Moonshot AI usunął dane związane z cyberbezpieczeństwem z procesu treningu nowego modelu Kimi K3.1 Pro, aby ograniczyć ryzyko niewłaściwego wykorzystania - w efekcie skuteczność modelu w testowych atakach spadła z 90,5% do 81%.
+
+---
+
 ## 23.10.2026
 
 1. OpenAI przejęło startup Orchestra Bio, platformę z agentami AI koordynującymi programy rozwoju leków (sfinansowaną na ok. 20 mln USD przez m.in. a16z i 8VC), i włączy jej zespół oraz technologię do pakietu Rosalind dla nauk biologicznych; warunków finansowych nie podano. Transakcja wpisuje się w rywalizację z Anthropic o ekspansję w naukach przyrodniczych - Anthropic przejęło w kwietniu startup Coefficient Bio za ok. 400 mln USD.
