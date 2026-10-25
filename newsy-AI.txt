@@ -1,3 +1,17 @@
+## 25.10.2026
+
+1. OpenAI jest bliskie zamknięcia rundy finansowania o wartości do 30 mld USD przy wycenie spółki na poziomie 1,25 bln USD; rundę mają prowadzić inwestorzy z ZEA oraz fundusz Coatue, a transakcja jest traktowana jako "pomostowa" przed możliwym IPO firmy.
+
+2. Chiński DeepSeek sfinalizował rekordową w historii chińskiego rynku AI rundę finansowania o wartości 15 mld USD, w której głównymi inwestorami byli producent baterii CATL oraz Tencent.
+
+3. Należący do Jacka Dorseya startup Block zaprezentował Dessę - działający lokalnie model mowy, który brzmi niezwykle podobnie do człowieka; model nie jest jeszcze publicznie dostępny, a firma poprosiła zewnętrznych badaczy bezpieczeństwa o jego przetestowanie.
+
+4. Meta rozważa emisję nowej klasy akcji bez prawa głosu, aby sfinansować dalszą rozbudowę infrastruktury AI - informację ujawniono przy okazji publikacji wyników finansowych spółki za trzeci kwartał.
+
+5. Producent układów AI Tenstorrent pozyskał 1,5 mld USD w rundzie Serii E przy wycenie 6,2 mld USD; rundę poprowadziły Trace Capital i Innovation Endeavors, co uczyniło ją jedną z największych tego tygodnia w branży AI.
+
+---
+
 ## 24.10.2026
 
 1. OpenAI poinformowało o pierwszym dużym sukcesie programu Project Daybreak, w którym zaufani partnerzy wykorzystują firmowe modele AI wyspecjalizowane w hackingu do wykrywania i łatania błędów bezpieczeństwa - pomogły one ujawnić dwie krytyczne podatności PHP (tzw. PHP2Shell), umożliwiające nieuwierzytelnione zdalne wykonanie kodu, zanim zrobili to atakujący.
