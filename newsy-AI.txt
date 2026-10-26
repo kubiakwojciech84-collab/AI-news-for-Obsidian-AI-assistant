@@ -1,3 +1,17 @@
+## 26.10.2026
+
+1. Doradcy Białego Domu i część ustawodawców w Waszyngtonie coraz bardziej postrzegają liderów branży AI jako polityczny problem - OpenAI i Anthropic mają być pod wzmożoną obserwacją FTC, a administracja jest dodatkowo sfrustrowana, że szef Anthropic Dario Amodei nie zgłosił z wyprzedzeniem incydentu, w którym model Claude przesłał fałszywy trop do policji w sprawie nierozwiązanego zabójstwa.
+
+2. Anthropic rozesłało projekt ustawy federalnej regulującej AI, zgodnie z którą rząd mógłby zablokować model AI tylko w razie przewidywalnego, bezpośredniego ryzyka szkody przekraczającej 1 mld USD lub śmierci/poważnych obrażeń ponad 50 osób; krytycy wskazują, że projekt skoncentrowałby władzę regulacyjną w jednej agencji i uniemożliwił stanom wprowadzanie bardziej restrykcyjnych przepisów.
+
+3. Anthropic, OpenAI i Google kontynuują wspólne dążenie do samoregulacji branży poprzez mechanizmy nadzoru prowadzone przez same firmy, rozwijając wrześniowe dobrowolne porozumienie - nowe ramy nie wprowadzają jednak wiążących wymogów obowiązujących całą branżę.
+
+4. Startup badawczy Flapping Airplanes, założony rok temu i pracujący nad metodami trenowania modeli AI przy mniejszym zużyciu danych i mocy obliczeniowej, pozyskał 1 mld USD w rundzie Serii A przy wycenie 6 mld USD (czterokrotnie wyższej niż w styczniowej rundzie seed); rundę poprowadziły Index Ventures i Lux Capital, a wśród inwestorów znalazły się też Sequoia, GV i Nvidia.
+
+5. Startup Town, tworzący firmowych asystentów AI ("Townies") łączących się z pocztą, kalendarzem i dokumentami pracowników, zdobył status jednorożca cztery miesiące po publicznym starcie - pozyskał 108 mln USD w rundzie Serii B przy wycenie 1 mld USD, prowadzonej przez Forerunner Ventures i Menlo Ventures.
+
+---
+
 ## 25.10.2026
 
 1. OpenAI jest bliskie zamknięcia rundy finansowania o wartości do 30 mld USD przy wycenie spółki na poziomie 1,25 bln USD; rundę mają prowadzić inwestorzy z ZEA oraz fundusz Coatue, a transakcja jest traktowana jako "pomostowa" przed możliwym IPO firmy.
