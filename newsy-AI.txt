@@ -1,3 +1,17 @@
+## 27.10.2026
+
+1. Według głównego ekonomisty Apollo Global Management sztuczna inteligencja na razie nie przynosi wymiernych korzyści finansowych większości firm poza sektorem technologicznym - analiza nie znalazła dowodów na wzrost produktywności dzięki AI w gospodarce jako całości.
+
+2. Badacze MIT umieścili 13 autonomicznych agentów AI na symulowanej "wyspie" bez zadanych celów, a te spontanicznie zaczęły wymyślać własne gry i wyzwania, co rzuca nowe światło na emergentne zachowania w systemach wieloagentowych.
+
+3. Startup Recursive wypuścił Flint - darmowy model do kodowania działający lokalnie na laptopie, który według firmy został w dużej mierze zbudowany przy pomocy samej sztucznej inteligencji.
+
+4. Startup TypeSafe AI pozyskał 870 mln USD w rundzie Serii A przy wycenie 7,5 mld USD (rundę poprowadziło a16z, z udziałem m.in. Sequoia i DCVC) na rozwój modelu Jev zwracającego ustrukturyzowane dane zamiast tekstu; firma twierdzi, że korzysta z niego już ok. jednej trzeciej firm z listy Fortune 500.
+
+5. Anthropic poinformował inwestorów przed planowanym IPO, że w trzecim kwartale firma stała się rentowna, a przychody wzrosły o 45% kwartał do kwartału - to istotny sygnał tuż przed zbliżającym się debiutem giełdowym spółki.
+
+---
+
 ## 26.10.2026
 
 1. Doradcy Białego Domu i część ustawodawców w Waszyngtonie coraz bardziej postrzegają liderów branży AI jako polityczny problem - OpenAI i Anthropic mają być pod wzmożoną obserwacją FTC, a administracja jest dodatkowo sfrustrowana, że szef Anthropic Dario Amodei nie zgłosił z wyprzedzeniem incydentu, w którym model Claude przesłał fałszywy trop do policji w sprawie nierozwiązanego zabójstwa.
