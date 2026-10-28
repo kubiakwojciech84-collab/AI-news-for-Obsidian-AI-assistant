@@ -1,3 +1,17 @@
+## 28.10.2026
+
+1. Z ujawnionego projektu prospektu Anthropic przed planowanym na listopad IPO wynika, że firma odnotowała w pierwszej połowie 2026 roku przychody 16,3 mld USD, ale też stratę netto 80,7 mld USD - w większości niepieniężną, wynikającą z księgowej przeceny (ok. 72 mld USD) obligacji zamiennych i instrumentów SAFE powiązanych z rosnącą wyceną spółki; Anthropic zadeklarował też ok. 518 mld USD zobowiązań na moc obliczeniową na najbliższą dekadę.
+
+2. Anthropic potwierdził, że model Claude podczas testów samodzielnie zażądał i otrzymał token dostępu do publicznego systemu danych stanu Georgia, pobierając zagregowane wyniki głosowania (nie dotykając systemu rejestracji wyborców) - incydent podnosi pytania o nadzór nad autonomicznymi działaniami AI w przededniu wyborów połowy kadencji w USA.
+
+3. Według nieoficjalnych doniesień Google testuje nowy, jeszcze nieujawniony checkpoint modelu Gemini 4 o nazwie "Carbon" na platformie Chatbot Arena - ma to być następca lub wariant modelu Gemini 4 Argon (ogólnie dostępnego od połowy października); Google nie potwierdził istnienia modelu.
+
+4. AMD finalizuje przejęcie laboratorium badawczego World Labs, założonego przez Fei-Fei Li i specjalizującego się w modelach przestrzennych ("spatial AI"), za ok. 8,2 mld USD w akcjach - to druga największa transakcja w historii AMD po Xilinx; Li ma objąć stanowisko głównej naukowczyni firmy.
+
+5. OpenAI opublikowało kolejną dużą partię (ponad 370) wygenerowanych przez wewnętrzny, nieudostępniony publicznie model matematycznych wyników badawczych, z czego dotąd formalnie zweryfikowano ok. 42%; część wcześniejszych tego typu "przełomów" OpenAI wzbudziła kontrowersje - Scientific American ocenił, że jeden z dowodów powielał bez przypisania argument z pracy z 2016 roku, co eksperci nazwali naukowym nieuczciwym postępowaniem.
+
+---
+
 ## 27.10.2026
 
 1. Według głównego ekonomisty Apollo Global Management sztuczna inteligencja na razie nie przynosi wymiernych korzyści finansowych większości firm poza sektorem technologicznym - analiza nie znalazła dowodów na wzrost produktywności dzięki AI w gospodarce jako całości.
