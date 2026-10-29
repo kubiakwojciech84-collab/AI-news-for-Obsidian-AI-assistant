@@ -1,3 +1,17 @@
+## 29.10.2026
+
+1. Google DeepMind zaprezentował Genie 4 - model "świata" generujący eksplorowalne, fotorealistyczne środowiska 3D z tekstu lub obrazu, jako pierwszy tego typu model z natywnie generowanym dźwiękiem i realistycznym ruchem ludzkich postaci; na razie dostępny jako ograniczony research preview dla zaufanych testerów.
+
+2. Meta ogłosiła plan podniesienia do 95 mld USD nowego kapitału (ok. 35 mld USD w ofercie akcji plus opcjonalny program do 60 mld USD od 2027 roku) na budowę infrastruktury AI; Nvidia potwierdziła inwestycję 3 mld USD, a AMD i Broadcom zadeklarowały niewiążące zainteresowanie zakupem akcji o wartości łącznie do ok. 5 mld USD.
+
+3. Oracle ogłosiło, że od 2027 roku jako pierwszy duży dostawca chmury poza samym Google zacznie udostępniać w Oracle Cloud Infrastructure chipy Google TPU (ósma generacja: TPU 8t do treningu i TPU 8i do inferencji), zapewniając zasilanie, chłodzenie i sieć dla wdrożeń na skalę gigawatową.
+
+4. Szwedzka Kancelaria Rządu (urząd premiera i ministerstw) zablokowała od 26 października pracownikom dostęp do ChatGPT i Claude na komputerach służbowych, powołując się na ryzyko bezpieczeństwa informacji i brak formalnych umów z dostawcami; personel ma korzystać z skonfigurowanego pod kątem bezpieczeństwa Microsoft Copilot.
+
+5. OpenAI twierdzi, że jego system AI obalił Hipotezę Czasu Wykładniczego (ETH) w teorii złożoności obliczeniowej, a dowód sformalizowano w systemie Lean; twierdzenie trafiło do formalnej weryfikacji przez współautorów hipotezy (Russell Impagliazzo, Ramamohan Paturi) i Ryana Williamsa z MIT, a część komentatorów (m.in. The Verge) wskazuje, że faktyczny wynik jest węższy niż sugeruje komunikat OpenAI.
+
+---
+
 ## 28.10.2026
 
 1. Z ujawnionego projektu prospektu Anthropic przed planowanym na listopad IPO wynika, że firma odnotowała w pierwszej połowie 2026 roku przychody 16,3 mld USD, ale też stratę netto 80,7 mld USD - w większości niepieniężną, wynikającą z księgowej przeceny (ok. 72 mld USD) obligacji zamiennych i instrumentów SAFE powiązanych z rosnącą wyceną spółki; Anthropic zadeklarował też ok. 518 mld USD zobowiązań na moc obliczeniową na najbliższą dekadę.
