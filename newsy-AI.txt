@@ -1,3 +1,17 @@
+## 30.10.2026
+
+1. Google ogłosił Gemini 4 Carbon - swój najsilniejszy model, skoncentrowany na cyberbezpieczeństwie (wykrywanie, exploitowanie i łatanie podatności) oraz długich, autonomicznych zadaniach programistycznych; model zajął pierwsze miejsce w rankingu Artificial Analysis Intelligence Index v5 (wynik 59), ale na razie jest dostępny tylko dla wąskiej grupy zaufanych zespołów bezpieczeństwa w ramach programu Fairwind.
+
+2. Mistral AI opublikowało otwarte wagi modelu Mistral Large 4 ("Le Chonk") - mieszaniny ekspertów o 1,05 bln parametrów (ok. 49 mld aktywnych na token) z milionowym oknem kontekstu; firma nazywa go najsilniejszym modelem open-weight stworzonym poza Chinami, choć przyznaje, że wciąż ustępuje czołowym chińskim modelom (Kimi K3, GLM-5.3) w ogólnej inteligencji i kodowaniu.
+
+3. Startup robotyczny Physical Intelligence negocjuje rundę finansowania o wartości co najmniej 1 mld USD przy wycenie ok. 20 mld USD - to prawie dwukrotnie więcej niż przy majowej rundzie (ok. 11,5 mld USD); firma rozwijająca modele AI do robotów wciąż nie ujawnia przychodów, a rundę mają prowadzić dotychczasowi inwestorzy Lux Capital i Avenir.
+
+4. Startup Upwind Security, zajmujący się bezpieczeństwem chmury i AI, pozyskał 400 mln USD w rundzie Serii C przy wycenie 3,8 mld USD (rundę poprowadził Bessemer Venture Partners); firma twierdzi, że jej przychody w 2026 roku wzrosły czterokrotnie.
+
+5. Eugenia Kuyda, twórczyni Repliki, pozyskała dla swojego nowego startupu Wabi, budującego osobistych asystentów-towarzyszy AI, 55 mln USD w rundzie Serii A przy wycenie 1,25 mld USD; rundę poprowadził fundusz IVP z udziałem Andreessen Horowitz, Forerunner Ventures i Amazon Alexa Fund.
+
+---
+
 ## 29.10.2026
 
 1. Google DeepMind zaprezentował Genie 4 - model "świata" generujący eksplorowalne, fotorealistyczne środowiska 3D z tekstu lub obrazu, jako pierwszy tego typu model z natywnie generowanym dźwiękiem i realistycznym ruchem ludzkich postaci; na razie dostępny jako ograniczony research preview dla zaufanych testerów.
