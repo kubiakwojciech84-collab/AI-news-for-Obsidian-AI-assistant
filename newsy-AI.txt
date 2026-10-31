@@ -1,3 +1,17 @@
+## 31.10.2026
+
+1. Według TechCrunch w boomie inwestycyjnym na infrastrukturę AI pojawiają się pierwsze pęknięcia: inwestorzy coraz bardziej niepokoją się kosztami, a Microsoft, Alphabet, Amazon, Meta i Oracle wyemitowały w 2026 roku łącznie ok. 326 mld USD długu - trzykrotnie więcej niż rok wcześniej; do tego AI Mode Google zaczyna nadgryzać przychody z reklam w wyszukiwarce.
+
+2. Blackstone, cytowane przez Financial Times, oczekuje, że Anthropic po planowanym na listopad IPO otrzyma od agencji ratingowych wysoką ocenę "śmieciową" (junk) - co odzwierciedla ryzyko związane z ogromnymi, wieloletnimi zobowiązaniami firmy na moc obliczeniową ujawnionymi w prospekcie emisyjnym.
+
+3. Nvidia rozważa zagwarantowanie wielomiliardowego finansowania dłużnego dla operatora chmury AI Nscale, który buduje centrum danych dla Anthropic w Wirginii Zachodniej - firma chce w ten sposób ułatwić realizację kosztownych projektów infrastrukturalnych swoich partnerów.
+
+4. Rumuński startup Runware planuje masową, fabryczną produkcję prefabrykowanych modułów centrów danych AI na wzór linii montażowej samochodów; docelowo (do 2028 roku) chce uruchamiać nawet 30 MW mocy dziennie, co ma radykalnie skrócić czas budowy infrastruktury AI.
+
+5. Google poinformował, że prototypowy satelita centrum danych z projektu Suncatcher jest już online i komunikuje się z Ziemią, choć jego układy TPU mogą pracować nieprzerwanie na orbicie tylko ok. 20 minut - to pierwszy krok firmy w kierunku prowadzenia obliczeń AI w kosmosie.
+
+---
+
 ## 30.10.2026
 
 1. Google ogłosił Gemini 4 Carbon - swój najsilniejszy model, skoncentrowany na cyberbezpieczeństwie (wykrywanie, exploitowanie i łatanie podatności) oraz długich, autonomicznych zadaniach programistycznych; model zajął pierwsze miejsce w rankingu Artificial Analysis Intelligence Index v5 (wynik 59), ale na razie jest dostępny tylko dla wąskiej grupy zaufanych zespołów bezpieczeństwa w ramach programu Fairwind.
