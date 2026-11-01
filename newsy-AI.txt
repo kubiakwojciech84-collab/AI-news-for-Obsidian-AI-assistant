@@ -1,3 +1,17 @@
+## 01.11.2026
+
+1. Moonshot AI udostępniło przez API swój nowy model Kimi K3.1 Pro - mieszaninę ekspertów o 2,8 bln parametrów (ok. 104 mld aktywnych) z milionowym oknem kontekstu; pełne wagi open-weight mają trafić do publikacji 4 listopada, a firma zapowiada, że celowo usunęła z treningu materiały związane z atakami cybernetycznymi, by ograniczyć ryzykowne zdolności modelu.
+
+2. Według doniesień Apple i Alibaba rozpoczynają podgląd developerski integracji modelu Qwen z Apple Intelligence na rynku chińskim od 4 listopada, z pełnym wdrożeniem zaplanowanym na grudniową aktualizację iOS 27.3.
+
+3. Bloomberg podaje, że OpenAI prowadzi wczesne rozmowy o nowej rundzie finansowania na co najmniej 30 mld USD przy wycenie rzędu 1,4 bln USD - warunki mają być jeszcze otwarte i mogą się zmienić.
+
+4. Anthropic, zgodnie z nieszczelnymi doniesieniami, złożyło pod koniec października publiczny prospekt S-1 przed planowanym na listopad (w okolicach 16.) IPO, które - jak się szacuje - może pozyskać rzędu 75 mld USD; część relacji wskazuje też na bardzo wysoką stratę netto firmy przy szybko rosnących przychodach, choć dane te nie zostały potwierdzone przez niezależne źródła.
+
+5. Pojawiły się niepotwierdzone jeszcze przez inne źródła doniesienia o trojanizowanej wersji rozszerzenia Claude Code do VS Code, które miało instalować backdoora na komputerach programistów - sprawa wymaga dalszego potwierdzenia, ale podkreśla rosnące ryzyko ataków na łańcuch dostaw narzędzi AI dla deweloperów.
+
+---
+
 ## 31.10.2026
 
 1. Według TechCrunch w boomie inwestycyjnym na infrastrukturę AI pojawiają się pierwsze pęknięcia: inwestorzy coraz bardziej niepokoją się kosztami, a Microsoft, Alphabet, Amazon, Meta i Oracle wyemitowały w 2026 roku łącznie ok. 326 mld USD długu - trzykrotnie więcej niż rok wcześniej; do tego AI Mode Google zaczyna nadgryzać przychody z reklam w wyszukiwarce.
