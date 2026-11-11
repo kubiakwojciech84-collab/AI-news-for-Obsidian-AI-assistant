@@ -1,3 +1,17 @@
+## 11.11.2026
+
+1. Według doniesień Bloomberga OpenAI zamknęło pierwszą transzę nowej rundy finansowania na ok. 11 mld USD przy wycenie firmy na poziomie 1,25 bln USD (wobec wcześniej celowanych 1,4-1,5 bln USD); w rundzie mają uczestniczyć SoftBank, MGX, Coatue Management oraz syndykat inwestorów z ZEA, a cała transza może ostatecznie sięgnąć 20 mld USD - informacje oparte na anonimowych źródłach, bez formalnego potwierdzenia przez OpenAI.
+
+2. Według nieformalnych doniesień Anthropic może zacząć formalny roadshow swojego IPO już w tygodniu 9 listopada, co pozwoliłoby na debiut na Nasdaq (pod tickerem ANT) jeszcze przed Świętem Dziękczynienia; szacunki wyceny oferty wahają się między 1,5 a 2 bln USD, ale dokładny harmonogram wciąż nie jest formalnie potwierdzony przez spółkę.
+
+3. Reuters podał, że ok. 600 tys. chipów Nvidia H200 utknęło w Hongkongu, bo Pekin nadal nie wydał zgody na ich import do Chin kontynentalnych, mimo że amerykański Departament Handlu zezwolił na sprzedaż tych układów do Chin pod określonymi warunkami bezpieczeństwa (najnowsze chipy Blackwell i Rubin pozostają poza tą zgodą).
+
+4. Amerykański Departament Handlu (BIS) zaostrzył zasady licencjonowania eksportu zaawansowanych chipów AI (H200, AMD MI325X), wymagając indywidualnej oceny wniosków także dla zagranicznych spółek-córek firm z siedzibą w Chinach - domykając wcześniejszą lukę, jaka powstała po niewdrażaniu przez administrację Trumpa reguły AI Diffusion Rule od maja 2025 roku.
+
+5. Platforma do serwowania modeli AI fal ogłosiła nową rundę finansowania (Serię F), która - po wcześniejszej rundzie Serii E na ok. 350 mln USD prowadzonej przez Sequoia Capital - wycenia spółkę na ok. 16 mld USD; dokładne warunki i wielkość najnowszej transzy różnią się między źródłami i wymagają potwierdzenia.
+
+---
+
 ## 01.11.2026
 
 1. Moonshot AI udostępniło przez API swój nowy model Kimi K3.1 Pro - mieszaninę ekspertów o 2,8 bln parametrów (ok. 104 mld aktywnych) z milionowym oknem kontekstu; pełne wagi open-weight mają trafić do publikacji 4 listopada, a firma zapowiada, że celowo usunęła z treningu materiały związane z atakami cybernetycznymi, by ograniczyć ryzykowne zdolności modelu.
