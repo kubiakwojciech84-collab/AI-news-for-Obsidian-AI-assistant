@@ -1,3 +1,17 @@
+## 12.11.2026
+
+1. Anthropic złożyło publicznie prospekt S-1 (zaktualizowany 2 listopada o wyniki III kwartału) i zmierza do debiutu na Nasdaq pod tickerem ANT; roadshow IPO ma wystartować w tygodniu 9 listopada, a wycenę oferty szacuje się na 1,5-2 bln USD przy emisji akcji na poziomie rzędu 100 mld USD, z Goldman Sachs i Morgan Stanley na czele syndykatu 22 banków.
+
+2. Dostawca infrastruktury do serwowania modeli AI, Fireworks AI, poinformował klientów 9 listopada o włamaniu z 24 października, w którym atakujący uzyskali dostęp do danych rozliczeniowych, a w części przypadków także do sekretów, zbiorów danych i niekompletnych wag modeli - to już drugi znany incydent bezpieczeństwa tej firmy w ciągu kilku tygodni.
+
+3. Google zaczęło stopniowo udostępniać Gemini 4 Carbon, nowy flagowy model skoncentrowany na cyberbezpieczeństwie, najpierw zespołom defensywnym i partnerom branżowym; wprowadzono wstępne ceny API (2 USD za milion tokenów wejściowych, 10 USD za wyjściowe, ze wzrostem po 30 listopada), choć pełne publiczne API wciąż nie jest dostępne.
+
+4. CoreWeave, jeden z kluczowych dostawców infrastruktury AI typu "neocloud" (w którego Nvidia zainwestowała wcześniej 2 mld USD), opublikowało 10 listopada wyniki za III kwartał na tle obaw o wysokie koszty odsetkowe (do 940 mln USD) i presję marż; reakcja rynku była traktowana jako test nastrojów wobec całego sektora AI przed wynikami Nvidii zaplanowanymi na 17 listopada.
+
+5. Według nieoficjalnych doniesień (zrzuty ekranu, analiza branżowego analityka) OpenAI testuje nowy hub "Claim your business in ChatGPT", który pozwoliłby zweryfikowanym firmom śledzić, jak często są wymieniane w odpowiedziach ChatGPT oraz liczbę kliknięć na ich stronę - firma nie potwierdziła jeszcze oficjalnie tej funkcji ani zasad weryfikacji.
+
+---
+
 ## 11.11.2026
 
 1. Według doniesień Bloomberga OpenAI zamknęło pierwszą transzę nowej rundy finansowania na ok. 11 mld USD przy wycenie firmy na poziomie 1,25 bln USD (wobec wcześniej celowanych 1,4-1,5 bln USD); w rundzie mają uczestniczyć SoftBank, MGX, Coatue Management oraz syndykat inwestorów z ZEA, a cała transza może ostatecznie sięgnąć 20 mld USD - informacje oparte na anonimowych źródłach, bez formalnego potwierdzenia przez OpenAI.
