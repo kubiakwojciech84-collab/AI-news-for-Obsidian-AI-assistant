@@ -1,3 +1,17 @@
+## 13.11.2026
+
+1. Prezes i współzałożyciel Nvidii Jensen Huang zrezygnował z funkcji CEO w związku ze skandalem obejmującym pozamałżeńskie romanse (w tym z osobą podejrzewaną o związki z chińskim wywiadem) oraz śledztwem zarządu w sprawie bezpieczeństwa narodowego; tymczasowo funkcję przejęła dyrektor finansowa Colette Kress, a wycena spółki spadła o ok. 1,76 bln USD, przy czym prezydent Trump publicznie zaproponował na jego miejsce szefa Apple Tima Cooka.
+
+2. Anthropic ruszyło z roadshow swojego IPO na Nasdaq, ustalając przedział cenowy oferty na 70-78 USD za akcję (łącznie 825 mln akcji) pod tickerem ANT; wycena ceny oferty jest oczekiwana ok. 18 listopada, a debiut giełdowy - około 19 listopada, tuż przed Świętem Dziękczynienia.
+
+3. Fundusz venture capital Norwest Venture Partners zebrał nowy fundusz o wartości 4 mld USD, który ma być przeznaczony głównie na inwestycje w AI fizyczne (robotykę), głosowe AI, cyberbezpieczeństwo agentowe oraz zastosowania w sektorze aerokosmicznym.
+
+4. Rzecznik generalny Trybunału Sprawiedliwości UE zarekomendował przywrócenie nałożonej na Google kary antymonopolowej w wysokości 1,49 mld euro (ok. 1,7 mld USD) za praktyki w usłudze AdSense z lat 2006-2016, uznaną wcześniej za nieważną przez niższy sąd unijny; ostateczny wyrok Trybunału ma zapaść w kolejnych miesiącach.
+
+5. Adobe na konferencji MAX 2026 zaprezentowało (w wersji podglądowej) integrację Photoshopa, Illustratora, Premiere i After Effects z protokołem MCP, umożliwiającą zewnętrznym agentom AI edytowanie natywnych plików projektowych lokalnie na komputerze użytkownika, a także rozwinęło agentowego asystenta Firefly obsługującego całą Creative Cloud za pomocą języka naturalnego.
+
+---
+
 ## 12.11.2026
 
 1. Anthropic złożyło publicznie prospekt S-1 (zaktualizowany 2 listopada o wyniki III kwartału) i zmierza do debiutu na Nasdaq pod tickerem ANT; roadshow IPO ma wystartować w tygodniu 9 listopada, a wycenę oferty szacuje się na 1,5-2 bln USD przy emisji akcji na poziomie rzędu 100 mld USD, z Goldman Sachs i Morgan Stanley na czele syndykatu 22 banków.
