@@ -1,3 +1,17 @@
+## 15.11.2026
+
+1. W ramach swojego IPO na Nasdaq (przedział cenowy 70-78 USD za akcję, wycena do ok. 1,4 bln USD) Anthropic domknęło równoległą prywatną emisję akcji klasy N o wartości 26 mld USD, objętą m.in. przez Nvidię, Google i Microsoft; debiut giełdowy pod tickerem ANT oczekiwany jest w tygodniu 16-19 listopada, przed Świętem Dziękczynienia.
+
+2. Według doniesień Bloomberga OpenAI pozyskało już ponad 11 mld USD w ramach trwającej rundy finansowania, która wycenia spółkę na ok. 1,25 bln USD, a kolejne zamknięcia rundy mają nastąpić w najbliższych tygodniach.
+
+3. Meta kontynuuje odchodzenie od marki Llama na rzecz nowej rodziny modeli Muse (Muse Spark, Muse Image oraz otwarty Muse Glimmer), rozwijanej przez zreorganizowane laboratorium Superintelligence Labs po opóźnieniu następcy Llamy (kodowego "Avocado"); rozwój AI firma wspiera też niedawną emisją akcji i obligacji o wartości ok. 35 mld USD.
+
+4. Amerykańscy urzędnicy wskazują, że chińska firma Moonshot AI wytrenowała model Kimi K3 z użyciem zakazanych do eksportu układów Nvidia Blackwell, zdobytych poprzez obejście amerykańskich kontroli eksportowych i chińskich kontroli importowych oraz wynajem mocy obliczeniowej w zagranicznych centrach danych; sprawa podgrzewa spór o skuteczność restrykcji chipowych wobec Chin.
+
+5. Notion poinformowało, że w wyniku nieautoryzowanego dostępu do systemów podwykonawcy Fireworks AI mogły zostać ujawnione zapisy rozmów z funkcji AI "Insights" dla poniżej 1% obszarów roboczych; firma zaleciła poszkodowanym użytkownikom zmianę haseł i kluczy API wcześniej wklejanych do czatu AI.
+
+---
+
 ## 14.11.2026
 
 1. OpenAI formalnie uruchomiło w becie funkcję "Businesses in ChatGPT" - zweryfikowane profile firmowe (Business Hub) z niebieską plakietką i statystykami wzmianek/kliknięć oraz Business Agents, czyli agentów obsługujących klientów, dostępnych na start dla wybranych firm e-commerce w USA; to potwierdzenie wcześniejszych nieoficjalnych doniesień o tym projekcie.
