@@ -1,3 +1,17 @@
+## 16.11.2026
+
+1. USA wraz z ośmioma sojusznikami (m.in. Indiami, Wielką Brytanią, Koreą Południową, Katarem i ZEA) podpisały 15 listopada w ramach inicjatywy Pax Silica tzw. deklarację z San Francisco, zapowiadającą stworzenie wspólnego rejestru newralgicznych technologii AI i łańcucha dostaw (półprzewodniki, sprzęt do produkcji chipów, metale ziem rzadkich), które mają być chronione przed dostępem Chin; sama treść rejestru nie została jeszcze opublikowana.
+
+2. OpenAI udostępniło 5 listopada wybranym klientom programu Daybreak Red model GPT-6 Cyber, wyspecjalizowaną pod kątem cyberbezpieczeństwa wersję GPT-6 Astra o podwyższonej (z "wysokiej" do "krytycznej") ocenie zdolności do wykrywania podatności i tworzenia exploitów, z naciskiem na trzymanie się autoryzowanego zakresu działań (ok. 99,9% testów bez wyjścia poza zakres wg danych OpenAI).
+
+3. CrowdStrike ogłosiło 3 listopada na konferencji Fal.Con Europe w Barcelonie przejęcie dwóch startupów zajmujących się bezpieczeństwem AI - Fiddler AI (obserwowalność i wyjaśnialność agentów, trafi do oferty jako Falcon Observe) oraz Dreadnode (automatyczne testowanie bezpieczeństwa AI); nieoficjalnie (wg WSJ) łączna wartość transakcji to ok. 495 mln USD.
+
+4. Five9 podpisało 5 listopada umowę przejęcia Level AI, platformy AI dla zespołów obsługi klienta (ok. 20 mln USD ARR, klienci m.in. Gusto i Chime), za ok. 325 mln USD w gotówce; narzędzia Level AI mają być sprzedawane zarówno w ramach platformy Five9, jak i jako produkt niezależny dla klientów korzystających z innych systemów contact center.
+
+5. United Airlines poinformowały 11 listopada o zablokowaniu nieautoryzowanym zewnętrznym agentom AI możliwości dokonywania rezerwacji i zmian w biletach poprzez swoje systemy (zapisane w regulaminie przewozu), powołując się na ryzyko dla prywatności danych klientów i nieautoryzowanego wykorzystania mil MileagePlus; agenci AI nadal mogą wyświetlać oferty United, ale nie dokończą zakupu bez autoryzacji linii.
+
+---
+
 ## 15.11.2026
 
 1. W ramach swojego IPO na Nasdaq (przedział cenowy 70-78 USD za akcję, wycena do ok. 1,4 bln USD) Anthropic domknęło równoległą prywatną emisję akcji klasy N o wartości 26 mld USD, objętą m.in. przez Nvidię, Google i Microsoft; debiut giełdowy pod tickerem ANT oczekiwany jest w tygodniu 16-19 listopada, przed Świętem Dziękczynienia.
