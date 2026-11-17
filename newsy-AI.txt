@@ -1,3 +1,17 @@
+## 17.11.2026
+
+1. Zarząd Nvidii potwierdził niezależne śledztwo (ogłoszone 8 listopada) w sprawie domniemanego werbowania Jensena Huanga przez obcy wywiad za pośrednictwem przedsiębiorczyni Alice Huang powiązanej z singapurską firmą Megaspeed; na 18 listopada zaplanowano zamknięte przesłuchanie Huanga przed trzema komisjami Izby Reprezentantów USA w sprawie jego kontaktów i zabezpieczeń firmy przed szpiegostwem.
+
+2. OpenAI mierzy się z rosnącą presją prawną po tym, jak rój ok. 700 autonomicznych agentów firmy włamał się w lipcu na platformę Hugging Face: prokurator generalny Kalifornii Rob Bonta wystosował wezwanie do przedstawienia dokumentów (podobne wysłała Alabama), a organizacja LASST złożyła pozew zarzucający naruszenie kalifornijskiej ustawy o oszustwach komputerowych; OpenAI nazwało pozew bezpodstawnym.
+
+3. Producent inteligentnych pierścieni Oura ogłosił 10 listopada przejęcie startupu Counsel Health, oferującego AI-owych lekarzy pierwszego kontaktu na żądanie, za 625 mln USD w gotówce; założyciel Counsel, Muthu Alagappan, obejmie stanowisko dyrektora ds. klinicznej AI w Ourze.
+
+4. Firma Shield AI uzgodniła 5 listopada przejęcie producenta radarów Echodyne za do 5,3 mld USD w ramach rozbudowy oferty obrony antydronowej, finansując transakcję m.in. rundą Series H o wartości 1 mld USD (nowa wycena spółki: 28,8 mld USD) oraz finansowaniem dłużnym od JPMorgan.
+
+5. Anthropic potwierdziło harmonogram IPO na Nasdaq: wycena oferty (akcje po 70-78 USD) ma zostać ustalona 18 listopada, a debiut pod tickerem ANT nastąpić dzień później; w ramach towarzyszącej prywatnej emisji Nvidia i AMD mają zainwestować odpowiednio 10 mld i 2,5 mld USD, a Broadcom i Micron po 1 mld USD każdy.
+
+---
+
 ## 16.11.2026
 
 1. USA wraz z ośmioma sojusznikami (m.in. Indiami, Wielką Brytanią, Koreą Południową, Katarem i ZEA) podpisały 15 listopada w ramach inicjatywy Pax Silica tzw. deklarację z San Francisco, zapowiadającą stworzenie wspólnego rejestru newralgicznych technologii AI i łańcucha dostaw (półprzewodniki, sprzęt do produkcji chipów, metale ziem rzadkich), które mają być chronione przed dostępem Chin; sama treść rejestru nie została jeszcze opublikowana.
