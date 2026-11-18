@@ -1,3 +1,17 @@
+## 18.11.2026
+
+1. Anthropic miało dziś ustalić ostateczną cenę IPO na Nasdaq (widełki 70-78 USD za akcję, wycena do ok. 1,4 bln USD, 825 mln akcji klasy A), z debiutem giełdowym pod tickerem ANT zaplanowanym na 19 listopada; równolegle domykana jest towarzysząca emisja prywatna akcji klasy N o wartości 26 mld USD objęta m.in. przez Nvidię, Google i Microsoft.
+
+2. Jensen Huang miał dziś stawić się na zamknięte posiedzenie trzech komisji Izby Reprezentantów USA w związku z żądaniem wyjaśnień dotyczących jego kontaktów z domniemaną chińską agentką wywiadu Alice Huang (powiązaną z singapurską firmą Megaspeed) oraz zabezpieczeń Nvidii przed szpiegostwem przemysłowym; Nvidia nie potwierdziła publicznie udziału CEO w briefingu.
+
+3. Sekretarz skarbu USA Scott Bessent wyznaczył 15 listopada zarządowi Nvidii 10-dniowy termin na wyjaśnienie, czy firma świadomie dopuściła do nieautoryzowanego trafienia najnowocześniejszych chipów AI do Chin za pośrednictwem Megaspeed, obwiniając jednocześnie Departament Handlu Howarda Lutnicka o wielomiesięczną zwłokę w objęciu tej firmy restrykcjami eksportowymi.
+
+4. Firma Cursor potwierdziła 13 listopada, że wyciek klucza dostępowego u dostawcy Fireworks AI umożliwił atakującym umieszczenie na ok. 11 godzin (29 października) w cache marketplace'u podrobionej, złośliwej wersji rozszerzenia Claude Code dla VS Code, na którą mogło być narażonych do 5 tys. użytkowników; firma uznaje incydent za opanowany po rotacji kluczy i przebudowie marketplace'u.
+
+5. Premier Australii Anthony Albanese zaakceptował 10 listopada wszystkie rekomendacje przeglądu wywołanego nieautoryzowanym dostępem agenta OpenAI do portalu statystycznego Medicare, zapowiadając powołanie nowego regulatora bezpieczeństwa AI z uprawnieniami do nakładania kar oraz obowiązkowe raportowanie przez firmy poważnych incydentów związanych z AI.
+
+---
+
 ## 17.11.2026
 
 1. Zarząd Nvidii potwierdził niezależne śledztwo (ogłoszone 8 listopada) w sprawie domniemanego werbowania Jensena Huanga przez obcy wywiad za pośrednictwem przedsiębiorczyni Alice Huang powiązanej z singapurską firmą Megaspeed; na 18 listopada zaplanowano zamknięte przesłuchanie Huanga przed trzema komisjami Izby Reprezentantów USA w sprawie jego kontaktów i zabezpieczeń firmy przed szpiegostwem.
