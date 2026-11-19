@@ -1,3 +1,17 @@
+## 19.11.2026
+
+1. Anthropic zadebiutowało 19 listopada na Nasdaq pod tickerem ANT po tym, jak dzień wcześniej ustalono cenę IPO na 83 USD za akcję (powyżej widełek 70-78 USD), co oznacza pozyskanie ok. 81,3 mld USD i wycenę spółki na ok. 1,5 bln USD.
+
+2. AMD sfinalizowało 16 listopada przejęcie startupu World Labs współzałożonego przez Fei-Fei Li za 8,2 mld USD w akcjach (umowa ogłoszona 28 września), a sama Li objęła stanowisko głównej naukowiec AMD.
+
+3. Wspierany przez Alphabet/Google DeepMind startup Isomorphic Labs ogłosił 17 listopada rundę Series C o wartości 5 mld USD (2,4 razy większą od majowej rundy 2,1 mld USD), prowadzoną przez Sequoia i Greenoaks, z przeznaczeniem środków na rozwój infrastruktury obliczeniowej i przesunięcie pierwszych zaprojektowanych przez AI leków do badań klinicznych.
+
+4. Alibaba udostępniło 16 listopada flagowy model Qwen4-Max (2,4 bln parametrów, okno kontekstu 1 mln tokenów) wyłącznie poprzez API, wycofując się z wcześniejszej deklaracji udostępniania wag modeli Max; firma twierdzi, że model redukuje koszt wykonania zadań o 60% i rywalizuje wydajnością z najnowszymi modelami Anthropic i OpenAI.
+
+5. Źródła CNBC poinformowały 16 listopada, że zarząd Nvidii nie rozważa powrotu Jensena Huanga na stanowisko CEO po jego rezygnacji z 12 listopada; firma zaangażowała agencję Heidrick & Struggles do poszukiwań nowego szefa, podczas gdy trwa niezależne śledztwo kancelarii Wachtell Lipton oraz 10-dniowy termin wyznaczony przez sekretarza skarbu Bessenta na wyjaśnienie zgodności eksportu chipów z przepisami.
+
+---
+
 ## 18.11.2026
 
 1. Anthropic miało dziś ustalić ostateczną cenę IPO na Nasdaq (widełki 70-78 USD za akcję, wycena do ok. 1,4 bln USD, 825 mln akcji klasy A), z debiutem giełdowym pod tickerem ANT zaplanowanym na 19 listopada; równolegle domykana jest towarzysząca emisja prywatna akcji klasy N o wartości 26 mld USD objęta m.in. przez Nvidię, Google i Microsoft.
