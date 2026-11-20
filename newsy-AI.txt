@@ -1,3 +1,17 @@
+## 20.11.2026
+
+1. OpenAI udostępniło 17 listopada nowe modele GPT-6.2 Astra (flagowy) i GPT-6.2 Sol (wydajnościowy) w ChatGPT oraz przez API, twierdząc, że Astra prowadzi w benchmarku AA-3D przed Claude Fable 5.2 Anthropic; reakcja zaawansowanych użytkowników była jednak w dużej mierze negatywna, a część testów niezależnych wskazuje, że Astra nie poprawiła wyników w zadaniach agentowego kodowania.
+
+2. Prezes OpenAI ds. technicznych Greg Brockman oraz szef zespołu czipowego Richard Ho ujawnili, że modele AI firmy samodzielnie zaprojektowały optymalizacje układu scalonego Jalapeño (powstającego we współpracy z Broadcomem), redukując powierzchnię wybranych bloków nawet o ok. 13%; Ho przyznał jednak, że inżynierowie nie zawsze rozumieją, dlaczego zaproponowane przez AI zmiany działają, a druga generacja chipu trafiła już do laboratoryjnej kwalifikacji.
+
+3. Startup Noeri, założony przez badaczy ze Stanfordu Yejin Choi i Carlosa Guestrina i budujący samodoskonalące się systemy AI, ogłosił 16 listopada pozyskanie 110 mln USD w rundzie prowadzonej przez Menlo Ventures.
+
+4. Firma Corma, tworząca wyspecjalizowane zabezpieczenia AI przed cyberatakami, pozyskała 16 listopada 125 mln USD finansowania przy wycenie na ok. 1 mld USD.
+
+5. Według doniesień CNBC z 12 listopada OpenAI miało pozyskać ok. 15 mld USD finansowania przy wycenie spółki na 1,25 bln USD; firma oficjalnie nie potwierdziła tej rundy.
+
+---
+
 ## 19.11.2026
 
 1. Anthropic zadebiutowało 19 listopada na Nasdaq pod tickerem ANT po tym, jak dzień wcześniej ustalono cenę IPO na 83 USD za akcję (powyżej widełek 70-78 USD), co oznacza pozyskanie ok. 81,3 mld USD i wycenę spółki na ok. 1,5 bln USD.
