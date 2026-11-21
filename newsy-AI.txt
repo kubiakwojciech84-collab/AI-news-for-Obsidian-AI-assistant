@@ -1,3 +1,17 @@
+## 21.11.2026
+
+1. Mimo udanego debiutu Anthropic na Nasdaq 19 listopada (akcje zamknęły się ok. 17% powyżej ceny IPO), Wall Street odnotowało najdłuższą serię spadkową od 2024 roku — Dow Jones stracił ponad 1100 punktów, a akcje Nvidii, AMD i Micron spadły w obliczu narastających obaw, że tempo inwestycji kapitałowych w AI przewyższa realne zwroty.
+
+2. Przewodniczący komisji Izby Reprezentantów Brian Mast ujawnił 19 listopada dokumenty Departamentu Handlu, z których wynika, że od grudnia 2025 do maja 2026 zatwierdzono eksport do Chin 879 tys. chipów AI (Nvidia H200 i AMD MI325X) z 3,4 mln, o które starały się chińskie firmy; Nvidia podała, że od tego czasu wstrzymała dostawy H200 do Chin.
+
+3. Chiński startup DeepSeek zamknął ok. 20 listopada drugą zewnętrzną rundę finansowania o wartości około 15 mld USD (ok. 100 mld juanów), co czyni ją jedną z największych tegotygodniowych rund inwestycyjnych w sektorze AI.
+
+4. Według doniesień Bloomberga z 20 listopada startup Cognition AI, twórca narzędzia do programowania Devin, prowadzi rozmowy o nowej rundzie finansowania przy wycenie ok. 75 mld USD — zaledwie dwa miesiące po poprzednim rundzie inwestycyjnej.
+
+5. Google DeepMind udostępniło 18 listopada model Gemini 4 Neon, pozycjonowany pomiędzy flagowym Gemini 4 Carbon a szybszym Gemini 4 Hydrogen; firma podaje, że model zajął pierwsze miejsce w indeksie Artificial Analysis Coding Agent przy niższym koszcie wykonania zadań niż Carbon.
+
+---
+
 ## 20.11.2026
 
 1. OpenAI udostępniło 17 listopada nowe modele GPT-6.2 Astra (flagowy) i GPT-6.2 Sol (wydajnościowy) w ChatGPT oraz przez API, twierdząc, że Astra prowadzi w benchmarku AA-3D przed Claude Fable 5.2 Anthropic; reakcja zaawansowanych użytkowników była jednak w dużej mierze negatywna, a część testów niezależnych wskazuje, że Astra nie poprawiła wyników w zadaniach agentowego kodowania.
