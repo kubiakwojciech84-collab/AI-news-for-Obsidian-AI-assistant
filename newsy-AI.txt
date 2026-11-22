@@ -1,3 +1,17 @@
+## 22.11.2026
+
+1. Według doniesień Wall Street Journal i Reutersa z połowy listopada, amerykańska SEC otworzyła dochodzenie w sprawie ujawnień Nvidii pod kątem możliwego wprowadzania inwestorów w błąd, co nastąpiło po rezygnacji Jensena Huanga; od 8 listopada wobec spółki i jej zarządu wniesiono już co najmniej dwa pozwy, a firma nie ma pełnego ubezpieczenia D&O pokrywającego koszty własnej obrony.
+
+2. Badacz bezpieczeństwa z Dragos, HD Moore, wysłał do dostawców usług AI ok. 2 mln „przynętowych” sekretów w promptach testowych, wykrywając co najmniej trzech dostawców z realnym wyciekiem danych oraz praktyki logowania promptów przez resellerów mimo deklarowanej polityki zerowej retencji.
+
+3. Prezydent Trump zagroził „ogromnym podatkiem” dla firm budujących centra danych AI poza Stanami Zjednoczonymi, zaostrzając spór o to, gdzie powinna powstawać infrastruktura obliczeniowa dla sztucznej inteligencji.
+
+4. Anthropic i OpenAI w minionym tygodniu wprowadziły przebudowane aplikacje mobilne; nowa wersja Claude zawiera betę funkcji Computer Use, pozwalającą modelowi obsługiwać zatwierdzone aplikacje desktopowe na planach Team i Enterprise.
+
+5. Prezydent Trump publicznie wezwał zarząd Nvidii, by na następcę Jensena Huanga wybrał Tima Cooka; poszukiwania nowego CEO trwają pod tymczasowym kierownictwem CFO Colette Kress, a wśród innych wymienianych kandydatów są Lisa Su i Rene Haas.
+
+---
+
 ## 21.11.2026
 
 1. Mimo udanego debiutu Anthropic na Nasdaq 19 listopada (akcje zamknęły się ok. 17% powyżej ceny IPO), Wall Street odnotowało najdłuższą serię spadkową od 2024 roku — Dow Jones stracił ponad 1100 punktów, a akcje Nvidii, AMD i Micron spadły w obliczu narastających obaw, że tempo inwestycji kapitałowych w AI przewyższa realne zwroty.
