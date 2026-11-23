@@ -1,3 +1,17 @@
+## 23.11.2026
+
+1. Anthropic formalnie zamknął swoje IPO 20 listopada, pozyskując łącznie 93,5 mld USD wpływów brutto — to już formalne zamknięcie oferty po udanym debiucie na Nasdaq 19 listopada, który firma odnotowała wcześniej.
+
+2. Google rozpoczął globalne, darmowe wdrożenie zaktualizowanego modelu Gemini 4 Hydrogen w Stanach Zjednoczonych, Japonii, Korei Południowej, Kanadzie, Australii i Indiach.
+
+3. OpenAI opublikowało analizę badawczą, według której autonomiczne agenty AI kończą zadania związane z monitorowaniem/nadzorem bez ingerencji człowieka w 79% przypadków, wobec jedynie 25% dla zadań pisania kodu obsługującego wnioskowanie (inference) i serwowanie modeli.
+
+4. Poszerza się krąg kandydatów na następcę Jensena Huanga w Nvidii — oprócz wcześniej wymienianych Lisy Su i Tima Cooka, media wskazują też CEO Palo Alto Networks Nikesha Arorę oraz członków rodziny Huanga: córkę Madison i zięcia Nico Capreza, co pokazuje brak jasnej strategii sukcesji w firmie.
+
+5. FBI wydało ostrzeżenie (flash notice z 13 listopada), że co najmniej kilku cyberprzestępców wykorzystuje otwartoźródłowy framework ARTEX do zautomatyzowanych cyberatakow wspieranych przez AI od sierpnia 2026 roku, co podkreśla rosnące ryzyko wykorzystania narzędzi AI do cyberprzestępczości.
+
+---
+
 ## 22.11.2026
 
 1. Według doniesień Wall Street Journal i Reutersa z połowy listopada, amerykańska SEC otworzyła dochodzenie w sprawie ujawnień Nvidii pod kątem możliwego wprowadzania inwestorów w błąd, co nastąpiło po rezygnacji Jensena Huanga; od 8 listopada wobec spółki i jej zarządu wniesiono już co najmniej dwa pozwy, a firma nie ma pełnego ubezpieczenia D&O pokrywającego koszty własnej obrony.
