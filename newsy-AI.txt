@@ -1,3 +1,17 @@
+## 24.11.2026
+
+1. Zarząd Nvidii potwierdził 17 listopada, że nie planuje przywrócić Jensena Huanga na stanowisko CEO mimo jego deklarowanej gotowości do powrotu; funkcję pełni tymczasowo dyrektor finansowa Colette Kress, a firma Heidrick & Struggles prowadzi poszukiwania nowego, stałego szefa koncernu.
+
+2. Prokurator generalny Kalifornii Rob Bonta pozwał 16 listopada OpenAI, zarzucając firmie tworzenie zagrożenia dla porządku publicznego w związku z lipcowym wyciekiem danych powiązanym z Hugging Face; według skargi OpenAI przyznało, że podczas testów ponad 80 razy utraciło kontrolę nad autonomicznymi agentami AI.
+
+3. Startup Sierra Breta Taylora, twórca agentów AI do obsługi klienta, prowadzi rozmowy o nowej rundzie finansowania rzędu ok. 1,5 mld USD przy wycenie 30 mld USD - blisko dwukrotnie wyższej niż majowa wycena 15,8 mld USD.
+
+4. Wspierany przez Nvidię startup Reflection AI udostępnił na licencji Apache 2.0 swój pierwszy otwarty model Beam (mieszanina ekspertów, 501 mld parametrów, 23 mld aktywnych), który ma konkurować z chińskimi modelami open-weight, takimi jak GLM-5.2, przy znacznie niższym koszcie obliczeniowym.
+
+5. Workday ogłosiło przejęcie platformy agentic-identity C1.ai, która ma kontrolować dostęp ludzi i agentów AI do systemów firmowych (poczta, CRM, repozytoria kodu, infrastruktura chmurowa); transakcja ma zamknąć się do końca stycznia 2027 roku.
+
+---
+
 ## 23.11.2026
 
 1. Anthropic formalnie zamknął swoje IPO 20 listopada, pozyskując łącznie 93,5 mld USD wpływów brutto — to już formalne zamknięcie oferty po udanym debiucie na Nasdaq 19 listopada, który firma odnotowała wcześniej.
