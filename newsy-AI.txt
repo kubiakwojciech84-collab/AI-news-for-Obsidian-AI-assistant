@@ -1,3 +1,17 @@
+## 25.11.2026
+
+1. Zarząd Nvidii jednogłośnie przywrócił 23 listopada Jensena Huanga na stanowisko CEO i prezesa, odwracając wcześniejszą decyzję o jego odejściu po ujawnieniu afer osobistych - decyzja zapadła po interwencji najwyższych szczebli administracji USA, a akcje Nvidii zyskały ponad 31%; dotychczasowa tymczasowa CEO Colette Kress wraca do roli dyrektor finansowej.
+
+2. Debiut giełdowy Anthropic z 19 listopada nie uspokoił rynku AI - 20 listopada indeks S&P 500 spadł o ok. 2% (najdłuższa seria spadków od 2024 r.), a akcje Nvidii, AMD i innych firm związanych z AI poszły w dół; w dokumentach SEC Anthropic ujawniło stratę netto 104 mld USD za pierwsze dziewięć miesięcy 2026 roku.
+
+3. Według doniesień Bloomberga OpenAI zamknęło pierwszą transzę nowej rundy finansowania na ok. 11 mld USD przy wycenie 1,25 bln USD, ograniczając wcześniejsze ambicje (30 mld USD przy wycenie 1,4-1,5 bln USD) w związku z wyprzedażą na rynku spółek AI; cała runda może ostatecznie sięgnąć 20 mld USD.
+
+4. New York Times ujawnił, że singapurski Megaspeed - głównie finansowany i zasilany zamówieniami Alibaby - kupił za ponad 4 mld USD chipów Nvidii trafiających do centrum danych w Malezji, a Alibaba współtworzyła powiązane z chińską armią Zhejiang Lab; władze USA badają, czy Megaspeed przemycał zakazane układy do Chin, a Alibaba zaprzecza jakimkolwiek związkom z wojskiem.
+
+5. OpenAI uruchomiło ChatGPT Wallet - funkcję pozwalającą agentom AI ("dots") robić zakupy w imieniu użytkownika bez dostępu do danych karty płatniczej dzięki tokenizowanym kartom wirtualnym; usługa, zbudowana z Amex, Mastercard i Visa, na start działa tylko dla płatnych użytkowników ChatGPT Pro w USA.
+
+---
+
 ## 24.11.2026
 
 1. Zarząd Nvidii potwierdził 17 listopada, że nie planuje przywrócić Jensena Huanga na stanowisko CEO mimo jego deklarowanej gotowości do powrotu; funkcję pełni tymczasowo dyrektor finansowa Colette Kress, a firma Heidrick & Struggles prowadzi poszukiwania nowego, stałego szefa koncernu.
