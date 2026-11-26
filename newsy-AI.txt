@@ -1,3 +1,17 @@
+## 26.11.2026
+
+1. Google zgodził się zabezpieczyć kredytowo (credit backstop) część zobowiązań Anthropic wynikających z 20-letniej, wartej ok. 19 mld USD umowy dzierżawy centrum danych TeraWulf w Hawesville w Kentucky (ok. 401 MW); Google nie buduje ani nie finansuje kampusu, ale w razie niewypłacalności może spłacić czynsz i przejąć umowę.
+
+2. Meta Superintelligence Labs wypuściło Muse Ember - najmniejszy i najbardziej efektywny model z rodziny Muse, zoptymalizowany pod powtarzalne zadania agentowe (wywołania narzędzi, fragmenty kodu, routing, ekstrakcja danych); model dostępny jest przez API jako muse-ember-1.0 z milionowym oknem kontekstu, a jego wagi pozostają zastrzeżone.
+
+3. Chiński DeepSeek zamknął rundę finansowania na ok. 15 mld USD (ponad 105 mld juanów) od Tencent, CATL, Meituan i Geely przy wycenie ok. 74-75 mld USD, co ma przygotować spółkę do planowanego IPO w Szanghaju i wzmocnić jej pozycję w wyścigu z OpenAI i Anthropic.
+
+4. Anthropic ujawnił, że przepisał backend swojego Messages API z Pythona na język Rust, przy czym większość kodu napisał sam model Claude, a zespół inżynierski wcześniej nie miał doświadczenia w tym języku; firma deklaruje spadek zużycia CPU na zapytanie o 40-50%.
+
+5. Akcje Anthropic po raz pierwszy od debiutu spadły poniżej ceny z IPO (83 USD) w trakcie gwałtownej przeceny spółek technologicznych na Wall Street 25 listopada, pogłębiając niepokój inwestorów związany z wcześniej ujawnioną rekordową stratą netto spółki.
+
+---
+
 ## 25.11.2026
 
 1. Zarząd Nvidii jednogłośnie przywrócił 23 listopada Jensena Huanga na stanowisko CEO i prezesa, odwracając wcześniejszą decyzję o jego odejściu po ujawnieniu afer osobistych - decyzja zapadła po interwencji najwyższych szczebli administracji USA, a akcje Nvidii zyskały ponad 31%; dotychczasowa tymczasowa CEO Colette Kress wraca do roli dyrektor finansowej.
