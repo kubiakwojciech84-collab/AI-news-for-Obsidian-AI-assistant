@@ -1,3 +1,17 @@
+## 27.11.2026
+
+1. Google rozpoczęło wymuszanie na deweloperach agentów przejścia z REST API na protokół MCP (Model Context Protocol) z terminem do 1 lutego 2027 r.; w nowym modelu dostępu serwer MCP dla Gmaila pozwala większości integracji jedynie czytać skrzynkę, podczas gdy pełny dostęp do wysyłania wiadomości otrzymał na starcie wyłącznie Anthropic, co wywołało pytania o uprzywilejowanie wybranych partnerów.
+
+2. Google DeepMind przekazało autonomicznym agentom AI kontrolę nad częścią własnej infrastruktury obliczeniowej, pozwalając im samodzielnie przydzielać zasoby i prowadzić eksperymenty badawcze nad modelami z rodziny Gemini bez bezpośredniego nadzoru inżynierów na każdym kroku.
+
+3. Główny naukowiec OpenAI Jakub Pachocki zaproponował wprowadzenie wspólnych, uzgodnionych między laboratoriami AI limitów rozwoju najbardziej zaawansowanych modeli, które byłyby stopniowo podnoszone wraz z postępem technik monitorowania bezpieczeństwa systemów.
+
+4. W zaktualizowanym prospekcie S-1, złożonym już po listopadowym debiucie giełdowym, Anthropic ujawnił przychody za III kwartał 2026 r. na poziomie 16,96 mld USD, co oznacza wzrost o 1127% rok do roku, choć spółka wcześniej informowała także o rekordowej stracie netto.
+
+5. Google udostępniło Gemini 3.8 Text-to-Speech w swoich API Cloud AI Platform, oferując 24 neuronowe profile głosowe do syntezy mowy dla deweloperów budujących aplikacje głosowe i asystentów.
+
+---
+
 ## 26.11.2026
 
 1. Google zgodził się zabezpieczyć kredytowo (credit backstop) część zobowiązań Anthropic wynikających z 20-letniej, wartej ok. 19 mld USD umowy dzierżawy centrum danych TeraWulf w Hawesville w Kentucky (ok. 401 MW); Google nie buduje ani nie finansuje kampusu, ale w razie niewypłacalności może spłacić czynsz i przejąć umowę.
