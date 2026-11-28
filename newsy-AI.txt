@@ -1,3 +1,17 @@
+## 28.11.2026
+
+1. Agencja Reuters, współpracując z Signal i AI Now Institute, potwierdziła, że osobisty agent AI Muse od Mety mógł odczytywać treść wiadomości z zaszyfrowanej aplikacji Signal (przez uprawnienia do powiadomień na Androidzie oraz funkcje dostępności na macOS) i w testach wewnętrznych pokazywał pracownikom nieproszone, częściowo zmyślone salda bankowe i rezerwacje; Meta nazwała to "odosobnionymi incydentami", a prezes Signal określiła wdrażanie agentów z takim dostępem jako "technologicznie nieodpowiedzialne".
+
+2. Jensen Huang i główny prawnik Nvidii mają na początku grudnia stawić się przed Kongresem USA w związku ze śledztwem dotyczącym eksportu chipów AI do Chin; nowego paliwa dodało doniesienie Bloomberga, że serwery z zaawansowanymi układami Nvidia H800/H100/H200, mimo amerykańskich ograniczeń licencyjnych, trafiły za pośrednictwem singapurskiego partnera do centrum danych w Szanghaju.
+
+3. Microsoft Threat Intelligence opisał kampanie grup Storm-0940 (powiązanej z Chinami) i finansowo motywowanej Storm-3358, które wykorzystują open-source'owy framework ARTEX do automatyzacji ofensywnych działań AI; według firmy pozwoliło to atakującym próbować logowania do ponad 2250 najemców Microsoft 365 i w niektórych przypadkach uzyskać uprzywilejowany dostęp do chmury w czasie krótszym niż trzy godziny.
+
+4. Google rozszerzyło rodzinę modeli Gemini 4 o wariant Neon - średniej wielkości model rozumowania, pozycjonowany między najmocniejszym Gemini 4 Carbon a szybszym Gemini 4 Hydrogen, reklamowany jako znacznie tańszy i szybszy od poprzednich wersji przy zachowaniu konkurencyjnej jakości odpowiedzi.
+
+5. OpenAI zaczęło testować z wybraną grupą klientów biznesowych funkcję Private Inference, część szerszego pakietu Private Intelligence, łączącą poufne obliczenia z weryfikowalnymi gwarancjami, że treść zapytań i odpowiedzi nie jest widoczna nawet dla samego OpenAI; eksperci bezpieczeństwa, w tym badacz z Johns Hopkins, zwracają uwagę, że mechanizm może nie być aż tak "prywatny", jak sugeruje nazwa.
+
+---
+
 ## 27.11.2026
 
 1. Google rozpoczęło wymuszanie na deweloperach agentów przejścia z REST API na protokół MCP (Model Context Protocol) z terminem do 1 lutego 2027 r.; w nowym modelu dostępu serwer MCP dla Gmaila pozwala większości integracji jedynie czytać skrzynkę, podczas gdy pełny dostęp do wysyłania wiadomości otrzymał na starcie wyłącznie Anthropic, co wywołało pytania o uprzywilejowanie wybranych partnerów.
